@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-14T15:49:15.020-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-14T16:07:36.388-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
 ---
 
 ### Home
@@ -9,10 +9,12 @@ It is admittedly still a work in progress, but it is my plan to add everything o
 ### Entry into Terra Pulchra
 Here you can find a station of important links, but if you already know what you are searching for then there is a handy search function. On a computer, just look towards the top of the left sidebar, and if you are on mobile, then press on the three lines on the top left and begin your search.
 If you are bored, there is even a randomize button, if you are feeling lucky!
-#### [[Relay/,Time/The Timeline\|The Timeline]]
-[[Relay/,Time/Time\|Time]]
-#### [[Timeline 2.0\|Timeline 2.0]] ==TEST==
+#### [[Timeline 2.0\|Timeline 2.0]] ==BETA==
 [[Timeline 2.0#Session 3ao\|Current Day]]
+[[Timeline 2.0#Pre-Campaign History\|Pre-Campaign History]]
+[[Timeline 2.0#Campaign History\|Campaign History]]
+#### [[Relay/,Time/The Timeline\|Timeline 1.0]]
+[[Relay/,Time/The Timeline#Pre-Campaign History\|Pre-Campaign History]]
 #### [[Relay/Locations/World Map\|World Map]] ==NEW==
 #### [[Relay/!Players/The Players\|The Players]]
 [[Relay/!Players/Battle Perks\|Battle Perks]]

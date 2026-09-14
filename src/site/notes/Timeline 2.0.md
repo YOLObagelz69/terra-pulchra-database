@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:09:11.067-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:12:16.586-07:00","dg-note-properties":{}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -10,7 +10,7 @@ Entry Format
 	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao
 	- 00:00/00:00 - (Time of Day)
 		(tab)entry
-	###### Session (number+1)ao
+	###### Session (prevnumber+1)ao
 Legend
      ao = After (discovery of) Obsidian
      po = Pre- (discovery of) Obsidian
@@ -26,7 +26,7 @@ Legend
 
 
 #### ??? 
-- The [[Relay/Lore/Grand War\|Grand War]]
+The [[Relay/Lore/Grand War\|Grand War]]
  
 
 
@@ -46,12 +46,12 @@ After her few days journey, she finds the hunter's camp and swiftly takes the re
 
 ---
 ##### Formund 18th, 8309a - Wharfenn - Full Moon - Session 1
-- Campaign began.
+Campaign began.
 	Finding [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
 	assaulted by [[Relay/NPCs/Groups/The Goblins\|The Goblins]]
 	met [[Relay/NPCs/Bernal\|Bernal]]
 ##### Formund 19th, 8309a - Ferun - Waning Gibbous
-- Mansion dwelling for food and the Destiny that Binds us
+Mansion dwelling for food and the Destiny that Binds us
 	The floor collapsed on top of [[Relay/!Players/Mháthair Nádúr\|Mháthair Nádúr]] and [[Relay/!Players/Naomi\|Naomi]] (Thanks [[Relay/!Players/Yunai\|Yunai]]).
 	During the evening, the party was transported to the [[Relay/Locations/Night Realm/Night Realm\|Night Realm]], and met [[Relay/NPCs/Allies/The White Knight (lol)\|The White Knight (lol)]]. Here we purchased a magic item or two from his market, and we explored the realm a bit.
 ##### Formund 20th, 8309a - Sokturay - Waning Crescent
@@ -59,7 +59,7 @@ After her few days journey, she finds the hunter's camp and swiftly takes the re
 	Allying the [[Relay/NPCs/Groups/The Goblins\|The Goblin Alliance]], and Mob Mentality
 	Evening: [[Relay/NPCs/Groups/The Orcs\|Orc]] and Hag Hunting in the swamp (many dead kids (Thanks [[Relay/!Players/Yunai\|Yunai]])). Also [[Relay/!Players/Eleanor\|Eleanor]] died from divine neglect. The Hag informed us on an attack on [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] that was occurring now, so we ran for 6 hours to get back.
 ##### Formund 21st, 8309a - Saurfay - New Moon
-- The Siege of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] (and FUCK flashbangs)
+The Siege of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] (and FUCK flashbangs)
 	[[Relay/!Players/The Players\|The Players]] planned to surprise [[Relay/NPCs/Groups/The Orcs\|The Orcs]], assaulting the town and demolishing them en masse. [[Relay/!Players/Eleanor\|Eleanor]] appeared in a fiery glory, having been offered a second chance by some mysterious fire themed creature. Upon losing, the orcs started throwing their bullshit ass flashbangs and a small party of orcs managed to escape, despite [[Relay/!Players/Texaqou\|Texaqou]]'s effort.
 	After the battle, [[Relay/!Players/The Players\|The Party]] helped [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] rebuild their walls.
 ##### ...

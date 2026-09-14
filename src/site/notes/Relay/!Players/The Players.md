@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/the-players/","tags":["Characters/PC","Characters/Fatebound","Lore"],"updated":"2026-09-13T14:28:05.201-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound","Lore"],"aliases":["The Party"]}}
+{"dg-publish":true,"permalink":"/relay/players/the-players/","tags":["Characters/PC","Characters/Fatebound","Lore"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:47.205-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound","Lore"],"aliases":["The Party"]}}
 ---
 
 

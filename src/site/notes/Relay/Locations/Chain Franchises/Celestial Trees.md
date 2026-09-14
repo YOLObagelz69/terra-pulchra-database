@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/chain-franchises/celestial-trees/","tags":["Location"],"updated":"2026-09-13T18:38:57.330-07:00","dg-note-properties":{"tags":["Location"],"aliases":["Celestial Tree"]}}
+{"dg-publish":true,"permalink":"/relay/locations/chain-franchises/celestial-trees/","tags":["Location"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:37.738-07:00","dg-note-properties":{"tags":["Location"],"aliases":["Celestial Tree"]}}
 ---
 
 Truly ginormous trees that shine with beautiful golden light. Their specific purpose is unclear, but whatever they contain or repel seems to be destroyed by the death of the Tree's chosen avatars, and relates to the arrival of a [[comet\|comet]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/chain-franchises/monster-hunter-s-guild/","tags":["Groups","Location"],"updated":"2026-09-13T17:42:10.047-07:00","dg-note-properties":{"tags":["Groups","Location"]}}
+{"dg-publish":true,"permalink":"/relay/locations/chain-franchises/monster-hunter-s-guild/","tags":["Groups","Location"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:51.531-07:00","dg-note-properties":{"tags":["Groups","Location"]}}
 ---
 
 A guild of exotic game hunters who hunt down large creatures who are causing issues. 

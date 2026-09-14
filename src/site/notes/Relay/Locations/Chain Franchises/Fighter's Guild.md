@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/chain-franchises/fighter-s-guild/","tags":["Location","Groups"],"updated":"2026-09-13T17:42:04.057-07:00","dg-note-properties":{"tags":["Location","Groups"]}}
+{"dg-publish":true,"permalink":"/relay/locations/chain-franchises/fighter-s-guild/","tags":["Location","Groups"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:40.594-07:00","dg-note-properties":{"tags":["Location","Groups"]}}
 ---
 
 A place for fighters and the like to bunk and train for adventures to come. 

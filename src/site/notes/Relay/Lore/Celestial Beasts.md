@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/lore/celestial-beasts/","tags":["Lore"],"updated":"2026-09-13T18:07:30.341-07:00","dg-note-properties":{"tags":["Lore"],"aliases":["The Bear","The Bird","The Octopus","The Deer"]}}
+{"dg-publish":true,"permalink":"/relay/lore/celestial-beasts/","tags":["Lore"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:01.808-07:00","dg-note-properties":{"tags":["Lore"],"aliases":["The Bear","The Bird","The Octopus","The Deer"]}}
 ---
 
 Shimmering beasts who act as avatars to the four [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. The death of one will cause the collapse of its designated tree, as well as the nature around it.

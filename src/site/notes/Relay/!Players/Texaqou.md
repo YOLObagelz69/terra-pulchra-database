@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/texaqou/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-13T17:23:08.109-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Tex","Ten Gun Texan","Golden Thunder","Tessy","The Texan"],"Player":"Josh"}}
+{"dg-publish":true,"permalink":"/relay/players/texaqou/","tags":["Characters/PC","Characters/Fatebound"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:42.689-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Tex","Ten Gun Texan","Golden Thunder","Tessy","The Texan"],"Player":"Josh"}}
 ---
 
 Doesn't know own birthday

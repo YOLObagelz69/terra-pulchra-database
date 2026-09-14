@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/eleanor/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-13T17:22:50.812-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"Player":"Racheal"}}
+{"dg-publish":true,"permalink":"/relay/players/eleanor/","tags":["Characters/PC","Characters/Fatebound"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:28.815-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"Player":"Racheal"}}
 ---
 
 

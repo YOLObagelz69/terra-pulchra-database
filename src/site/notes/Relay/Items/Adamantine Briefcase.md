@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/items/adamantine-briefcase/","tags":["Item"],"updated":"2026-09-13T17:41:51.096-07:00","dg-note-properties":{"tags":["Item"]}}
+{"dg-publish":true,"permalink":"/relay/items/adamantine-briefcase/","tags":["Item"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:53.913-07:00","dg-note-properties":{"tags":["Item"]}}
 ---
 
 The McGuffin

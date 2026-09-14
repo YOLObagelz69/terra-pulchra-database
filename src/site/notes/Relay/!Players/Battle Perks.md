@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/battle-perks/","tags":["Lore"],"updated":"2026-09-13T17:22:46.935-07:00","dg-note-properties":{"tags":["Lore"]}}
+{"dg-publish":true,"permalink":"/relay/players/battle-perks/","tags":["Lore"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:26.324-07:00","dg-note-properties":{"tags":["Lore"]}}
 ---
 
 

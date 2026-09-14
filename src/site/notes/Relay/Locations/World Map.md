@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/world-map/","tags":["Lore","Location/Realm"],"dgEnableSearch":true,"updated":"2026-09-13T21:23:37.174-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/relay/locations/world-map/","tags":["Lore","Location/Realm"],"dgEnableSearch":true,"updated":"2026-09-13T21:31:21.530-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -30,3 +30,4 @@ The world, and everything inside.
 [[Relay/Locations/Oceans and Seas/Inanis Ocean\|Inanis Ocean]]
 [[Relay/Locations/Oceans and Seas/Errington Ocean\|Errington Ocean]]
 [[Relay/Locations/Oceans and Seas/Cauldear Ocean\|Cauldear Ocean]]
+[[Relay/Locations/Oceans and Seas/Perovion Ocean\|Perovion Ocean]]

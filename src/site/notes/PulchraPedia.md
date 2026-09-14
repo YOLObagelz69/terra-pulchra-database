@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"dgEnableSearch":true,"updated":"2026-09-13T20:11:06.401-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"dgEnableSearch":true,"updated":"2026-09-13T21:26:51.273-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
 ---
 
 ### Home
@@ -12,12 +12,13 @@ If you are bored, there is even a randomize button if you are feeling lucky!
 
 #### [[Relay/,Time/The Timeline\|The Timeline]]
 [[Relay/,Time/Time\|Time]]
-#### [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
-[[Relay/Lore/Celestial Beasts\|Celestial Beasts]]
+#### [[Relay/Locations/World Map\|World Map]]
 #### [[Relay/!Players/The Players\|The Players]]
 [[Relay/!Players/Battle Perks\|Battle Perks]]
+#### [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
+[[Relay/Lore/Celestial Beasts\|Celestial Beasts]]
 #### [[Relay/Magic shit/Magic Items\|Magic Items]]
 [[Relay/Magic shit/Orbs of Power\|Orbs of Power]]
-
+#### [[Relay/Recipes-Ingredients/Recipes\|Recipes]]
 
 #### [[Relay/Recipes-Ingredients/Arby's Extra Crispy Spicy Chicken Sandwich\|Arby's Extra Crispy Spicy Chicken Sandwich]]

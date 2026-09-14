@@ -8,7 +8,7 @@ Shimmering beasts who act as avatars to the four [[Relay/Locations/Chain Franchi
 The Bear
   A giant golden bear that lives under the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] within the South Eastern forest of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]]. It is being hunted for its pelt.
 The Bird
-  North of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] in the [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Flava Forest\|Flava Forest]]. It was hunted for its beak, and hopefully we can get it back.
+  North of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] in the [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]]. It was hunted for its beak, and hopefully we can get it back.
 The Deer
   Located in the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] in the forest of [[Relay/Locations/Continent of Cauldear/Region of Fallzeer/Le Buisson D'Aphrodite\|Le Buisson D'Aphrodite]]. It is being hunted for its antlers.
 The Octopus

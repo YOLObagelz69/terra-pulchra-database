@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-arrana/nemoros/nemoros-battle-tournament/","tags":["Event"],"dgEnableSearch":true,"updated":"2026-09-13T20:07:20.234-07:00","dg-note-properties":{"tags":["Event"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-arrana/nemoros/nemoros-battle-tournament/","tags":["Event"],"updated":"2026-09-13T23:46:20.578-07:00","dg-note-properties":{"tags":["Event"]}}
 ---
 
 A three day celebration of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros']] pride. When the grounds are set, there is a large colosseum surrounded by hundreds of tents filled with food and activities. 

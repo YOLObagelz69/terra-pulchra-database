@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-midgard/ice-lake/","tags":["Location/Lake"],"dgEnableSearch":true,"updated":"2026-09-13T20:08:21.994-07:00","dg-note-properties":{"tags":["Location/Lake"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-midgard/ice-lake/","tags":["Location/Lake"],"updated":"2026-09-13T23:45:39.398-07:00","dg-note-properties":{"tags":["Location/Lake"]}}
 ---
 
 you are never going to believe what the fuck this is.

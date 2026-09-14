@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:35.079-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/relay/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-13T23:46:05.536-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
 A niaive druid born in the forests of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Terra Pulchra searching for information about the [[Relay/Lore/Celestial Beasts\|Celestial Beasts]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[Relay/!Players/The Players\|Player Party]].

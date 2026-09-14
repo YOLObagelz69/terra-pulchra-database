@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-oalorial/oalorial/","tags":["Location/Region"],"dgEnableSearch":true,"updated":"2026-09-13T21:25:22.540-07:00","dg-note-properties":{"tags":["Location/Region"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-oalorial/oalorial/","tags":["Location/Region"],"updated":"2026-09-13T23:46:25.314-07:00","dg-note-properties":{"tags":["Location/Region"]}}
 ---
 
 A region within the continent of [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]].

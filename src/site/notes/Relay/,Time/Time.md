@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/time/","tags":["Lore/Time"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:23.331-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/time/","tags":["Lore/Time"],"updated":"2026-09-13T23:47:14.479-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *The one true predator of life, the harbinger of change, and that son of a bitch we have yet to conquer.*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-cauldear/region-of-fallzeer/fallzeer/","tags":["Location/Region"],"dgEnableSearch":true,"updated":"2026-09-13T21:24:08.333-07:00","dg-note-properties":{"tags":["Location/Region"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-cauldear/region-of-fallzeer/fallzeer/","tags":["Location/Region"],"updated":"2026-09-13T23:45:05.650-07:00","dg-note-properties":{"tags":["Location/Region"]}}
 ---
 
 A region within the continent of [[Relay/Locations/Continent of Cauldear/Cauldear\|Cauldear]].

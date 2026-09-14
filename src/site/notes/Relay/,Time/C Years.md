@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/c-years/","tags":["Lore/Time"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:19.545-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/c-years/","tags":["Lore/Time"],"updated":"2026-09-13T23:44:15.297-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 Jorthaul

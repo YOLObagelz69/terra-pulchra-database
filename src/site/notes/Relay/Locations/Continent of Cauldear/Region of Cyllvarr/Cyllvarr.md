@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-cauldear/region-of-cyllvarr/cyllvarr/","tags":["Location/Region"],"dgEnableSearch":true,"updated":"2026-09-13T20:05:51.896-07:00","dg-note-properties":{"tags":["Location/Region"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-cauldear/region-of-cyllvarr/cyllvarr/","tags":["Location/Region"],"updated":"2026-09-13T23:44:31.851-07:00","dg-note-properties":{"tags":["Location/Region"]}}
 ---
 
 A region within the continent of [[Relay/Locations/Continent of Cauldear/Cauldear\|Cauldear]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-arrana/honeywood/","tags":["Location/Town"],"dgEnableSearch":true,"updated":"2026-09-13T20:07:31.017-07:00","dg-note-properties":{"tags":["Location/Town"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-arrana/honeywood/","tags":["Location/Town"],"updated":"2026-09-13T23:45:36.849-07:00","dg-note-properties":{"tags":["Location/Town"]}}
 ---
 
 A logging town in [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Arrana\|Arrana]], [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]], caught between the turf of [[Relay/NPCs/Groups/The Goblins\|Goblins]] and [[Relay/NPCs/Groups/The Orcs\|Orcs]]. Not being able to gain the help of neighboring towns, the town of Honeywood has been in a state of gradual decay. 

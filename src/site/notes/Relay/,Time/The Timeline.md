@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time"],"dgEnableSearch":true,"updated":"2026-09-13T22:53:57.892-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time"],"updated":"2026-09-13T23:47:12.771-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
 
 Entries will be formatted with hourly events happening chronologically, but new days will appear on the top as to have the most recent entries readily accessible.
 Entry Format
-	Month Day, Year(a b or c) - (Day Name) - Moon Phase - Session (Number)ao
-		00:00/00:00 - (Time of Day)
-		 spaced section (for sorting)
+	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao
+	00:00/00:00 - (Time of Day)
+		(tab)entry
+	###### Session (number+1)ao
 Legend
      ao = After (discovery of) Obsidian
      po = Pre- (discovery of) Obsidian
@@ -24,7 +25,7 @@ Legend
 
 ##### Augry 24th, 8309a - Ferun - Waning Gibbous - Session 2ao
 20:00/00:00 - Midnight
-	[[Relay/!Players/The Players\|The Party]] arrive at the [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] and see the massive [[Relay/Locations/Chain Franchises/Celestial Trees\|Celetial Tree]], and it is clear that both it and the surrounding forests are very, very dead. Near the tree [[Relay/!Players/The Players\|The Party]] also finds a toppled nest, with the ravaged children of [[Relay/Lore/Celestial Beasts\|The Bird]], all cold from their merciless killing.  [[Relay/!Players/Texaqou\|Texaqou]] inspects the top of the tree, but [[Relay/!Players/Mháthair Nádúr\|Mháthair]] makes her way to the heart of the tree to meditate. 
+	[[Relay/!Players/The Players\|The Party]] arrives at the [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] and see the massive [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]], and it is clear that both it and the surrounding forests are very, very dead. Near the tree [[Relay/!Players/The Players\|The Party]] also finds a toppled nest, with the ravaged children of [[Relay/Lore/Celestial Beasts\|The Bird]], all cold from their merciless killing. [[Relay/!Players/Texaqou\|Texaqou]] inspects the top of the tree, but [[Relay/!Players/Mháthair Nádúr\|Mháthair]] makes her way to the heart of the tree to meditate. 
 	She delves into the decaying flesh of the tree, but finds the center to be completely hollowed out. While standing in several feet of ash, she sits and watches as the 'roof' of the borough falls apart, collapsing inward but fading into a thin ash before it reaches the ground. Past that, [[Relay/!Players/Mháthair Nádúr\|Mháthair]] sees the moon, and despite the sheer hopelessness and despair she feels from the massive loss she has come onto, she cannot help but feel a glimmer of hope, as though with time and effort this can all be reversed. 
 	[[Relay/!Players/Mháthair Nádúr\|Mháthair]] digs into the ash, searching for and sign of life. She stumbles onto a huge seed, not far down below the surface of the ash. Casting speak with plants, she questions the seed. 
 	Asking if it is alive, it responds barely. 

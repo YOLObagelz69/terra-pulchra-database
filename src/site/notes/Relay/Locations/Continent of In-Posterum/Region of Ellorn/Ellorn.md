@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-ellorn/ellorn/","tags":["Location/Region"],"dgEnableSearch":true,"updated":"2026-09-13T20:07:47.014-07:00","dg-note-properties":{"tags":["Location/Region"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-ellorn/ellorn/","tags":["Location/Region"],"updated":"2026-09-13T23:44:55.955-07:00","dg-note-properties":{"tags":["Location/Region"]}}
 ---
 
 A region within the continent of [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]].

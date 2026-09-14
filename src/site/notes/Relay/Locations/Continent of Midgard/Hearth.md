@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-midgard/hearth/","tags":["Location/City"],"dgEnableSearch":true,"updated":"2026-09-13T20:08:20.657-07:00","dg-note-properties":{"tags":["Location/City"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-midgard/hearth/","tags":["Location/City"],"updated":"2026-09-13T23:45:34.213-07:00","dg-note-properties":{"tags":["Location/City"]}}
 ---
 
 

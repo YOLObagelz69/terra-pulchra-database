@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-nagare-tatsue-plz-fix/nagare-tatsue-plz-fix/","tags":["Location/Continent","WIP"],"dgEnableSearch":true,"updated":"2026-09-13T20:08:40.440-07:00","dg-note-properties":{"tags":["Location/Continent","WIP"],"aliases":["Dragon's Breath"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-nagare-tatsue-plz-fix/nagare-tatsue-plz-fix/","tags":["Location/Continent","WIP"],"updated":"2026-09-13T23:46:14.378-07:00","dg-note-properties":{"tags":["Location/Continent","WIP"],"aliases":["Dragon's Breath"]}}
 ---
 
 A continent to the South East of Pulchra Terra, home to the biggest city in the world.

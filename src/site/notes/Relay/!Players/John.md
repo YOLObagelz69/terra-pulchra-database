@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/john/","tags":["Characters/PC","Characters/Fatebound"],"dgEnableSearch":true,"updated":"2026-09-13T20:03:30.098-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"Player":"Magdalena"}}
+{"dg-publish":true,"permalink":"/relay/players/john/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-13T23:45:52.331-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"Player":"Magdalena"}}
 ---
 
 

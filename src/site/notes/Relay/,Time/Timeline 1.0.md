@@ -1,16 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/timeline-1-0/","tags":["Lore/Time"],"updated":"2026-09-14T16:18:11.451-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/timeline-1-0/","tags":["Lore/Time"],"updated":"2026-09-14T16:24:44.268-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
 
 Entries will be formatted with hourly events happening chronologically, but new days will appear on the top as to have the most recent entries readily accessible.
 
-###### Entry Format
+###### Daily Entry Format
 	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao
 	- 00:00/00:00 - (Time of Day)
 	(tab)entry
 	###### Session (prevnumber+1)ao
+###### Non-Daily Formatting
+- New Month
+		#### MMMM, YYYY(a b or c)
+- New Year
+		### YYYY(a b or c)
 
 ###### Legend
  ao = After (discovery of) Obsidian

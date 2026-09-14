@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T15:55:24.159-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T16:10:47.379-07:00","dg-note-properties":{}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -125,7 +125,7 @@ The Heist
 	After a team meeting, the party decides to break into the [[Relay/Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] for information.
 - 17:00 - Dusk
 	At dusk, the party breaks in, watching as the clerk lady at the front desk leaves the lobby into a large house/bunk area. The party breaks in, but does not manage to find anything in the lobby relating to [[Relay/!Players/Mháthair Nádúr\|Mháthair's]] beast problem.
-- :00 - Night
+- 18:00 - Night
 	As half the party attempts to intimidate the clerk, 3 [[Relay/NPCs/Enemies/Charlie/Coalborne Paladin\|Coalborne Paladins]] with keys to government buildings sneak into the [[Relay/Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]]. Because of incredible party-wide rolls, no one is seen and the [[Relay/NPCs/Enemies/Charlie/Coalborne Paladin\|Paladins]] leave, but not before revealing their intentions to return in an hour's time. As [[Relay/NPCs/Destiny Bound/Mariachi\|Mariachi]] keeps watch and [[Relay/!Players/Mháthair Nádúr\|Mháthair]] searches the rest of the house, the party intimidates the fuck out of the no longer sleeping clerk, gaining information on who ordered the [[Relay/Lore/Celestial Beasts\|Celestial Beasts]] contract. She speaks of a tall, intimidating man dubbed "C" wearing makeshift coal armor whom smelt of brimstone, acting as a middleman for the real buyer; but this is all she knows. After making the fat lady sing, the party bails and returns back to the [[Relay/Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] for a long rest.
 ##### Augry 23rd, 8309a - Wharfenn - Full Moon - Session 1ao
 - 7:00 - Morning

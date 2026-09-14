@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-arrana/nemoros/miranda-s-church/","tags":["Location"],"updated":"2026-09-13T17:45:04.420-07:00","dg-note-properties":{"tags":["Location"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/region-of-arrana/nemoros/miranda-s-church/","tags":["Location"],"dgEnableSearch":true,"updated":"2026-09-13T20:07:14.552-07:00","dg-note-properties":{"tags":["Location"]}}
 ---
 
 

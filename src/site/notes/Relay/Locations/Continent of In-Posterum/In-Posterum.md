@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/in-posterum/","tags":["Location/Continent"],"updated":"2026-09-13T17:47:04.326-07:00","dg-note-properties":{"tags":["Location/Continent"]}}
+{"dg-publish":true,"permalink":"/relay/locations/continent-of-in-posterum/in-posterum/","tags":["Location/Continent"],"dgEnableSearch":true,"updated":"2026-09-13T20:08:17.288-07:00","dg-note-properties":{"tags":["Location/Continent"]}}
 ---
 
 The starting continent

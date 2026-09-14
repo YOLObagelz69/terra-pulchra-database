@@ -11,7 +11,10 @@
         "src/plugins/random-note-button/README.md",
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
-      ]
+      ],
+      "settings": {
+        "label": "I'm Feeling Lucky"
+      }
     },
     "image-lightbox": {
       "repo": "oleeskild/garden-plugin-image-lightbox",

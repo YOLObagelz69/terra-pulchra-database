@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-13T17:38:33.133-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time","gardenEntry"],"dgEnableSearch":true,"updated":"2026-09-13T18:14:23.481-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
 ---
 
 *May The Lord grant me the strength to update this.*

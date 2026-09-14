@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:12:16.586-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:30:44.553-07:00","dg-note-properties":{}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -17,6 +17,11 @@ Legend
 
 [[Relay/,Time/Time\|Time]] for reference.
 
+
+
+==Reasioning==
+While this may not be my favorite style, this does make the days easier to read and allows for entries to easily flow into each other. it will require some navigating long term, but it does feel easier to read in a pinch.
+Also, I believe I will be including the Pre-Campaign History tab in a separate page, if this version is chosen. You can also give your opinions on this.
 
 ---
 ### Pre-Campaign History

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time"],"updated":"2026-09-14T11:10:48.223-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time"],"updated":"2026-09-14T11:31:16.636-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -8,9 +8,9 @@ Entries will be formatted with hourly events happening chronologically, but new 
 
 Entry Format
 	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao
-	00:00/00:00 - (Time of Day)
+	- 00:00/00:00 - (Time of Day)
 		(tab)entry
-	###### Session (number+1)ao
+	###### Session (prevnumber+1)ao
 Legend
      ao = After (discovery of) Obsidian
      po = Pre- (discovery of) Obsidian
@@ -20,7 +20,7 @@ Legend
 
 ---
 ==Reasioning==
-My intention for the original Timeline is that while yes, the days can be a bit annoying to 
+My intention for the original Timeline is that while yes, the days can be a bit annoying to read if you intend to read from beginning to current day, it allows for the pre-history to remain below the timeline, and for each new addition to be placed neatly on top; perfect for ease of access.
 
 
 

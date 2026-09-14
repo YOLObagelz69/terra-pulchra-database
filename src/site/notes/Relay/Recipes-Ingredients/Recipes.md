@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/recipes-ingredients/recipes/","tags":["Recipe"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:29.282-07:00","dg-note-properties":{"tags":["Recipe"]}}
+{"dg-publish":true,"permalink":"/relay/recipes-ingredients/recipes/","tags":["Recipe"],"updated":"2026-09-13T23:46:42.766-07:00","dg-note-properties":{"tags":["Recipe"]}}
 ---
 
 All the junk we can make

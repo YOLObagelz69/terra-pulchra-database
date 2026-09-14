@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/magic-shit/magic-items/","tags":["Item"],"dgEnableSearch":true,"updated":"2026-09-13T22:52:32.692-07:00","dg-note-properties":{"tags":["Item"]}}
+{"dg-publish":true,"permalink":"/relay/magic-shit/magic-items/","tags":["Item"],"updated":"2026-09-13T23:46:03.259-07:00","dg-note-properties":{"tags":["Item"]}}
 ---
 
 A comprehensive list of Magical Items [[Relay/!Players/The Players\|The Players]] have collected and their sources

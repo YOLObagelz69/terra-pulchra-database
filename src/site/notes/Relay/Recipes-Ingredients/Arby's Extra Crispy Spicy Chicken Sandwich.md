@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/recipes-ingredients/arby-s-extra-crispy-spicy-chicken-sandwich/","tags":["ArbysExtraCrispySpicyChickenSandwich","Recipe"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:19.184-07:00","dg-note-properties":{"tags":["ArbysExtraCrispySpicyChickenSandwich","Recipe"]}}
+{"dg-publish":true,"permalink":"/relay/recipes-ingredients/arby-s-extra-crispy-spicy-chicken-sandwich/","tags":["ArbysExtraCrispySpicyChickenSandwich","Recipe"],"updated":"2026-09-13T23:43:57.300-07:00","dg-note-properties":{"tags":["ArbysExtraCrispySpicyChickenSandwich","Recipe"]}}
 ---
 
 *Pulled directly from the weave itself*

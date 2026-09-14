@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/lore/charlie-s-diary/","tags":["Groups/CharliesAngels","Lore"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:04.476-07:00","dg-note-properties":{"tags":["Groups/CharliesAngels","Lore"]}}
+{"dg-publish":true,"permalink":"/relay/lore/charlie-s-diary/","tags":["Groups/CharliesAngels","Lore"],"updated":"2026-09-13T23:44:28.152-07:00","dg-note-properties":{"tags":["Groups/CharliesAngels","Lore"]}}
 ---
 
 Page 1 - Not yet obtained

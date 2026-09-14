@@ -12,6 +12,19 @@
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
       ]
+    },
+    "image-lightbox": {
+      "repo": "oleeskild/garden-plugin-image-lightbox",
+      "installedVersion": "1.1.0",
+      "installedRef": "v1.1.0",
+      "installedAt": "2026-09-14T04:33:00.477Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/image-lightbox/README.md",
+        "src/plugins/image-lightbox/garden-plugin.json",
+        "src/plugins/image-lightbox/styles/lightbox.scss",
+        "src/plugins/image-lightbox/templates/lightbox.njk"
+      ]
     }
   }
 }

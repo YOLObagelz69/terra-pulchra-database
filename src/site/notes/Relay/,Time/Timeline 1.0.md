@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/timeline-1-0/","tags":["Lore/Time"],"updated":"2026-09-14T16:24:44.268-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/timeline-1-0/","tags":["Lore/Time"],"updated":"2026-09-14T16:27:01.175-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -22,6 +22,8 @@ Entries will be formatted with hourly events happening chronologically, but new 
  po = Pre- (discovery of) Obsidian
 
 [[Relay/,Time/Time\|Time]] for reference.
+
+
 
 ==Reasioning==
 My intention for the original Timeline is that while yes, the days can be a bit annoying to read if you intend to read from beginning to current day, it allows for the pre-history to remain below the timeline, and for each new addition to be placed neatly on top; perfect for ease of access.

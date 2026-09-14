@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"dgEnableSearch":true,"updated":"2026-09-13T18:38:06.029-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/welcome-to-pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"dgEnableSearch":true,"updated":"2026-09-13T18:42:16.815-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
 ---
 
 ### Home
@@ -19,3 +19,5 @@ If you are bored, there is even a randomize button if you are feeling lucky!
 ##### [[Relay/Magic shit/Magic Items\|Magic Items]]
 [[Relay/Magic shit/Orbs of Power\|Orbs of Power]]
 
+
+##### [[Relay/Recipes-Ingredients/Arbys Extra Crispy Spicy Chicken Sandwich\|Arbys Extra Crispy Spicy Chicken Sandwich]]

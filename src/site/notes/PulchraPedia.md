@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-14T11:37:18.811-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-14T15:49:15.020-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
 ---
 
 ### Home
@@ -12,6 +12,7 @@ If you are bored, there is even a randomize button, if you are feeling lucky!
 #### [[Relay/,Time/The Timeline\|The Timeline]]
 [[Relay/,Time/Time\|Time]]
 #### [[Timeline 2.0\|Timeline 2.0]] ==TEST==
+[[Timeline 2.0#Session 3ao\|Current Day]]
 #### [[Relay/Locations/World Map\|World Map]] ==NEW==
 #### [[Relay/!Players/The Players\|The Players]]
 [[Relay/!Players/Battle Perks\|Battle Perks]]

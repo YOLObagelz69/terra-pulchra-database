@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/relay/recipes-ingredients/recipes/","tags":["Recipe"],"updated":"2026-09-13T18:08:03.532-07:00","dg-note-properties":{"tags":["Recipe"]}}
+{"dg-publish":true,"permalink":"/relay/recipes-ingredients/recipes/","tags":["Recipe"],"updated":"2026-09-13T19:10:10.410-07:00","dg-note-properties":{"tags":["Recipe"]}}
 ---
 
 All the junk we can make
 
 Recipes
  Food:
-	[[Relay/Recipes-Ingredients/Arbys Extra Crispy Spicy Chicken Sandwich\|Arbys Extra Crispy Spicy Chicken Sandwich]]
+	[[Relay/Recipes-Ingredients/Arby's Extra Crispy Spicy Chicken Sandwich\|Arby's Extra Crispy Spicy Chicken Sandwich]]
 	
 
  Potions

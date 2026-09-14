@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time"],"updated":"2026-09-13T18:25:03.025-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/the-timeline/","tags":["Lore/Time"],"updated":"2026-09-13T19:10:08.785-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -93,7 +93,7 @@ The Heist
 Heist Prep
 ##### Augry 17th, 8309a - Torthul - Full Moon - Session 5po
 Morning
-	The [[Relay/Recipes-Ingredients/Arbys Extra Crispy Spicy Chicken Sandwich\|Arbys Extra Crispy Spicy Chicken Sandwich]] and how the world changed because of it.
+	The [[Relay/Recipes-Ingredients/Arby's Extra Crispy Spicy Chicken Sandwich\|Arby's Extra Crispy Spicy Chicken Sandwich]] and how the world changed because of it.
 	[[Relay/!Players/Eleanor\|Eleanor’s]] personal quest, finding [[Relay/NPCs/Enemies/Charlie/Charlie\|Charlie]] is the man behind her parents’ soul deaths.
 	[[Relay/!Players/Mháthair Nádúr\|Mháthair]] found the [[Relay/Items/Alchemy Table\|Alchemy Table]] in [[Relay/!Players/Eleanor\|Eleanor's]] mother's study.
 Evening

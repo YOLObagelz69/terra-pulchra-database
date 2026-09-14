@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/magic-shit/magic-items/","tags":["Item"],"dgEnableSearch":true,"updated":"2026-09-13T20:04:11.248-07:00","dg-note-properties":{"tags":["Item"]}}
+{"dg-publish":true,"permalink":"/relay/magic-shit/magic-items/","tags":["Item"],"dgEnableSearch":true,"updated":"2026-09-13T22:52:32.692-07:00","dg-note-properties":{"tags":["Item"]}}
 ---
 
 A comprehensive list of Magical Items [[Relay/!Players/The Players\|The Players]] have collected and their sources
@@ -48,9 +48,9 @@ Living Armor - Looted from decrepit mansion in [[Relay/Locations/Continent of In
 	armah
 Living Blade - Looted from decrepit mansion in [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
 	swaows
-Obsidian Hunter's Armor - Forged by [[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
+Coalborne Hunter's Armor - Forged by [[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
 	
-Obsidian Paladin's Armor - Forged by [[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
+Coalborne Paladin's Armor - Forged by [[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
 	
 Pistol Hammer of 2x Shots - ??? ==WIP==
 	When firing, consumes and fires double shots

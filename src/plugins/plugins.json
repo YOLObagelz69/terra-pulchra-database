@@ -43,7 +43,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "dg-timestamps": {
       "settings": {

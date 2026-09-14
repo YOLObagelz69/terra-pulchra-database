@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T00:17:23.600-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:02:17.761-07:00","dg-note-properties":{}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -8,7 +8,7 @@ Entries will be formatted with both daily and hourly events happening chronologi
 
 Entry Format
 	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao
-	00:00/00:00 - (Time of Day)
+	- 00:00/00:00 - (Time of Day)
 		(tab)entry
 	###### Session (number+1)ao
 Legend
@@ -26,13 +26,13 @@ Legend
 
 
 #### ??? 
-The [[Relay/Lore/Grand War\|Grand War]]
-   
+- The [[Relay/Lore/Grand War\|Grand War]]
+ 
 
 
 
 
-#### A few days before Formund 3rd - Moph Session 0  
+##### A few days before Formund 3rd - Moph Session 0  
 During her travels though [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]], [[Relay/!Players/Mháthair Nádúr\|Mháthair Nádúr]] encountered a golden bear being hunted by a group of men. She saved [[Relay/Lore/Celestial Beasts\|The Bear]] from the [[Relay/Locations/Chain Franchises/Hunter's Guild\|hunters]], and was informed by a [[Mystical Lady\|mystical lady]] of the [[Relay/Lore/Celestial Beasts\|Celestial Beasts']] role in keeping the world coherent. She gifts [[Relay/!Players/Mháthair Nádúr\|Mháthair]] an amulet, explaining that there are three other beasts being hunted and encourages her to leave the continent and search for a way to help them.
 ##### Formund 3rd, 8309a - Wharfenn - New Moon - Moph Session 0
 After her few days journey, she finds the hunter's camp and swiftly takes the rest of them out, but finds a piece of paper detailing the information about the hunt. Most importantly however, the contract was assigned by the [[Relay/Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], so she gathers onto the hunters' ship and sets sail towards the continent of [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]. 
@@ -46,37 +46,37 @@ After her few days journey, she finds the hunter's camp and swiftly takes the re
 
 ---
 ##### Formund 18th, 8309a - Wharfenn - Full Moon - Session 1
-Campaign began.
+- Campaign began.
 	Finding [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
 	assaulted by [[Relay/NPCs/Groups/The Goblins\|The Goblins]]
 	met [[Relay/NPCs/Bernal\|Bernal]]
 ##### Formund 19th, 8309a - Ferun - Waning Gibbous
-Mansion dwelling for food and the Destiny that Binds us
+- Mansion dwelling for food and the Destiny that Binds us
 	The floor collapsed on top of [[Relay/!Players/Mháthair Nádúr\|Mháthair Nádúr]] and [[Relay/!Players/Naomi\|Naomi]] (Thanks [[Relay/!Players/Yunai\|Yunai]]).
 	During the evening, the party was transported to the [[Relay/Locations/Night Realm/Night Realm\|Night Realm]], and met [[Relay/NPCs/Allies/The White Knight (lol)\|The White Knight (lol)]]. Here we purchased a magic item or two from his market, and we explored the realm a bit.
 ##### Formund 20th, 8309a - Sokturay - Waning Crescent
-Morning: 
+- Morning: 
 	Allying the [[Relay/NPCs/Groups/The Goblins\|The Goblin Alliance]], and Mob Mentality
 	Evening: [[Relay/NPCs/Groups/The Orcs\|Orc]] and Hag Hunting in the swamp (many dead kids (Thanks [[Relay/!Players/Yunai\|Yunai]])). Also [[Relay/!Players/Eleanor\|Eleanor]] died from divine neglect. The Hag informed us on an attack on [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] that was occurring now, so we ran for 6 hours to get back.
 ##### Formund 21st, 8309a - Saurfay - New Moon
-The Siege of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] (and FUCK flashbangs)
+- The Siege of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] (and FUCK flashbangs)
 	[[Relay/!Players/The Players\|The Players]] planned to surprise [[Relay/NPCs/Groups/The Orcs\|The Orcs]], assaulting the town and demolishing them en masse. [[Relay/!Players/Eleanor\|Eleanor]] appeared in a fiery glory, having been offered a second chance by some mysterious fire themed creature. Upon losing, the orcs started throwing their bullshit ass flashbangs and a small party of orcs managed to escape, despite [[Relay/!Players/Texaqou\|Texaqou]]'s effort.
 	After the battle, [[Relay/!Players/The Players\|The Party]] helped [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] rebuild their walls.
-...
-????
-	[[Relay/NPCs/Allies/Jelesain the Coachman\|Jelesain the Coachman]] gifted us a super horse and a carriage, which became our [[Relay/!Players/The Party's Trusty Cart\|Trusty Carriage]]. [[Relay/NPCs/Bernal\|Bernal]] also gave [[Relay/!Players/Texaqou\|Texaqou]] a box with 2000 gold (This will be important), and eventually left [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] on the journey to [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]].
-???? - Infamous first rest after leaving [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
-     [[Relay/!Players/The Players\|The Party]] is jumped by a gang of [[Relay/NPCs/Groups/The Orcs\|Orcs]], and while most fair fine in the fight, [[Relay/!Players/Texaqou\|Texaqou]] is beaten to a mulchy pulp. Despite this however, [[Relay/!Players/Mháthair Nádúr\|Mháthair]] manages to keep him healed while he distracts an entire [[Orc Captain\|Orc Captain]]
- ...
-????
-	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]] and our first Prison Episode
-...
-????
-	Yeti Hunting, and [[Relay/!Players/Tarx\|The man who fell from the sky]]
-...
-????
-	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Orikstead\|Orikstead]]
-...
+##### ...
+##### ????
+[[Relay/NPCs/Allies/Jelesain the Coachman\|Jelesain the Coachman]] gifted us a super horse and a carriage, which became our [[Relay/!Players/The Party's Trusty Cart\|Trusty Carriage]]. [[Relay/NPCs/Bernal\|Bernal]] also gave [[Relay/!Players/Texaqou\|Texaqou]] a box with 2000 gold (This will be important), and eventually left [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] on the journey to [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]].
+##### ???? - Infamous first rest after leaving [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
+ [[Relay/!Players/The Players\|The Party]] is jumped by a gang of [[Relay/NPCs/Groups/The Orcs\|Orcs]], and while most fair fine in the fight, [[Relay/!Players/Texaqou\|Texaqou]] is beaten to a mulchy pulp. Despite this however, [[Relay/!Players/Mháthair Nádúr\|Mháthair]] manages to keep him healed while he distracts an entire [[Orc Captain\|Orc Captain]]
+ ##### ...
+##### ????
+-- [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]] and our first Prison Episode
+##### ...
+##### ????
+Yeti Hunting, and [[Relay/!Players/Tarx\|The man who fell from the sky]]
+##### ...
+##### ????
+[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Orikstead\|Orikstead]]
+##### ...
 ##### Augry 13th, 8309a - Wharfenn - Waning Crescent
 Entry into [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
 ##### Augry 14th, 8309a - Ferun - New Moon

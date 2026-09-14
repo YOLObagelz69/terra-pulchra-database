@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:30:44.553-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:32:38.656-07:00","dg-note-properties":{}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -30,7 +30,7 @@ Also, I believe I will be including the Pre-Campaign History tab in a separate p
 
 
 
-#### ??? 
+##### ??? 
 The [[Relay/Lore/Grand War\|Grand War]]
  
 

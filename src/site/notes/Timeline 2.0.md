@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:06:30.723-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/timeline-2-0/","updated":"2026-09-14T11:09:11.067-07:00","dg-note-properties":{}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -69,7 +69,7 @@ After her few days journey, she finds the hunter's camp and swiftly takes the re
  [[Relay/!Players/The Players\|The Party]] is jumped by a gang of [[Relay/NPCs/Groups/The Orcs\|Orcs]], and while most fair fine in the fight, [[Relay/!Players/Texaqou\|Texaqou]] is beaten to a mulchy pulp. Despite this however, [[Relay/!Players/Mháthair Nádúr\|Mháthair]] manages to keep him healed while he distracts an entire [[Orc Captain\|Orc Captain]]
  ##### ...
 ##### ????
-- [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]] and our first Prison Episode
+[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]] and our first Prison Episode
 ##### ...
 ##### ????
 Yeti Hunting, and [[Relay/!Players/Tarx\|The man who fell from the sky]]

@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/relay/lore/celestial-beasts/","tags":["Lore"],"updated":"2026-09-13T18:07:30.341-07:00","dg-note-properties":{"tags":["Lore"],"aliases":["The Bear","The Bird","The Octopus","The Deer"]}}
+---
+
+Shimmering beasts who act as avatars to the four [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. The death of one will cause the collapse of its designated tree, as well as the nature around it.
+
+
+The Bear
+  A giant golden bear that lives under the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] within the South Eastern forest of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]]. It is being hunted for its pelt.
+The Bird
+  North of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] in the [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Flava Forest\|Flava Forest]]. It was hunted for its beak, and hopefully we can get it back.
+The Deer
+  Located in the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] in the forest of [[Relay/Locations/Continent of Cauldear/Region of Fallzeer/Le Buisson D'Aphrodite\|Le Buisson D'Aphrodite]]. It is being hunted for its antlers.
+The Octopus
+  At the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] deep within the [[Relay/Locations/Oceans and Seas/Inanis Ocean\|Inanis Ocean]]. It is being hunted for its eyes.
+
+
+Ordered to be hunted and harvested for specific parts by [[Relay/NPCs/Enemies/Charlie/Charlie\|Charlie]], who seemed to be a middleman for an unknown buyer.

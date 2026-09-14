@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/relay/players/battle-perks/","tags":["Lore"],"updated":"2026-09-13T17:22:46.935-07:00","dg-note-properties":{"tags":["Lore"]}}
+---
+
+
+
+Dueling
+
+Against the Horde
+
+Underdog
+
+**Destiny Abilities** (discovered)
+[[Relay/!Players/Mháthair Nádúr\|Mháthair]] + [[Relay/!Players/Naomi\|Naomi]] *Nature's Wrath*
+	Naomi: Weapon is wrapped in thorns, dealing 1d12 per hit of extra piercing damage, and heals self 1d6 per hit.
+	Mhathair: Extra 1d12 of either Radiant, Necrotic, or Fire damage to every attack.
+[[Relay/!Players/Texaqou\|Texaqou]] + [[Relay/!Players/Yunai\|Yunai]] *Brothers in Arms* ==under revision==
+	Whenever either casts a spell, their firearms are reloaded
+

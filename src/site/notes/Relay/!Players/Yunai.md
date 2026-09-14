@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/relay/players/yunai/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-13T17:23:18.510-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":null,"Player":"Logan"}}
+---
+
+Broke college student (student loans, amiright?)

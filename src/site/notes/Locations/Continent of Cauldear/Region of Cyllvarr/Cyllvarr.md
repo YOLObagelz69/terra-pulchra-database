@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/locations/continent-of-cauldear/region-of-cyllvarr/cyllvarr/","tags":["Location/Region"],"updated":"2026-09-13T23:44:31.851-07:00","dg-note-properties":{"tags":["Location/Region"]}}
+---
+
+A region within the continent of [[Locations/Continent of Cauldear/Cauldear\|Cauldear]].
+
+
+Notable cities are [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]] and [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]].
+
+Ports
+	[[Locations/Continent of Cauldear/Region of Cyllvarr/North Star\|North Star]]
+

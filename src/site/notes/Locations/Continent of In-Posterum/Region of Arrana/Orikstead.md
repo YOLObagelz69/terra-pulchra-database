@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/locations/continent-of-in-posterum/region-of-arrana/orikstead/","tags":["Location/Town","WIP"],"updated":"2026-09-13T23:46:29.436-07:00","dg-note-properties":{"tags":["Location/Town","WIP"]}}
+---
+
+A small settlement within [[Locations/Continent of In-Posterum/Region of Arrana/Arrana\|Arrana]], [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]

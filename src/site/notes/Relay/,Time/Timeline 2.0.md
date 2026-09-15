@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-14T16:25:36.004-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-14T17:14:10.806-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
 
 Entries will be formatted with both daily and hourly events happening chronologically, so as time goes on it you may have to scroll a while to reach the most recent events.
+
+[[Relay/,Time/Timeline 1.0\|Timeline 1.0]], for those who still prefer the old ways
 
 ###### Daily Entry Format
 	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao

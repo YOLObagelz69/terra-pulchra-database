@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T21:13:08.812-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T22:04:38.201-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -17,8 +17,8 @@ The world, and everything inside.
 	[[Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]]
 	[[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
 - [[Locations/Continent of In-Posterum/Region of Oalorial/Oalorial\|Oalorial]]
-	- [[Locations/Continent of In-Posterum/Region of Oalorial/Subregion of The Badlands/The Badlands\|The Badlands]]
-		[[Locations/Continent of In-Posterum/Region of Oalorial/Subregion of The Badlands/Borshoun City\|Borshoun City]]
+	[[Locations/Continent of In-Posterum/Region of Oalorial/Subregion of The Badlands/The Badlands\|The Badlands]]
+	[[Locations/Continent of In-Posterum/Region of Oalorial/Subregion of The Badlands/Borshoun City\|Borshoun City]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Titan Castle\|Titan Castle]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Highside\|Highside]]
@@ -29,7 +29,7 @@ The world, and everything inside.
 	[[Locations/Continent of In-Posterum/Region of Oalorial/The Kaskades\|The Kaskades]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Mount Sacripicium\|Mount Sacripicium]]
 - [[Locations/Continent of In-Posterum/Region of Ellorn/Ellorn\|Ellorn]]
-	- [[Locations/Continent of In-Posterum/Region of Ellorn/Subregion of the Dark Hills/Dark Hills\|Dark Hills]]
+	[[Locations/Continent of In-Posterum/Region of Ellorn/Subregion of the Dark Hills/Dark Hills\|Dark Hills]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Korsk City\|Korsk City]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Austin\|Austin]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Iliden\|Iliden]]
@@ -52,9 +52,9 @@ The world, and everything inside.
 	[[Locations/Continent of Cauldear/Region of Fallzeer/Enchanted Forest\|Enchanted Forest]]
 	[[Locations/Continent of Cauldear/Region of Fallzeer/Le Buisson D'Aphrodite\|Le Buisson D'Aphrodite]]
 - [[Locations/Continent of Cauldear/Region of Korrmear/Korrmear\|Korrmear]]
-	- [[Locations/Continent of Cauldear/Region of Korrmear/Longue Savannah/Longue Savannah\|Longue Savannah]]
-		[[Locations/Continent of Cauldear/Region of Korrmear/Longue Savannah/Elegance\|Elegance]]
-		[[Locations/Continent of Cauldear/Region of Korrmear/Longue Savannah/Exceptionnelle\|Exceptionnelle]]
+	[[Locations/Continent of Cauldear/Region of Korrmear/Longue Savannah/Longue Savannah\|Longue Savannah]]
+	[[Locations/Continent of Cauldear/Region of Korrmear/Longue Savannah/Elegance\|Elegance]]
+	[[Locations/Continent of Cauldear/Region of Korrmear/Longue Savannah/Exceptionnelle\|Exceptionnelle]]
 	[[Locations/Continent of Cauldear/Region of Korrmear/Superieure\|Superieure]]
 	[[Locations/Continent of Cauldear/Region of Korrmear/Remarquable\|Remarquable]]
 	[[Locations/Continent of Cauldear/Region of Korrmear/Intellectuelle\|Intellectuelle]]

@@ -18,7 +18,7 @@ A comprehensive list of Magical Items [[Relay/!Players/The Players\|The Players]
 
 Amulet of the Sun and Moon - [[Relay/Locations/Night Realm/Night Realm\|Night Market]] ==WIP==
 	does somfin
-Auto-Hit Scimitar - Gift from ==[[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]==
+Auto-Hit Scimitar - Gift from ==[[Relay/NPCs/Fatebound/Jerome\|Jerome]]==
 	If an attack roll misses your target, can choose to hit instead. If the attack would hit anyway, can choose to crit.
 	Can be used 1x per turn.
 Bag of Holding - [[Relay/Locations/Night Realm/Night Realm\|Night Market]]
@@ -41,16 +41,16 @@ Immovable Rod - [[Relay/Locations/Night Realm/Night Realm\|Night Market]]
 	Press a button to freeze the rod in place
 Leather Armor of Weapon Resistance - [[Relay/Locations/Chain Franchises/The Exchange\|The Exchange]] ==WIP==
 	armah
-Leek Quarterstaff - Random encounter by [[Relay/NPCs/Destiny Bound/Mariachi\|Mariachi]]
+Leek Quarterstaff - Random encounter by [[Relay/NPCs/Fatebound/Mariachi\|Mariachi]]
 	+2 to spell attack, with a built in spell
 		 6th lvl Moon Beam, fires directionally from the staff, requires a turn to charge
 Living Armor - Looted from decrepit mansion in [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
 	armah
 Living Blade - Looted from decrepit mansion in [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
 	swaows
-Coalborne Hunter's Armor - Forged by [[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
+Coalborne Hunter's Armor - Forged by [[Relay/NPCs/Fatebound/Jerome\|Jerome]]
 	
-Coalborne Paladin's Armor - Forged by [[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
+Coalborne Paladin's Armor - Forged by [[Relay/NPCs/Fatebound/Jerome\|Jerome]]
 	
 Pistol Hammer of 2x Shots - ??? ==WIP==
 	When firing, consumes and fires double shots

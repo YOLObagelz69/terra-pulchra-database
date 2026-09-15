@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/relay/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-13T23:46:05.536-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/relay/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-14T21:12:50.457-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
-A niaive druid born in the forests of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Terra Pulchra searching for information about the [[Relay/Lore/Celestial Beasts\|Celestial Beasts]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[Relay/!Players/The Players\|Player Party]].
+A niaive druid born in the forests of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Terra Pulchra searching for information about the [[Relay/Lore/Celestial Beasts\|Celestial Beasts]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[Relay/!Players/The Players\|Player Party]].
 
 In combat she excells at long distance healing, managing to effectively stave death off all her allies so they may fight another day. If healing is not needed, she also has several melee spells and weapons that make her a considerable opponent, despite her casting status.
 
@@ -15,7 +15,7 @@ In combat she excells at long distance healing, managing to effectively stave de
 #### Project Save the World
 ---
 ##### Pre Campaign (Moph Session 0)
-During her travels though [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]], [[Relay/!Players/Mháthair Nádúr\|Mháthair Nádúr]] encountered a golden bear being hunted by a group of men. She saved [[Relay/Lore/Celestial Beasts\|The Bear]] from the [[Relay/Locations/Chain Franchises/Hunter's Guild\|hunters]], and was informed by a [[Mystical Lady\|mystical lady]] of the [[Relay/Lore/Celestial Beasts\|Celestial Beasts']] role in keeping the world coherent. She also informs Mháthair of the other three beasts, and encourages her to leave the continent and search for a way to help them.
+During her travels though [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]], [[Relay/!Players/Mháthair Nádúr\|Mháthair Nádúr]] encountered a golden bear being hunted by a group of men. She saved [[Relay/Lore/Celestial Beasts\|The Bear]] from the [[Relay/Locations/Chain Franchises/Hunter's Guild\|hunters]], and was informed by a [[Mystical Lady\|mystical lady]] of the [[Relay/Lore/Celestial Beasts\|Celestial Beasts']] role in keeping the world coherent. She also informs Mháthair of the other three beasts, and encourages her to leave the continent and search for a way to help them.
 After a few days journey, she finds the hunter's ship and sails to [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]].
 She stumbles upon a small group of men being assaulted by a crowd of orcs, and assists [[Relay/!Players/Yunai\|Yunai]] and [[Relay/!Players/Texaqou\|Texaqou]] in their escape.
 ##### Augry 22nd, 8309a - Session 1ao
@@ -28,7 +28,7 @@ She stumbles upon a small group of men being assaulted by a crowd of orcs, and a
 17:00 - Dusk
 	At dusk, the party breaks in, watching as the clerk lady at the front desk leaves the lobby into a large house/bunk area. The party breaks in, but does not manage to find anything in the lobby relating to [[Relay/!Players/Mháthair Nádúr\|Mháthair's]] beast problem.
 18:00 - Night
-	As [[Relay/NPCs/Destiny Bound/Mariachi\|Mariachi]] keeps watch and [[Relay/!Players/Mháthair Nádúr\|Mháthair]] searches the rest of the house, the party intimidates the fuck out of the no longer sleeping clerk, gaining information on who ordered the [[Relay/Lore/Celestial Beasts\|Celestial Beasts]] contract. She speaks of a man dubbed "C" wearing obsidian armor acting as a middleman for the real buyer, but this is all she knows. After making the fat lady sing, the party bails and returns back to the [[Relay/Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] for a long rest. 
+	As [[Relay/NPCs/Fatebound/Mariachi\|Mariachi]] keeps watch and [[Relay/!Players/Mháthair Nádúr\|Mháthair]] searches the rest of the house, the party intimidates the fuck out of the no longer sleeping clerk, gaining information on who ordered the [[Relay/Lore/Celestial Beasts\|Celestial Beasts]] contract. She speaks of a man dubbed "C" wearing obsidian armor acting as a middleman for the real buyer, but this is all she knows. After making the fat lady sing, the party bails and returns back to the [[Relay/Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] for a long rest. 
 ##### Augry 23-24th, 8409a - Session 2ao
 20:00/00:00 - Midnight
 	After detouring to the [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]], Mháthair makes her way to the heart of the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] to meditate. 

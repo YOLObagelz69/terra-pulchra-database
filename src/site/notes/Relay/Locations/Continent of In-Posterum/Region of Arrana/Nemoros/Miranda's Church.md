@@ -3,4 +3,4 @@
 ---
 
 
-A church in [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] ran by the Priestess [[Relay/NPCs/Allies/Mother Miranda\|Mother Miranda]], and 'secretly' the home base of the [[Relay/NPCs/Groups/Nemoros Freedom Fighters\|Nemoros Freedom Fighters]]
+A church in [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] ran by the Priestess [[Relay/NPCs/Mother Miranda\|Mother Miranda]], and 'secretly' the home base of the [[Relay/NPCs/Groups/Nemoros Freedom Fighters\|Nemoros Freedom Fighters]]

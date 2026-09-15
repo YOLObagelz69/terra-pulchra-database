@@ -7,10 +7,10 @@ Anti-[[Relay/NPCs/The Emperor of Nemoros\|Emperor]] freedom group
 
 
 Named members:
-	[[Relay/NPCs/Destiny Bound/Jerome\|Jerome]]
-	[[Relay/NPCs/Allies/Mother Miranda\|Mother Miranda]]
-	[[Relay/NPCs/Allies/Orion\|Orion]]
-	[[Relay/NPCs/Allies/Tenn\|Tenn]]
-	[[Relay/NPCs/Allies/Denim & Iuanus\|Denim & Iuanus]]
-	[[Relay/NPCs/Allies/Squeezy\|Squeezy]]
-	[[Relay/NPCs/Enemies/Bark\|Bark]] (Not really anymore)
+	[[Relay/NPCs/Fatebound/Jerome\|Jerome]]
+	[[Relay/NPCs/Mother Miranda\|Mother Miranda]]
+	[[Relay/NPCs/Orion\|Orion]]
+	[[Relay/NPCs/Tenn\|Tenn]]
+	[[Relay/NPCs/Denim & Iuanus\|Denim & Iuanus]]
+	[[Relay/NPCs/Squeezy\|Squeezy]]
+	[[Relay/NPCs/Bark\|Bark]] (Not really anymore)

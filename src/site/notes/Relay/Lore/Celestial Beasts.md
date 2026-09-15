@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/relay/lore/celestial-beasts/","tags":["Lore"],"updated":"2026-09-13T23:44:22.227-07:00","dg-note-properties":{"tags":["Lore"],"aliases":["The Bear","The Bird","The Octopus","The Deer"]}}
+{"dg-publish":true,"permalink":"/relay/lore/celestial-beasts/","tags":["Lore"],"updated":"2026-09-14T21:13:11.731-07:00","dg-note-properties":{"tags":["Lore"],"aliases":["The Bear","The Bird","The Octopus","The Deer"]}}
 ---
 
 Shimmering beasts who act as avatars to the four [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. The death of one will cause the collapse of its designated tree, as well as the nature around it.
 
 
 The Bear
-  A giant golden bear that lives under the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] within the South Eastern forest of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]]. It is being hunted for its pelt.
+  A giant golden bear that lives under the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] within the South Eastern forest of [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]. It is being hunted for its pelt.
 The Bird
   North of [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] in the [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]]. It was hunted for its beak, and hopefully we can get it back.
 The Deer
@@ -15,4 +15,4 @@ The Octopus
   At the [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] deep within the [[Relay/Locations/Oceans and Seas/Inanis Ocean\|Inanis Ocean]]. It is being hunted for its eyes.
 
 
-Ordered to be hunted and harvested for specific parts by [[Relay/NPCs/Enemies/Charlie/Charlie\|Charlie]], who seemed to be a middleman for an unknown buyer.
+Ordered to be hunted and harvested for specific parts by [[Relay/NPCs/Charlie/Charlie\|Charlie]], who seemed to be a middleman for an unknown buyer.

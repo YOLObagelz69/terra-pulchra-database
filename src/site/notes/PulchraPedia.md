@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-14T16:15:59.922-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["Lore/Time","gardenEntry"],"updated":"2026-09-14T21:41:31.667-07:00","dg-note-properties":{"tags":["Lore/Time","gardenEntry"]}}
 ---
 
 ### Home
@@ -18,6 +18,7 @@ If you are bored, there is even a randomize button, if you are feeling lucky!
 #### [[Relay/Locations/World Map\|World Map]] ==NEW==
 #### [[Relay/!Players/The Players\|The Players]]
 [[Relay/!Players/Battle Perks\|Battle Perks]]
+#### [[Relay/NPCs/Non-Player-Characters (NPC)\|Non-Player-Characters (NPC)]]
 #### [[Relay/Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
 [[Relay/Lore/Celestial Beasts\|Celestial Beasts]]
 #### [[Relay/Magic shit/Magic Items\|Magic Items]]

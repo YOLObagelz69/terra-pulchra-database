@@ -4,4 +4,4 @@
 
 Resident super bloodedge dampyr edge lord mcgee
 
-Failed to stop [[Relay/NPCs/Enemies/Charlie/Charlie\|Charlie]] from annihilating her city of [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]]
+Failed to stop [[Relay/NPCs/Charlie/Charlie\|Charlie]] from annihilating her city of [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]]

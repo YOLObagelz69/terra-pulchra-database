@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T17:16:18.212-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/relay/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T17:23:35.426-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -8,15 +8,22 @@ The world, and everything inside.
 
 # The Station
 ### Continents
-##### [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]
-[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Arrana\|Arrana]]
-[[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Oalorial\|Oalorial]]
-[[Relay/Locations/Continent of In-Posterum/Region of Ellorn/Ellorn\|Ellorn]]
+#### [[Relay/Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]
+- ###### [[Relay/Locations/Continent of In-Posterum/Region of Arrana/Arrana\|Arrana]]
+	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
+	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Orikstead\|Orikstead]]
+	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]]
+	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
+	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/Rummulle\|Rummulle]]
+	[[Relay/Locations/Continent of In-Posterum/Region of Arrana/The Orange Coast\|The Orange Coast]]
+- [[Relay/Locations/Continent of In-Posterum/Region of Oalorial/Oalorial\|Oalorial]]
+	
+- [[Relay/Locations/Continent of In-Posterum/Region of Ellorn/Ellorn\|Ellorn]]
 ##### [[Relay/Locations/Continent of Cauldear/Cauldear\|Cauldear]]
-[[Relay/Locations/Continent of Cauldear/Region of Cyllvarr/Cyllvarr\|Cyllvarr]]
-[[Relay/Locations/Continent of Cauldear/Region of Cynndarr/Cynndarr\|Cynndarr]]
-[[Relay/Locations/Continent of Cauldear/Region of Fallzeer/Fallzeer\|Fallzeer]]
-[[Relay/Locations/Continent of Cauldear/Region of Korrmear/Korrmear\|Korrmear]]
+- [[Relay/Locations/Continent of Cauldear/Region of Cyllvarr/Cyllvarr\|Cyllvarr]]
+- [[Relay/Locations/Continent of Cauldear/Region of Cynndarr/Cynndarr\|Cynndarr]]
+- [[Relay/Locations/Continent of Cauldear/Region of Fallzeer/Fallzeer\|Fallzeer]]
+- [[Relay/Locations/Continent of Cauldear/Region of Korrmear/Korrmear\|Korrmear]]
 ##### [[Relay/Locations/Continent of Midgard/Midgard\|Midgard]]
 ##### [[Relay/Locations/Continent of Geb/Geb\|Geb]]
 ##### [[Relay/Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare ----- Tatsue (plz fix)\|Nagare ----- Tatsue (plz fix)]]

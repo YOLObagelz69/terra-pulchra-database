@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relay/time/timeline-1-0/","tags":["Lore/Time"],"updated":"2026-09-14T16:27:01.175-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/relay/time/timeline-1-0/","tags":["Lore"],"updated":"2026-09-14T17:16:39.653-07:00","dg-note-properties":{"tags":["Lore"]}}
 ---
 
 *May The Lord grant me the strength to update this.*

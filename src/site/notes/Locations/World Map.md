@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T22:04:38.201-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T22:08:44.714-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -34,7 +34,7 @@ The world, and everything inside.
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Austin\|Austin]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Iliden\|Iliden]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Toncoly\|Toncoly]]
-##### [[Locations/Continent of Cauldear/Cauldear\|Cauldear]]
+#### [[Locations/Continent of Cauldear/Cauldear\|Cauldear]]
 - [[Locations/Continent of Cauldear/Region of Cyllvarr/Cyllvarr\|Cyllvarr]]
 	[[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]]
 	[[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]]
@@ -60,18 +60,18 @@ The world, and everything inside.
 	[[Locations/Continent of Cauldear/Region of Korrmear/Intellectuelle\|Intellectuelle]]
 	[[Locations/Continent of Cauldear/Region of Korrmear/Lemoin\|Lemoin]]
 	[[Locations/Continent of Cauldear/Region of Korrmear/Lorryian Rainforest\|Lorryian Rainforest]]
-##### [[Locations/Continent of Midgard/Midgard\|Midgard]]
+#### [[Locations/Continent of Midgard/Midgard\|Midgard]]
 [[Locations/Continent of Midgard/Hearth\|Hearth]]
 [[Locations/Continent of Midgard/Iced Forest\|Iced Forest]]
 [[Locations/Continent of Midgard/Ice Lake\|Ice Lake]]
 [[Locations/Continent of Midgard/Mountains of the All-Eater\|Mountains of the All-Eater]]
 [[Locations/Continent of Midgard/The Roaring Mountains\|The Roaring Mountains]]
 [[Locations/Continent of Midgard/The Heart of Terra\|The Heart of Terra]]
-##### [[Locations/Continent of Geb/Geb\|Geb]]
+#### [[Locations/Continent of Geb/Geb\|Geb]]
 [[Locations/Continent of Geb/Wildfire\|Wildfire]]
 [[Locations/Continent of Geb/Port Geb\|Port Geb]]
-##### [[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]
-##### [[Locations/Continent of Gaia/Gaia\|Gaia]]
+#### [[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]
+#### [[Locations/Continent of Gaia/Gaia\|Gaia]]
 ### Islands
 [[Locations/Islands/Ignotus Forest\|Ignotus Forest]]
 [[Locations/Islands/Runaway Isle\|Runaway Isle]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-14T21:52:42.535-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-15T08:09:21.889-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
 ---
 
 ### Home
@@ -9,6 +9,7 @@ It is admittedly still a work in progress, but it is my plan to add everything o
 ### Entry into Terra Pulchra
 Here you can find a station of important links, but if you already know what you are searching for then there is a handy search function. On a computer, just look towards the top of the left sidebar, and if you are on mobile, then press on the three lines on the top left and begin your search.
 If you are bored, there is even a randomize button, if you are feeling lucky!
+###### Also, if you have any requests for pages that should be included in the front page station for quick access, please let me know.
 #### [[,Time/Timeline 2.0\|Timeline 2.0]] ==BETA==
 [[,Time/Timeline 2.0#Session 3ao\|Current Day]]
 [[,Time/Timeline 2.0#Pre-Campaign History\|Pre-Campaign History]]

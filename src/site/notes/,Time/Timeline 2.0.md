@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-14T21:12:54.996-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-16T11:53:53.849-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -17,7 +17,7 @@ Entries will be formatted with both daily and hourly events happening chronologi
 - New Month
 		#### MMMM, YYYY(a b or c)
 - New Year
-		### YYYY(a b or c)
+		### YYYY(next in sequence to a b or c)
 
 ###### Legend
  ao = After (discovery of) Obsidian
@@ -157,7 +157,7 @@ The Heist
 	Asking if she can help, it informs her a new avatar must be chosen.
 	Asking who must choose, it does not answer.
 	Asking how long we have, it laments on a deadline, the arrival of a [[comet\|comet]], described as the end of freedom, hope and the sanctity of life.
-	[[!Players/Mháthair Nádúr\|Mháthair]] thanks it for its knowledge and wishes the seed well, casts Plant Growth on the seed for a boost, and she makes her leave.
+	[[!Players/Mháthair Nádúr\|Mháthair]] thanks it for its knowledge and wishes the seed well, casts Plant Growth on the seed for a boost, and before she makes her leave she collects some of the ashes, known as [[Ashes of Dispair\|Ashes of Dispair]], into a small vial.
 	Upon regrouping, [[!Players/Texaqou\|Texaqou]] informs [[!Players/The Players\|The Party]] that there is a camp towards the edge of the forest, a several day journey away.
 	After some more persueding of [[NPCs/Captain Leohard\|Captain Leohard]], we climb back aboard the sky ship and attempt to track the hunters. 
 - 00:10 - Night

@@ -6,7 +6,7 @@ Shimmering beasts who act as avatars to the four [[Locations/Chain Franchises/Ce
 
 
 The Bear
-  A giant golden bear that lives under the [[Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] within the South Eastern forest of [[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]. It is being hunted for its pelt.
+  A giant golden bear that lives under the [[Locations/Chain Franchises/Celestial Trees\|Celestial Tree]] within the South Eastern forest of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]. It is being hunted for its pelt.
 The Bird
   North of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] in the [[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]]. It was hunted for its beak, and hopefully we can get it back.
 The Deer

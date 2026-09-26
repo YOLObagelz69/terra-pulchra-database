@@ -70,7 +70,7 @@ The world, and everything inside.
 #### [[Locations/Continent of Geb/Geb\|Geb]]
 [[Locations/Continent of Geb/Wildfire\|Wildfire]]
 [[Locations/Continent of Geb/Port Geb\|Port Geb]]
-#### [[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]
+#### [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]
 #### [[Locations/Continent of Gaia/Gaia\|Gaia]]
 ### Islands
 [[Locations/Islands/Ignotus Forest\|Ignotus Forest]]

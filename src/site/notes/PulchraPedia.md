@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-15T08:09:21.889-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-16T15:59:02.197-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
 ---
 
 ### Home

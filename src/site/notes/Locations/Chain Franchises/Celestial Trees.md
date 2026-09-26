@@ -8,7 +8,7 @@ Each tree has a [[Lore/Celestial Beasts\|Celestial Beast]] that seems to act as 
 More Information is Needed.
 
 Locations
-	[[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]
+	[[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]]
 	[[Locations/Continent of Cauldear/Region of Fallzeer/Le Buisson D'Aphrodite\|Le Buisson D'Aphrodite]]
 	[[Locations/Oceans and Seas/Inanis Ocean\|Inanis Ocean]]

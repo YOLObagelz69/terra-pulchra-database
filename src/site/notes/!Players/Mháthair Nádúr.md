@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-14T21:12:50.457-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
-A niaive druid born in the forests of [[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Terra Pulchra searching for information about the [[Lore/Celestial Beasts\|Celestial Beasts]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
+A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Terra Pulchra searching for information about the [[Lore/Celestial Beasts\|Celestial Beasts]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
 
 In combat she excells at long distance healing, managing to effectively stave death off all her allies so they may fight another day. If healing is not needed, she also has several melee spells and weapons that make her a considerable opponent, despite her casting status.
 
@@ -15,7 +15,7 @@ In combat she excells at long distance healing, managing to effectively stave de
 #### Project Save the World
 ---
 ##### Pre Campaign (Moph Session 0)
-During her travels though [[Locations/Continent of Nagare ---- Tatsue (plz fix)/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]], [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] encountered a golden bear being hunted by a group of men. She saved [[Lore/Celestial Beasts\|The Bear]] from the [[Locations/Chain Franchises/Hunter's Guild\|hunters]], and was informed by a [[Mystical Lady\|mystical lady]] of the [[Lore/Celestial Beasts\|Celestial Beasts']] role in keeping the world coherent. She also informs Mháthair of the other three beasts, and encourages her to leave the continent and search for a way to help them.
+During her travels though [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]], [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] encountered a golden bear being hunted by a group of men. She saved [[Lore/Celestial Beasts\|The Bear]] from the [[Locations/Chain Franchises/Hunter's Guild\|hunters]], and was informed by a [[Mystical Lady\|mystical lady]] of the [[Lore/Celestial Beasts\|Celestial Beasts']] role in keeping the world coherent. She also informs Mháthair of the other three beasts, and encourages her to leave the continent and search for a way to help them.
 After a few days journey, she finds the hunter's ship and sails to [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]].
 She stumbles upon a small group of men being assaulted by a crowd of orcs, and assists [[!Players/Yunai\|Yunai]] and [[!Players/Texaqou\|Texaqou]] in their escape.
 ##### Augry 22nd, 8309a - Session 1ao

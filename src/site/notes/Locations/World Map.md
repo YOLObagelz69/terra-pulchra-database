@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-14T22:08:44.714-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-26T00:14:41.262-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -33,7 +33,7 @@ The world, and everything inside.
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Korsk City\|Korsk City]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Austin\|Austin]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Iliden\|Iliden]]
-	[[Locations/Continent of In-Posterum/Region of Ellorn/Toncoly\|Toncoly]]
+	[[Locations/Continent of In-Posterum/Region of Ellorn/Tontoly\|Tontoly]]
 #### [[Locations/Continent of Cauldear/Cauldear\|Cauldear]]
 - [[Locations/Continent of Cauldear/Region of Cyllvarr/Cyllvarr\|Cyllvarr]]
 	[[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]]

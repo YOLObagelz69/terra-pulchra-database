@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-25T23:28:36.618-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-26T00:15:49.614-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -167,4 +167,7 @@ The Heist
 	[[!Players/The Players\|The Party]] groups together when the ship lands and travel about a thousand feet to the camp. When they arrive the hunters seem to be nowhere in sight. 
 - 1:00 - Night
 	After an insane conflict, the party manages to BARELY escape the hunter group after a heist to regain the beak of [[Lore/Celestial Beasts\|The Bird]]. When we were escaping on the boat, four adult dragons with [[NPCs/Charlie/Coalborne Hunter\|Coalborne Hunters]] riding on back. After an insane [[!Players/Texaqou\|Texaqou]] clutch, the ship accelerates to max speed and we leave the dragons in the dust.
+	
+###### Session 4ao
+- 08:00 - Morning
 	

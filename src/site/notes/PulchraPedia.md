@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-16T15:59:02.197-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-26T00:18:51.882-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
 ---
 
 ### Home
@@ -11,7 +11,7 @@ Here you can find a station of important links, but if you already know what you
 If you are bored, there is even a randomize button, if you are feeling lucky!
 ###### Also, if you have any requests for pages that should be included in the front page station for quick access, please let me know.
 #### [[,Time/Timeline 2.0\|Timeline 2.0]] ==BETA==
-[[,Time/Timeline 2.0#Session 3ao\|Current Day]]
+[[,Time/Timeline 2.0#Session 4ao\|Current Day]]
 [[,Time/Timeline 2.0#Pre-Campaign History\|Pre-Campaign History]]
 [[,Time/Timeline 2.0#Campaign History\|Campaign History]]
 #### [[,Time/Timeline 1.0\|Timeline 1.0]]

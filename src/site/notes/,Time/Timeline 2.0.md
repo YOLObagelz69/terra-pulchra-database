@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-16T11:53:53.849-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-25T23:28:36.618-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -156,12 +156,15 @@ The Heist
 	Asking if it is alive, it responds barely. 
 	Asking if she can help, it informs her a new avatar must be chosen.
 	Asking who must choose, it does not answer.
-	Asking how long we have, it laments on a deadline, the arrival of a [[comet\|comet]], described as the end of freedom, hope and the sanctity of life.
+	Asking how long we have, it laments on a deadline, the arrival of a [[Elon-Dae Comet\|comet]], described as the end of freedom, hope and the sanctity of life.
 	[[!Players/Mháthair Nádúr\|Mháthair]] thanks it for its knowledge and wishes the seed well, casts Plant Growth on the seed for a boost, and before she makes her leave she collects some of the ashes, known as [[Ashes of Dispair\|Ashes of Dispair]], into a small vial.
 	Upon regrouping, [[!Players/Texaqou\|Texaqou]] informs [[!Players/The Players\|The Party]] that there is a camp towards the edge of the forest, a several day journey away.
 	After some more persueding of [[NPCs/Captain Leohard\|Captain Leohard]], we climb back aboard the sky ship and attempt to track the hunters. 
 - 00:10 - Night
-	When the air ship grows closer to the hunter's camp, [[!Players/Texaqou\|Texaqou]] and [[!Players/Mháthair Nádúr\|Mháthair]] notice that their lights go out, but they do not see their tents disappear. [[!Players/Mháthair Nádúr\|Mháthair]] notices roughly 12 tents, but even she cannot see how many people are within the group.
+	When the air ship grows closer to the hunter's camp, [[!Players/Texaqou\|Texaqou]] and [[!Players/Mháthair Nádúr\|Mháthair]] notice that their lights go out, but they do not see their tents disappear. [[!Players/Mháthair Nádúr\|Mháthair]] notices roughly 8 tents, but even she cannot see how many people are within the group.
 ###### Session 3ao
-??:?? - Night
+- ~00:50 - Night
+	[[!Players/The Players\|The Party]] groups together when the ship lands and travel about a thousand feet to the camp. When they arrive the hunters seem to be nowhere in sight. 
+- 1:00 - Night
+	After an insane conflict, the party manages to BARELY escape the hunter group after a heist to regain the beak of [[Lore/Celestial Beasts\|The Bird]]. When we were escaping on the boat, four adult dragons with [[NPCs/Charlie/Coalborne Hunter\|Coalborne Hunters]] riding on back. After an insane [[!Players/Texaqou\|Texaqou]] clutch, the ship accelerates to max speed and we leave the dragons in the dust.
 	

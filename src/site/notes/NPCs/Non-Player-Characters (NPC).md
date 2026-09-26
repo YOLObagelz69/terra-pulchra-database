@@ -49,7 +49,7 @@ The world of Pulchra Terra would be barren without the heart and soul being prov
 [[NPCs/Coven Hag\|Coven Hag]]
 [[NPCs/Dustin\|Dustin]]
 [[NPCs/Father Tobias\|Father Tobias]]
-[[NPCs/Grista\|Grista]]
+[[NPCs/Fatebound/Grista\|Grista]]
 [[NPCs/James Turnion (Sonion)\|James Turnion (Sonion)]]
 [[NPCs/Jelesain the Coachman\|Jelesain the Coachman]]
 [[NPCs/Sentient Sunflower\|Sentient Sunflower]]

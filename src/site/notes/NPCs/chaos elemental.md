@@ -3,4 +3,4 @@
 ---
 
 An eldritch god that occasionally puppets the body of [[!Players/Texaqou\|Texaqou]] when he is in danger. 
-Has immense power that managed to rival that of [[NPCs/Grista\|Grista]] during the [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Battle Tournament\|Nemoros Battle Tournament]].
+Has immense power that managed to rival that of [[NPCs/Fatebound/Grista\|Grista]] during the [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Battle Tournament\|Nemoros Battle Tournament]].

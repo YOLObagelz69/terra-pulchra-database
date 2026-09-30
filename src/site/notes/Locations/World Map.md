@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-26T00:14:41.262-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-30T13:22:02.278-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -66,7 +66,6 @@ The world, and everything inside.
 [[Locations/Continent of Midgard/Ice Lake\|Ice Lake]]
 [[Locations/Continent of Midgard/Mountains of the All-Eater\|Mountains of the All-Eater]]
 [[Locations/Continent of Midgard/The Roaring Mountains\|The Roaring Mountains]]
-[[Locations/Continent of Midgard/The Heart of Terra\|The Heart of Terra]]
 #### [[Locations/Continent of Geb/Geb\|Geb]]
 [[Locations/Continent of Geb/Wildfire\|Wildfire]]
 [[Locations/Continent of Geb/Port Geb\|Port Geb]]

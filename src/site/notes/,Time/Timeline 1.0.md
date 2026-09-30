@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-1-0/","tags":["Lore"],"updated":"2026-09-25T23:28:37.111-07:00","dg-note-properties":{"tags":["Lore"]}}
+{"dg-publish":true,"permalink":"/time/timeline-1-0/","tags":["Lore"],"updated":"2026-09-30T13:20:12.751-07:00","dg-note-properties":{"tags":["Lore"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -39,14 +39,24 @@ My intention for the original Timeline is that while yes, the days can be a bit 
 	Asking if it is alive, it responds barely. 
 	Asking if she can help, it informs her a new avatar must be chosen.
 	Asking who must choose, it does not answer.
-	Asking how long we have, it laments on a deadline, the arrival of a [[Elon-Dae Comet\|comet]], described as the end of freedom, hope and the sanctity of life.
+	Asking how long we have, it laments on a deadline, the arrival of a [[Events/Elon-Dae Comet\|comet]], described as the end of freedom, hope and the sanctity of life.
 	[[!Players/Mháthair Nádúr\|Mháthair]] thanks it for its knowledge and wishes the seed well, casts Plant Growth on the seed for a boost, and before she makes her leave she collects some of the ashes, known as [[Ashes of Dispair\|Ashes of Dispair]], into a small vial.
 	Upon regrouping, [[!Players/Texaqou\|Texaqou]] informs [[!Players/The Players\|The Party]] that there is a camp towards the edge of the forest, a several day journey away.
 	After some more persueding of [[NPCs/Captain Leohard\|Captain Leohard]], we climb back aboard the sky ship and attempt to track the hunters. 
 - 00:10 - Night
 	When the air ship grows closer to the hunter's camp, [[!Players/Texaqou\|Texaqou]] and [[!Players/Mháthair Nádúr\|Mháthair]] notice that their lights go out, but they do not see their tents disappear. [[!Players/Mháthair Nádúr\|Mháthair]] notices roughly 12 tents, but even she cannot see how many people are within the group.
 ###### Session 3ao
-- ??:?? - Night
+- ~00:50 - Night
+	[[!Players/The Players\|The Party]] groups together when the ship lands and travel about a thousand feet to the camp. When they arrive the hunters seem to be nowhere in sight. 
+- 1:00 - Night
+	After an insane conflict, the party manages to BARELY escape the hunter group after a heist to regain the beak of [[Lore/Celestial Beasts\|The Bird]]. When we were escaping on the boat, four adult dragons with [[NPCs/Charlie/Coalborne Hunter\|Coalborne Hunters]] riding on back. After an insane [[!Players/Texaqou\|Texaqou]] clutch, the ship accelerates to max speed and we leave the dragons in the dust.
+	When the dust settles, the party begins their rest, and are transported into the [[Locations/Night Realm/Night Realm\|Night Realm]]. They have many questions for the [[NPCs/The White Knight (lol)\|The White Knight (lol)]], but he intentionally remains cryptic and answers each very carefully. He reveals that the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] are pillars of life that hold a barrier to repel the effects of an extremely powerful comet that comes by every 500 years. This comet seems to have the power to grant miracles, but without the trees the power emitted by the comet would be so great that anyone could potentially wish for anything, no matter how strong. Inquiring further, [[NPCs/The White Knight (lol)\|The White Knight (lol)]] shows [[!Players/Mháthair Nádúr\|Mháthair]] a distant purple streak in the sky, revealing it to be the [[Events/Elon-Dae Comet\|Elon-Dae Comet]]. He also tells her that the comet will be returning soon, potentially within a year of time.
+	Bothered by this, [[!Players/Mháthair Nádúr\|Mháthair]] decides to explore the realm again, visiting some of the many visions of other people in the world connected to [[!Players/The Players\|The Party]]. While exploring, she finds a gigantic black door. Upon her reaching out for it, [[NPCs/The White Knight (lol)\|The White Knight (lol)]] grows concerned and watches her intently. When [[!Players/Mháthair Nádúr\|Mháthair]] opens the door she finds a dark, monochrome realm with miles of rocky terrain and a dark sky leaking blobs of shadowy ink. In the distance resides a ginormous black dragon resting on a pillar of stone. When their eyes meet [[!Players/Mháthair Nádúr\|Mháthair]] hears a deep, booming voice in her head beckoning for her to enter his realm. She politely declines, and nervously makes her way back to the camp.
+	When she returns, [[NPCs/The White Knight (lol)\|The White Knight (lol)]] informs her that he has no idea who that is, nor how he has access to the [[Locations/Night Realm/Night Realm\|Night Realm]]. He expresses concern with [[!Players/The Players\|The Party]] interacting with him, but says that for now he seems to pose no direct threat to us.
+- 08:00 - Morning
+	[[!Players/The Players\|The Party]] awaken on the deck of the ship, and realize that when they visit the [[Locations/Night Realm/Night Realm\|Night Realm]] their bodies physically go there, not just their minds.
+###### Session 4ao
+- 08:00 - Morning (cont.)
 	
 
 ##### Augry 23rd, 8309a - Wharfenn - Full Moon - Session 1ao
@@ -112,11 +122,11 @@ Heist Prep
 - Evening
 	The Texan and the Knight
 ##### Augry 16th, 8309a - Saurfay - Waxing Gibbous
-[[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Battle Tournament\|Nemoros Battle Tournament]] concluded
+[[Events/Nemoros Battle Tournament\|Nemoros Battle Tournament]] concluded
 ##### Augry 15th, 8309a - Sokturay - Waxing Crescent
-Day 2 of the [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Battle Tournament\|Nemoros Battle Tournament]]
+Day 2 of the [[Events/Nemoros Battle Tournament\|Nemoros Battle Tournament]]
 ##### Augry 14th, 8309a - Ferun - New Moon
-The beginning of the [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Battle Tournament\|Nemoros Battle Tournament]]
+The beginning of the [[Events/Nemoros Battle Tournament\|Nemoros Battle Tournament]]
 ##### Augry 13th, 8309a - Wharfenn - Waning Crescent
 Entry into [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
 ##### ...

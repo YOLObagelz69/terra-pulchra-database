@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/night-realm/night-realm/","tags":["Location/Realm","WIP"],"updated":"2026-09-26T00:10:38.538-07:00","dg-note-properties":{"tags":["Location/Realm","WIP"],"aliases":["Night Tokens","Night Token","Night Market"]}}
+{"dg-publish":true,"permalink":"/locations/night-realm/night-realm/","tags":["Location/Realm","WIP"],"updated":"2026-09-30T13:06:10.658-07:00","dg-note-properties":{"tags":["Location/Realm","WIP"],"aliases":["Night Tokens","Night Token","Night Market"]}}
 ---
 
 Throughout the world are Night Tokens, which allow visit to [[NPCs/The White Knight (lol)\|The White Knight (lol)]], who sells the party assorted [[Magic shit/Magic Items\|Magic Items]] at the [[Locations/Night Realm/Night Realm\|Night Market]]. 
@@ -22,7 +22,7 @@ Destiny Visions
 - 4 - ??
 - 3 - ??
 - 2 - ??
-- 1 - The grass turns to gravel, which leads to a giant dark door. Opening seems to alert the knight. Inside are miles and miles of rocky, mountainous terrain. The sky is inky and grey, and the sky leaks ink. In the distance in a large black dragon. He claims to be the knowledge I seek. The knight himself does not seem comfortable with this door.
+- 1 - The grass turns to gravel, which leads to a giant dark door. Opening seems to alert the knight. Inside are miles and miles of rocky, mountainous terrain. The sky is inky and grey, and the sky leaks ink. In the distance is a large black dragon. He claims to be the knowledge we seek. The knight himself does not seem comfortable with this door.
 
 
 #### Night Market

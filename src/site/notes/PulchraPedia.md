@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-26T00:18:51.882-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-09-30T13:41:26.176-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
 ---
 
 ### Home
@@ -16,10 +16,10 @@ If you are bored, there is even a randomize button, if you are feeling lucky!
 [[,Time/Timeline 2.0#Campaign History\|Campaign History]]
 #### [[,Time/Timeline 1.0\|Timeline 1.0]]
 [[,Time/Timeline 1.0#Pre-Campaign History\|Pre-Campaign History]]
-#### [[Locations/World Map\|World Map]] ==NEW==
+#### [[Locations/World Map\|World Map]]
 #### [[!Players/The Players\|The Players]]
 [[!Players/Battle Perks\|Battle Perks]]
-#### [[NPCs/Non-Player-Characters (NPC)\|Non-Player-Characters (NPC)]] ==NEW==
+#### [[NPCs/Non-Player-Characters (NPC)\|Non-Player-Characters (NPC)]]
 #### [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
 [[Lore/Celestial Beasts\|Celestial Beasts]]
 #### [[Magic shit/Magic Items\|Magic Items]]

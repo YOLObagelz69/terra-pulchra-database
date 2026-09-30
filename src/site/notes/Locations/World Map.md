@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-30T13:22:02.278-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-30T13:36:05.806-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.

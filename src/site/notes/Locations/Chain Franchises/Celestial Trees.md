@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/chain-franchises/celestial-trees/","tags":["Location"],"updated":"2026-09-25T23:28:37.471-07:00","dg-note-properties":{"tags":["Location"],"aliases":["Celestial Tree"]}}
+{"dg-publish":true,"permalink":"/locations/chain-franchises/celestial-trees/","tags":["Location"],"updated":"2026-09-30T12:49:15.185-07:00","dg-note-properties":{"tags":["Location"],"aliases":["Celestial Tree"]}}
 ---
 
-Truly ginormous trees that shine with beautiful golden light. Their specific purpose is unclear, but whatever they contain or repel seems to be destroyed by the death of the Tree's chosen avatars, and relates to the arrival of a [[Elon-Dae Comet\|Elon-Dae Comet]].
+Truly ginormous trees that shine with beautiful golden light. Their specific purpose is unclear, but whatever they contain or repel seems to be destroyed by the death of the Tree's chosen avatars, and relates to the arrival of the [[Events/Elon-Dae Comet\|Elon-Dae Comet]].
 Each tree has a [[Lore/Celestial Beasts\|Celestial Beast]] that seems to act as a conduit for the tree's power. Upon the death of an avatar, the tree and all life around it dies rapidly, with it having only been ~30 hours before the tree in the [[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] wilted and died after the poaching of [[Lore/Celestial Beasts\|The Bird]].
 
 More Information is Needed.

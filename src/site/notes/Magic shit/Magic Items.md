@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic-shit/magic-items/","tags":["Item"],"updated":"2026-09-25T23:13:42.559-07:00","dg-note-properties":{"tags":["Item"]}}
+{"dg-publish":true,"permalink":"/magic-shit/magic-items/","tags":["Item"],"updated":"2026-10-03T01:41:45.067-07:00","dg-note-properties":{"tags":["Item"]}}
 ---
 
 A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have collected and their sources
@@ -10,7 +10,7 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 		1 - [[!Players/Texaqou\|Texaqou]]
 	(0) Constitution
 	(1) Intelligence
-		1 - ???
+		1 - [[!Players/Yunai\|Yunai]]
 	(1) Wisdom
 		1 - [[!Players/Mháthair Nádúr\|Mháthair Nádúr]]
 	(0) Charisma
@@ -30,6 +30,10 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	checks creature's health
 - Cloak of Damage Resistances - [[!Players/Eleanor\|Eleanor]] Family Home ==WIP==
 	does somfin
+- Coalborne Hunter's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]] ==WIP==
+	
+- Coalborne Paladin's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]] ==WIP==
+	
 - Crossbow of 2x bolts/attack - ??? ==WIP==
 	doe what it says on the tin
 - Endless Decanter - [[Locations/Night Realm/Night Realm\|Night Market]] ==WIP==
@@ -49,12 +53,13 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	armah
 - Living Blade - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
 	swaows
-- Coalborne Hunter's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]]
-	
-- Coalborne Paladin's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]]
-	
+- Magic Tackle Box - Bought from [[Locations/Chain Franchises/The Exchange\|The Exchange]] in [[Locations/Continent of In-Posterum/Region of Ellorn/Tontoly\|Tontoly]]
+	Replenishes 10 random quality bait every day
 - Pistol Hammer of 2x Shots - ??? ==WIP==
 	When firing, consumes and fires double shots
+- Quickswap (Cape Slot) - Bought from [[Locations/Chain Franchises/The Exchange\|The Exchange]] within the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]]
+	When within 500ft of a creature within sight, use bonus action to swap places. Alternatively, using an action the range is 5000ft. On use the cape goes on cooldown, at the start of your turn roll a d6. On a 4 or higher, the cape recharges. 
+	If the target is not an ally, they must surpass a wisdom save against the caster's spell save DC.
 - Ring of Protection +1 - [[Locations/Chain Franchises/The Exchange\|The Exchange]]
 	+1 to Wis mod, saving throws, and AC
 - Symbol of Aphrodite - [[!Players/Eleanor\|Eleanor]] Family Home ==WIP==

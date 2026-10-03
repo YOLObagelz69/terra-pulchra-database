@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/players/battle-perks/","tags":["Lore"],"updated":"2026-09-25T22:22:39.783-07:00","dg-note-properties":{"tags":["Lore"]}}
+{"dg-publish":true,"permalink":"/players/battle-perks/","tags":["Lore"],"updated":"2026-10-02T21:19:20.453-07:00","dg-note-properties":{"tags":["Lore"]}}
 ---
 
+Water Walking
+	As long as you are moving 200ft per turn, you can run on water.
 
-
-Dueling
+Dueling ==WIP==
+	
 
 Against the Horde
 	If 3 or more enemies, gain extra turn of combat (at 1/2 initiative) and 10 temp hp per enemy

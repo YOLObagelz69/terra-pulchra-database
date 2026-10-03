@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-09-30T13:36:05.493-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-03T11:31:01.936-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -15,10 +15,9 @@ Entries will be formatted with both daily and hourly events happening chronologi
 	###### Session (prevnumber+1)ao
 ###### Non-Daily Formatting
 - New Month
-		#### MMMM, YYYY(a b or c)
+	### ==MMMM, YYYY(a b or c)==
 - New Year
-		### YYYY(next in sequence to a b or c)
-
+	# ==YYYY(next in sequence to a b or c)==
 ###### Legend
  ao = After (discovery of) Obsidian
  po = Pre- (discovery of) Obsidian
@@ -174,5 +173,63 @@ The Heist
 	[[!Players/The Players\|The Party]] awaken on the deck of the ship, and realize that when they visit the [[Locations/Night Realm/Night Realm\|Night Realm]] their bodies physically go there, not just their minds.
 ###### Session 4ao
 - 08:00 - Morning (cont.)
-	
+	[[!Players/The Players\|The Party]] takes some time to deliberate why the [[Locations/Oceans and Seas/Obsidian Sea\|Obsidian Sea]] is white. (We don't know)
+- 08:10 - Morning
+	We kinda know now (its related to the Fey)
+- 9:00 - Morning
+	[[!Players/The Players\|The Party]] (-[[!Players/Texaqou\|Texaqou]]) try to decide where to travel, but find that they decide to go shopping before finding [[!Players/Texaqou\|Texaqou]].
+	They head to [[Locations/Chain Franchises/The Exchange\|The Exchange]] for some shopping.
+- 9:22 - Morning
+	[[!Players/Texaqou\|Texaqou]] found a "pocket watch"
+	[[!Players/The Players\|The Party]] meet up, and decide to take a merchant job to travel to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]].
+	[[!Players/The Players\|The Party]] meet [[Captain Philbarry\|Captain Philbarry]] and pay their fares, but ==[[!Players/John\|John]] and [[!Players/Eleanor\|Eleanor]] owe 20g each.== He tells us to meet back in an hour.
+- 10:30 - Near Midday
+	We board the ship, and we split off to train and read individually for the rest of the day. 
+- 18-19:00 - Evening
+	The awake members wake up to the beginning of a storm, and see something rapidly approaching the vessel. 
+	[[!Players/Texaqou\|Texaqou]] does not seem to know what it is, but [[!Players/Naomi\|Naomi]] seems to see something rocky in the water heading towards the boat, with the storm following.  
+	[[!Players/Naomi\|Naomi]] calls the alarm, seemingly alerting it to our presence. 
+- A few minutes later
+	We feel the ship jolt, as something hits the ship. Elementals descend, but [[!Players/Texaqou\|Texaqou]] (with [[!Players/Naomi\|Naomi]] and [[!Players/Tarx\|Tarx]] as backup) dances the air spirits into pure air. The gigantic turtle stops the ship completely, and raises his head above the ship. Its head is three times the size of the entire ship.
+	As their dance completes, the air elementals dissipate and the turtles speak. 
+	 "Long has it been since I have seen the language of my ancestors. You have my great appreciation."
+	 "Do not lose your ancestry as I have. You do your people a great honor."
+	The Great Turtle leaves, and the storm dissipates.
+	Encounter Avoided
+- 20:00/00:00 - Midnight
+	[[!Players/Tarx\|Tarx]] uses 9th level identify on the Anchor Beak, finding that it is the culmination of all the life and energy of the forest condensed into a single anchor. 
+##### Augry 25th, 8309a - Sokturay - Waning Crescent - Session 4ao
+- 3:00 - Night
+	[[!Players/Mháthair Nádúr\|Mháthair]] dreams of a burning forest, awakening at noon.
+- 11:00 - Noon
+	[[!Players/Mháthair Nádúr\|Mháthair]] divvies out food, and describes her nightmare to [[!Players/The Players\|The Party]] while doing so.
+- 17:00 - Dusk
+	[[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Texaqou\|Tex's]] conversation end after MUCH speaking. 
+### ==Aieful, 8309a==
+##### Aieful 1st, 8309a - Saurfay - New Moon - Session 4ao
+- ~14:00 - Afternoon
+	Several members of [[!Players/The Players\|The Party]] see a small fleet (seven ships) hailing the Pulchra Terran Jolly Roger. 
+	They are apparently members of the [[Fallion's Brigade\|Fallion's Brigade]], the strongest pirate force in all of Pulchra Terra. There appears to be 5 [[Pirate Sloop\|Sloops]] and 2 [[Pirate Schooner\|Pirate Marauders]]
+	The pirates blow low horns, and turn towards our merchant ship.
+	They surround our vessel, and call out to anchor our ship.
+	[[Captain Philbarry\|Captain Philbarry]] drifts the ship, skipping over one of the [[Pirate Schooner\|Pirate Marauders]] sinking it instantly, and combat begins.
+ - Combat
+	The [[Merchant Ship\|Merchant Ship]] blows apart two ships, [[!Players/Yunai\|Yunai]] finishes sinking the ship we ran over, and [[!Players/Tarx\|Tarx]] disables the steering of one of the ships by assassinating two of their commanders.
+	[[!Players/Texaqou\|Texaqou]] intimidates their fleet, causing them to allow us to flee from combat.
+- Post Combat
+	[[!Players/The Players\|The Party]] helps fix the ship, and land is spotted shortly before dusk.
+- 17:00 Dusk
+	[[!Players/The Players\|The Party]] and [[Captain Philbarry\|Captain Philbarry's]] [[Merchant Ship\|Merchant Ship]] arrive at the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]].
+	We go to the [[South Star Inn\|South Star Inn]] for our evening.
+	[[!Players/Texaqou\|Texaqou]] haggles over 2 silver.
+	[[!Players/Naomi\|Naomi]] searches for a one night stand to feed off of. The victim was very drunk during the act.
+##### Aieful 2nd, 8309a - Torthul - Waxing Crescent - Session 4ao
+- 9:00 - Morning
+	When [[!Players/The Players\|The Party]] meet up in the morning, they decide to go shopping. [[!Players/Tarx\|Tarx]] finds some cursed magic items in an antique shop. After a ton of haggling, we got the price down to 600gp.
+- 9:30 - Morning
+	During our browsing, a newsboy gives us information of the incoming [[Events/Elon-Dae Comet\|Elon-Dae Comet]] coming on Simbarr 15th, 8310b. 
+	[[!Players/Tarx\|Tarx]] gets the magic items uncursed. Wow, that was easy!
+	We then decide to go to [[Locations/Chain Franchises/The Exchange\|The Exchange]]. In there we got a new cape, and after that [[!Players/The Players\|The Party]] decide to depart from the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]] to continue their journey to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]].
+###### Session 5ao
+
 

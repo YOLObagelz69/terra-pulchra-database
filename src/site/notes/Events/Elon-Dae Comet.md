@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/elon-dae-comet/","tags":["Lore"],"updated":"2026-09-30T13:43:06.043-07:00","dg-note-properties":{"tags":["Lore"]}}
+{"dg-publish":true,"permalink":"/events/elon-dae-comet/","tags":["Lore","Event"],"updated":"2026-10-03T12:00:18.861-07:00","dg-note-properties":{"tags":["Lore","Event"]}}
 ---
 
 A comet that comes by Pulchra Terra every 500 years.

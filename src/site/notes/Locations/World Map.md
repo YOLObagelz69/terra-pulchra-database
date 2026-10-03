@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-09-30T13:36:05.806-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-10-03T11:55:23.022-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -42,7 +42,7 @@ The world, and everything inside.
 	[[Locations/Continent of Cauldear/Region of Cyllvarr/Soaring Peaks\|Soaring Peaks]]
 - [[Locations/Continent of Cauldear/Region of Cynndarr/Cynndarr\|Cynndarr]]
 	[[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]]
-	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]]
+	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 - [[Locations/Continent of Cauldear/Region of Fallzeer/Fallzeer\|Fallzeer]]
 	[[Locations/Continent of Cauldear/Region of Fallzeer/Fate\|Fate]]
 	[[Locations/Continent of Cauldear/Region of Fallzeer/Destin\|Destin]]
@@ -67,6 +67,7 @@ The world, and everything inside.
 [[Locations/Continent of Midgard/Mountains of the All-Eater\|Mountains of the All-Eater]]
 [[Locations/Continent of Midgard/The Roaring Mountains\|The Roaring Mountains]]
 #### [[Locations/Continent of Geb/Geb\|Geb]]
+[[Locations/Continent of Geb/City of Geb\|City of Geb]]
 [[Locations/Continent of Geb/Wildfire\|Wildfire]]
 [[Locations/Continent of Geb/Port Geb\|Port Geb]]
 #### [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]

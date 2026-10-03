@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-03T11:31:01.936-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-03T12:10:31.285-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
 
 Entries will be formatted with both daily and hourly events happening chronologically, so as time goes on it you may have to scroll a while to reach the most recent events.
 
-[[,Time/Timeline 1.0\|Timeline 1.0]], for those who still prefer the old ways
-
 ###### Daily Entry Format
 	##### MMMM DD, YYYY(a b or c) - (DDDD) - Moon Phase - Session (Number)ao
 	- 00:00/00:00 - (Time of Day)
 	(tab)entry
-	###### Session (prevnumber+1)ao
 ###### Non-Daily Formatting
+- New D&D Session
+	\###### Session (prevnumber+1)ao
 - New Month
-	### ==MMMM, YYYY(a b or c)==
+	\### MMMM, YYYY(a b or c) - (Current Season)
 - New Year
-	# ==YYYY(next in sequence to a b or c)==
+	\# YYYY(next in sequence to a b or c)
+==Remove Backslashes==
 ###### Legend
  ao = After (discovery of) Obsidian
  po = Pre- (discovery of) Obsidian
@@ -64,7 +64,7 @@ The Siege of [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Ho
 	After the battle, [[!Players/The Players\|The Party]] helped [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] rebuild their walls.
 ##### ...
 ##### ????
-[[NPCs/Jelesain the Coachman\|Jelesain the Coachman]] gifted us a super horse and a carriage, which became our [[!Players/The Party's Trusty Cart\|Trusty Carriage]]. [[NPCs/Bernal\|Bernal]] also gave [[!Players/Texaqou\|Texaqou]] a box with 2000 gold (This will be important), and eventually left [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] on the journey to [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]].
+[[NPCs/Jelesain the Coachman\|Jelesain the Coachman]] gifted us a super horse and a carriage, which became our [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|Trusty Carriage]]. [[NPCs/Bernal\|Bernal]] also gave [[!Players/Texaqou\|Texaqou]] a box with 2000 gold (This will be important), and eventually left [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] on the journey to [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]].
 ##### ???? - Infamous first rest after leaving [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
  [[!Players/The Players\|The Party]] is jumped by a gang of [[NPCs/Groups/The Orcs\|Orcs]], and while most fair fine in the fight, [[!Players/Texaqou\|Texaqou]] is beaten to a mulchy pulp. Despite this however, [[!Players/Mháthair Nádúr\|Mháthair]] manages to keep him healed while he distracts an entire [[Orc Captain\|Orc Captain]]
  ##### ...
@@ -89,7 +89,7 @@ Day 2 of the [[Events/Nemoros Battle Tournament\|Nemoros Battle Tournament]]
 - Morning
 	The [[Recipes-Ingredients/Arby's Extra Crispy Spicy Chicken Sandwich\|Arby's Extra Crispy Spicy Chicken Sandwich]] and how the world changed because of it.
 	[[!Players/Eleanor\|Eleanor’s]] personal quest, finding [[NPCs/Charlie/Charlie\|Charlie]] is the man behind her parents’ soul deaths.
-	[[!Players/Mháthair Nádúr\|Mháthair]] found the [[Items/Alchemy Table\|Alchemy Table]] in [[!Players/Eleanor\|Eleanor's]] mother's study.
+	[[!Players/Mháthair Nádúr\|Mháthair]] found the [[Worldly Possessions/Items/Alchemy Table\|Alchemy Table]] in [[!Players/Eleanor\|Eleanor's]] mother's study.
 - Evening
 	The Texan and the Knight
 ##### Augry 18th, 8309a - Wharfenn - Waning Gibbous - Session 4po
@@ -143,7 +143,7 @@ The Heist
 	[[!Players/The Players\|The Party]] travels to [[Locations/Chain Franchises/The Exchange\|The Exchange]] for a quick shopping trip, and [[!Players/Tarx\|Tarx]] splits to collect her Extravagant Black Ballistic Dress.
 - 14:00 - Afternoon
 	After the shopping, half of [[!Players/The Players\|The Party]] meets at [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/The Coven\|The Coven]] for some alchemy shopping. Here they find a massive rave with a potions/alchemy shop ran by the [[NPCs/Coven Hag\|Coven Hag]]. [[!Players/Mháthair Nádúr\|Mháthair]] purchases a chest of [[Recipes-Ingredients/Crimson Heart\|Crimson Hearts]] and three potion recipes, and politely leaves.
-	After this, the party decides to go to the airship behind [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], but [[!Players/Texaqou\|Texaqou]] tactically returns to the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] to ensure that [[!Players/The Party's Trusty Cart\|The Party's Trusty Cart]] was indeed delivered to the ship, meeting a random [[Autistic Child\|Autistic Child]] in the stables.
+	After this, the party decides to go to the airship behind [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], but [[!Players/Texaqou\|Texaqou]] tactically returns to the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] to ensure that [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]] was indeed delivered to the ship, meeting a random [[Autistic Child\|Autistic Child]] in the stables.
 - 16:00 - Evening
 	[[!Players/The Players\|The Party]] meets at the back gate in order to go to the [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Air Strip\|Nemoros Air Strip]]. Here they see a large galleon without masts or sails, but instead with huge purple glowing crystals. Heading this ship is [[NPCs/Captain Leohard\|Captain Leohard]], an 8 feet tall, heavily muscled, traditionally clothed pirate captain complete with a peg leg, parrot, and eye patch covering a completely good eye.
 	After much deliberation, [[!Players/The Players\|The Party]] decide on the path they will take on their beautiful quest. They decide to head to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]], and after persuading the captain they will take a detour to the [[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] to investigate the home of [[Lore/Celestial Beasts\|The Bird]].
@@ -181,8 +181,8 @@ The Heist
 	They head to [[Locations/Chain Franchises/The Exchange\|The Exchange]] for some shopping.
 - 9:22 - Morning
 	[[!Players/Texaqou\|Texaqou]] found a "pocket watch"
-	[[!Players/The Players\|The Party]] meet up, and decide to take a merchant job to travel to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]].
-	[[!Players/The Players\|The Party]] meet [[Captain Philbarry\|Captain Philbarry]] and pay their fares, but ==[[!Players/John\|John]] and [[!Players/Eleanor\|Eleanor]] owe 20g each.== He tells us to meet back in an hour.
+	[[!Players/The Players\|The Party]] meet up, and decide to take a merchant job to travel to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]].
+	[[!Players/The Players\|The Party]] meet [[NPCs/Captain Philbarry\|Captain Philbarry]] and pay their fares, but ==[[!Players/John\|John]] and [[!Players/Eleanor\|Eleanor]] owe 20g each.== He tells us to meet back in an hour.
 - 10:30 - Near Midday
 	We board the ship, and we split off to train and read individually for the rest of the day. 
 - 18-19:00 - Evening
@@ -205,22 +205,22 @@ The Heist
 	[[!Players/Mháthair Nádúr\|Mháthair]] divvies out food, and describes her nightmare to [[!Players/The Players\|The Party]] while doing so.
 - 17:00 - Dusk
 	[[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Texaqou\|Tex's]] conversation end after MUCH speaking. 
-### ==Aieful, 8309a==
+### Aieful, 8309a - Summer
 ##### Aieful 1st, 8309a - Saurfay - New Moon - Session 4ao
 - ~14:00 - Afternoon
 	Several members of [[!Players/The Players\|The Party]] see a small fleet (seven ships) hailing the Pulchra Terran Jolly Roger. 
-	They are apparently members of the [[Fallion's Brigade\|Fallion's Brigade]], the strongest pirate force in all of Pulchra Terra. There appears to be 5 [[Pirate Sloop\|Sloops]] and 2 [[Pirate Schooner\|Pirate Marauders]]
+	They are apparently members of the [[NPCs/Groups/Fallion's Brigade\|Fallion's Brigade]], the strongest pirate force in all of Pulchra Terra. There appears to be 5 [[Worldly Possessions/Vehicles/Waterborne/Pirate Sloop\|Sloops]] and 2 [[Worldly Possessions/Vehicles/Waterborne/Pirate Schooner\|Pirate Marauders]]
 	The pirates blow low horns, and turn towards our merchant ship.
 	They surround our vessel, and call out to anchor our ship.
-	[[Captain Philbarry\|Captain Philbarry]] drifts the ship, skipping over one of the [[Pirate Schooner\|Pirate Marauders]] sinking it instantly, and combat begins.
+	[[NPCs/Captain Philbarry\|Captain Philbarry]] drifts the ship, skipping over one of the [[Worldly Possessions/Vehicles/Waterborne/Pirate Schooner\|Pirate Marauders]] sinking it instantly, and combat begins.
  - Combat
-	The [[Merchant Ship\|Merchant Ship]] blows apart two ships, [[!Players/Yunai\|Yunai]] finishes sinking the ship we ran over, and [[!Players/Tarx\|Tarx]] disables the steering of one of the ships by assassinating two of their commanders.
+	The [[Worldly Possessions/Vehicles/Waterborne/Merchant Ship\|Merchant Ship]] blows apart two ships, [[!Players/Yunai\|Yunai]] finishes sinking the ship we ran over, and [[!Players/Tarx\|Tarx]] disables the steering of one of the ships by assassinating two of their commanders.
 	[[!Players/Texaqou\|Texaqou]] intimidates their fleet, causing them to allow us to flee from combat.
 - Post Combat
 	[[!Players/The Players\|The Party]] helps fix the ship, and land is spotted shortly before dusk.
 - 17:00 Dusk
-	[[!Players/The Players\|The Party]] and [[Captain Philbarry\|Captain Philbarry's]] [[Merchant Ship\|Merchant Ship]] arrive at the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]].
-	We go to the [[South Star Inn\|South Star Inn]] for our evening.
+	[[!Players/The Players\|The Party]] and [[NPCs/Captain Philbarry\|Captain Philbarry's]] [[Worldly Possessions/Vehicles/Waterborne/Merchant Ship\|Merchant Ship]] arrive at the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]].
+	We go to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]] for our evening.
 	[[!Players/Texaqou\|Texaqou]] haggles over 2 silver.
 	[[!Players/Naomi\|Naomi]] searches for a one night stand to feed off of. The victim was very drunk during the act.
 ##### Aieful 2nd, 8309a - Torthul - Waxing Crescent - Session 4ao
@@ -229,7 +229,7 @@ The Heist
 - 9:30 - Morning
 	During our browsing, a newsboy gives us information of the incoming [[Events/Elon-Dae Comet\|Elon-Dae Comet]] coming on Simbarr 15th, 8310b. 
 	[[!Players/Tarx\|Tarx]] gets the magic items uncursed. Wow, that was easy!
-	We then decide to go to [[Locations/Chain Franchises/The Exchange\|The Exchange]]. In there we got a new cape, and after that [[!Players/The Players\|The Party]] decide to depart from the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]] to continue their journey to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]].
+	We then decide to go to [[Locations/Chain Franchises/The Exchange\|The Exchange]]. In there we got a new cape, and after that [[!Players/The Players\|The Party]] decide to depart from the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]] to continue their journey to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]].
 ###### Session 5ao
 
 

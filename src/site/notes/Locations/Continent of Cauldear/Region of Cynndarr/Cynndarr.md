@@ -8,4 +8,4 @@ A region within the continent of [[Locations/Continent of Cauldear/Cauldear\|Cau
 Notable city is [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]]. 
 
 Ports
-	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]]
+	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]

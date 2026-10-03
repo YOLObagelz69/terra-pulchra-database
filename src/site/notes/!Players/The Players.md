@@ -9,4 +9,4 @@ Consists of [[!Players/Mháthair Nádúr\|Mháthair Nádúr]], [[!Players/Texaqo
 [[!Players/Battle Perks\|Battle Perks]]
 The players are able to gain Destiny Abilities when certain players are separated from the group.
 
-[[!Players/The Party's Trusty Cart\|The Party's Trusty Cart]]
+[[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]]

@@ -10,11 +10,11 @@ In combat she excells at long distance healing, managing to effectively stave de
 
 28.5/200 Hours spent researching Subclass Tome
 	+3 - on the way from nemoros
-	+8 - while sailing to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]]
-	+4 - while sailing  to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star\|South Star]]
+	+8 - while sailing to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
+	+4 - while sailing  to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 	+6 - again.
 	+3 - yeah.
-	+4.5 - On the roof of the [[South Star Inn\|South Star Inn]]
+	+4.5 - On the roof of the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]]
 	
 
 

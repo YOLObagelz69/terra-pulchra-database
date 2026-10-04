@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/charlie/charlie/","tags":["Groups/CharliesAngels","Characters/NPC"],"updated":"2026-09-14T21:42:45.016-07:00","dg-note-properties":{"tags":["Groups/CharliesAngels","Characters/NPC"],"aliases":["\"C\"","Chuck","Roadkill"]}}
+{"dg-publish":true,"permalink":"/np-cs/charlie/charlie/","tags":["Groups/CharliesAngels","Characters/NPC"],"updated":"2026-10-04T12:00:21.602-07:00","dg-note-properties":{"tags":["Groups/CharliesAngels","Characters/NPC"],"aliases":["\"C\"","Chuck","Roadkill"]}}
 ---
 
 Evil ass sonovabitch
@@ -11,4 +11,4 @@ Has a [[Lore/Charlie's Diary\|diary]], who's pages we've been collecting
 
 many many goons 
 
-The man behind the death of [[!Players/Eleanor\|Eleanor]]'s parents, [[!Players/Naomi\|Naomi]]'s town burning, [[!Players/Texaqou\|Texaqou]]'s delivery, and the middleman between the death of the [[Lore/Celestial Beasts\|Celestial Beasts]].
+The man behind the death of [[!Players/Eleanor\|Eleanor]]'s parents, [[!Players/Naomi\|Naomi]]'s town burning, [[!Players/Texaqou Squall\|Texaqou Squall]]'s delivery, and the middleman between the death of the [[Locations/Chain Franchises/Celestial Trees\|Celestial Beasts]].

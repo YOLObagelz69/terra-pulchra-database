@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/battle-perks/","tags":["Lore"],"updated":"2026-10-02T21:19:20.453-07:00","dg-note-properties":{"tags":["Lore"]}}
+{"dg-publish":true,"permalink":"/players/battle-perks/","tags":["Lore"],"updated":"2026-10-04T12:00:21.199-07:00","dg-note-properties":{"tags":["Lore"]}}
 ---
 
 Water Walking
@@ -18,6 +18,6 @@ Underdog
 [[!Players/Mháthair Nádúr\|Mháthair]] + [[!Players/Naomi\|Naomi]] *Nature's Wrath*
 	Naomi: Weapon is wrapped in thorns, dealing 1d12 per hit of extra piercing damage, and heals self 1d6 per hit.
 	Mhathair: Extra 1d12 of either Radiant, Necrotic, or Fire damage to every attack.
-[[!Players/Texaqou\|Texaqou]] + [[!Players/Yunai\|Yunai]] *Brothers in Arms* ==under revision==
+[[!Players/Texaqou Squall\|Texaqou Squall]] + [[!Players/Yunai\|Yunai]] *Brothers in Arms* ==under revision==
 	Whenever either casts a spell, their firearms are reloaded
 

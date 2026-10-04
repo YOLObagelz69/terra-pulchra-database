@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldly-possessions/magic-shit/magic-items/","tags":["WorldlyPossession/Magic"],"updated":"2026-10-03T11:48:33.982-07:00","dg-note-properties":{"tags":["WorldlyPossession/Magic"]}}
+{"dg-publish":true,"permalink":"/worldly-possessions/magic-shit/magic-items/","tags":["WorldlyPossession/Magic"],"updated":"2026-10-04T12:00:21.804-07:00","dg-note-properties":{"tags":["WorldlyPossession/Magic"]}}
 ---
 
 A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have collected and their sources
@@ -7,7 +7,7 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 [[Worldly Possessions/Magic shit/Orbs of Power\|Orbs of Power]]
 	(0) Strength
 	(1) Dexterity
-		1 - [[!Players/Texaqou\|Texaqou]]
+		1 - [[!Players/Texaqou Squall\|Texaqou Squall]]
 	(0) Constitution
 	(1) Intelligence
 		1 - [[!Players/Yunai\|Yunai]]
@@ -24,6 +24,8 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	Can be used 1x per turn.
 - Bag of Holding - [[Locations/Night Realm/Night Realm\|Night Market]]
 	A bag who's opening leads to a pocket dimension for holding stuff
+- Bracers of Antiarchery - Bought from an unnamed antique shop in the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
+	The wearer gains +2 to any projectile attacks and damage. They used to be cursed, preventing any projectile attacks to be made, but this has been resolved.
 - Cask of Preserving - [[!Players/Eleanor\|Eleanor]] Family Home
 	Similar to bag of holding, but specifically for food. Preserves any organics inside as though frozen in time.
 - Cape of Foresight - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
@@ -40,6 +42,8 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	Spews an endless amount of water
 - Gloves of Bane - ??? ==WIP==
 	bane
+- Hand Crossbow of Triple Shot (+4) - Bought from an unnamed antique shop in the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
+	If during your turn you use both your action and bonus action to fire this crossbow, you gain a free extra attack with it.
 - Hunter's Boots - Robbing the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]]
 	When a creature is Hunter's Mark'ed, their speed is reduced by 20 feet.
 - Immovable Rod - [[Locations/Night Realm/Night Realm\|Night Market]]

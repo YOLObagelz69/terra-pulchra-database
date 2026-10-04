@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-10-03T12:01:35.688-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-10-04T11:53:26.681-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
 ---
 
 ### Home
@@ -19,7 +19,7 @@ If you are bored, there is even a randomize button, if you are feeling lucky!
 [[!Players/Battle Perks\|Battle Perks]]
 #### [[NPCs/Non-Player-Characters (NPC)\|Non-Player-Characters (NPC)]]
 #### [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
-[[Lore/Celestial Beasts\|Celestial Beasts]]
+[[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
 #### [[Worldly Possessions/Magic shit/Magic Items\|Magic Items]]
 [[Worldly Possessions/Magic shit/Orbs of Power\|Orbs of Power]]
 #### [[Recipes-Ingredients/Recipes\|Recipes]]

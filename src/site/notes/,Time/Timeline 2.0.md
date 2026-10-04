@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-04T13:01:51.894-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-04T13:12:12.601-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -229,8 +229,8 @@ The Heist
 - 17:00 Dusk
 	[[!Players/The Players\|The Party]] and [[NPCs/Captain Philbarry\|Captain Philbarry's]] [[Worldly Possessions/Vehicles/Waterborne/Merchant Ship\|Merchant Ship]] arrive at the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]].
 	We go to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]] for our evening.
-	[[!Players/Texaqou Squall\|Texaqou Squall]] haggles over 2 silver.
-	[[!Players/Naomi\|Naomi]] searches for a one night stand to feed off of. The victim was very drunk during the act.
+	[[!Players/Texaqou Squall\|Texaqou Squall]] haggles over a room costing 2 silver. The innkeeper challenges to make him laugh, and if he can then [[!Players/Texaqou Squall\|Tex]] gets a free night. [[!Players/Texaqou Squall\|Texaqou]] does so poorly that the innkeeper pays him to leave his establishment.
+	[[!Players/Naomi\|Naomi]] searches for a one night stand to feed off of. The victim was very drunk during the act. ([[!Players/Naomi\|Naomi]] consent issues strike again)
 ###### Aieful 2nd, 8309a - Torthul - Waxing Crescent
 - 9:00 - Morning
 	When [[!Players/The Players\|The Party]] meet up in the morning, they decide to go shopping. [[!Players/Tarx\|Tarx]] finds some cursed magic items in an antique shop. After a ton of haggling, we got the price down to 600gp.

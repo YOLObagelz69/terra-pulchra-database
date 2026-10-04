@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/texaqou-squall/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-09-30T13:36:05.346-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Tex","Ten Gun Texan","Golden Thunder","Tessy","The Texan"],"Player":"Josh"}}
+{"dg-publish":true,"permalink":"/players/texaqou-squall/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-04T13:11:00.902-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Tex","Ten Gun Texan","Golden Thunder","Tessy","The Texan","Texaqou"],"Player":"Josh"}}
 ---
 
 Doesn't know own birthday

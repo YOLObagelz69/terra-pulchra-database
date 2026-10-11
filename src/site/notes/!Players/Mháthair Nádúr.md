@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-04T12:00:21.256-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-11T14:53:04.143-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
-A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Terra Pulchra searching for information about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
+A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Pulchra Terra searching for information about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
 
 In combat she excells at long distance healing, managing to effectively stave death off all her allies so they may fight another day. If healing is not needed, she also has several melee spells and weapons that make her a considerable opponent, despite her casting status.
 

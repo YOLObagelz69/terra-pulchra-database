@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/nemoros-battle-tournament/","tags":["Event"],"updated":"2026-09-13T23:46:20.578-07:00","dg-note-properties":{"tags":["Event"]}}
+{"dg-publish":true,"permalink":"/events/nemoros-battle-tournament/","tags":["Event"],"updated":"2026-10-10T15:22:04.059-07:00","dg-note-properties":{"tags":["Event"]}}
 ---
 
-A three day celebration of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros']] pride. When the grounds are set, there is a large colosseum surrounded by hundreds of tents filled with food and activities. 
-During each of the three days, the colosseum doe not open until the second half of the day, where then the challengers will face off. The first day contains the preliminaries, so the colosseum is not open for the public that day. The second and third days have a few hours of festivities followed by the gates opening and the Tournament beginning.
+A three day celebration of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros']] pride which is held every four years. When the grounds are set, there is a large colosseum surrounded by hundreds of tents filled with food and activities. 
+During each of the three days, the colosseum does not open until the second half of the day, where then the challengers will face off. The first day contains the preliminaries, so the colosseum is not open for the public that day. The second and third days have a few hours of festivities followed by the gates opening and the Tournament beginning.
 
 Placement Rewards
 	Eliminated in preliminaries - sore ego

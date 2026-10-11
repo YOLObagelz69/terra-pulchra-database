@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldly-possessions/magic-shit/magic-items/","tags":["WorldlyPossession/Magic"],"updated":"2026-10-04T12:00:21.804-07:00","dg-note-properties":{"tags":["WorldlyPossession/Magic"]}}
+{"dg-publish":true,"permalink":"/worldly-possessions/magic-shit/magic-items/","tags":["WorldlyPossession/Magic"],"updated":"2026-10-10T15:20:25.880-07:00","dg-note-properties":{"tags":["WorldlyPossession/Magic"]}}
 ---
 
 A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have collected and their sources
@@ -48,8 +48,8 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	When a creature is Hunter's Mark'ed, their speed is reduced by 20 feet.
 - Immovable Rod - [[Locations/Night Realm/Night Realm\|Night Market]]
 	Press a button to freeze the rod in place
-- Leather Armor of Weapon Resistance - [[Locations/Chain Franchises/The Exchange\|The Exchange]] ==WIP==
-	armah
+- Studded Leather Armor - (Chest Slot) - [[Locations/Chain Franchises/The Exchange\|The Exchange]]
+	Its just +1 Studded Leather Armor
 - Leek Quarterstaff - Random encounter by [[NPCs/Fatebound/Mariachi\|Mariachi]]
 	+2 to spell attack, with a built in spell
 		 6th lvl Moon Beam, fires directionally from the staff, requires a turn to charge

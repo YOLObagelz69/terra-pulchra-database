@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/time/time/","tags":["Lore/Time"],"updated":"2026-09-13T23:47:14.479-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/time/","tags":["Lore/Time"],"updated":"2026-10-11T14:53:40.729-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *The one true predator of life, the harbinger of change, and that son of a bitch we have yet to conquer.*
 (see the calendar in the sidebar for a better view)
 
-The year in Terra Pulchra contains ten months in a year; Jorthaul, Formund, Augry, Aieful, Mouratay, Simbarr, Octo, Naruum, Doctrin and Effulheim.
+The year in Pulchra Terra contains ten months in a year; Jorthaul, Formund, Augry, Aieful, Mouratay, Simbarr, Octo, Naruum, Doctrin and Effulheim.
 
 Of these months, there are 5 weeks in a month (25 Days), with 5 days in a week; Saurfay, Torthul, Wharfenn, Ferun and Sokturay.
 
@@ -26,7 +26,7 @@ Each year also contains four unbalanced seasons.
 	Winter: Doctrin-Jorthaul (3 months)
 
 The Moon(s)
-Within the night skies of Terra Pulchra is a single material moon and two ghost moons. The material moon is "just like" real life, the Fey Moon is from the Feywilds, and the Shadow Moon is from Shadowfell.
+Within the night skies of Pulchra Terra is a single material moon and two ghost moons. The material moon is "just like" real life, the Fey Moon is from the Feywilds, and the Shadow Moon is from Shadowfell.
 There are 6 cycles of the moon; Full, Waning Gibbous and then Crescent, New Moon, Waxing Crescent and then Gibbous. These phases pass daily and peak at midnight (20:00/00:00) every night. The two ghost moons do not phase, and are only seen as full.
 
 Lunar Drift

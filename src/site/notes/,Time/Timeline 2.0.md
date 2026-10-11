@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-04T13:12:12.601-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-10T15:41:00.171-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -182,23 +182,23 @@ The Heist
 - 08:00 - Morning (cont.)
 	[[!Players/The Players\|The Party]] takes some time to deliberate why the [[Locations/Oceans and Seas/Obsidian Sea\|Obsidian Sea]] is white. (We don't know)
 - 08:10 - Morning
-	We kinda know now (its related to the Fey)
+	We kinda know now (it seems to be related to the Fey)
 - 9:00 - Morning
-	[[!Players/The Players\|The Party]] (-[[!Players/Texaqou Squall\|Texaqou Squall]]) try to decide where to travel, but find that they decide to go shopping before finding [[!Players/Texaqou Squall\|Texaqou Squall]].
+	[[!Players/The Players\|The Party]] (Minus [[!Players/Texaqou Squall\|Texaqou Squall]]) try to decide where to travel, but find that they decide to go shopping before finding [[!Players/Texaqou Squall\|Tex]].
 	They head to [[Locations/Chain Franchises/The Exchange\|The Exchange]] for some shopping.
 - 9:22 - Morning
 	[[!Players/Texaqou Squall\|Texaqou Squall]] found a "pocket watch"
 	[[!Players/The Players\|The Party]] meet up, and decide to take a merchant job to travel to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]].
-	[[!Players/The Players\|The Party]] meet [[NPCs/Captain Philbarry\|Captain Philbarry]] and pay their fares, but ==[[!Players/John\|John]] and [[!Players/Eleanor\|Eleanor]] owe 20g each.== He tells us to meet back in an hour.
+	[[!Players/The Players\|The Party]] meet [[NPCs/Captain Philbarry\|Captain Philbarry]] and pay their fares. He tells us to meet back in an hour.
 - 10:30 - Near Midday
 	We board the ship, and we split off to train and read individually for the rest of the day. 
 - 18-19:00 - Evening
-	The awake members wake up to the beginning of a storm, and see something rapidly approaching the vessel. 
-	[[!Players/Texaqou Squall\|Texaqou Squall]] does not seem to know what it is, but [[!Players/Naomi\|Naomi]] seems to see something rocky in the water heading towards the boat, with the storm following.  
-	[[!Players/Naomi\|Naomi]] calls the alarm, seemingly alerting it to our presence. 
+	The awake members are alerted to the beginning of a storm, and see something rapidly approaching the vessel. 
+	[[!Players/Texaqou Squall\|Texaqou Squall]] does not know what it is, but [[!Players/Naomi\|Naomi]] seems to see something rocky in the water heading towards the boat, with the storm following.  
+	[[!Players/Naomi\|Naomi]] calls the alarm, alerting it to our presence. 
 - A few minutes later
-	We feel the ship jolt, as something hits the ship. Elementals descend, but [[!Players/Texaqou Squall\|Texaqou Squall]] (with [[!Players/Naomi\|Naomi]] and [[!Players/Tarx\|Tarx]] as backup) dances the air spirits into pure air. The gigantic turtle stops the ship completely, and raises his head above the ship. Its head is three times the size of the entire ship.
-	As their dance completes, the air elementals dissipate and the turtles speak. 
+	The storm grows close, but the ship enters the eye of the storm as we feel the entire ship jolt because something hits it from below. Elementals begin to descend from the sky, but [[!Players/Texaqou Squall\|Texaqou Squall]] (with [[!Players/Naomi\|Naomi]] and [[!Players/Tarx\|Tarx]] as backup) dance the air spirits into pure air. The gigantic turtle stops us completely, and raises his head above the ship. Its head is three times the size of the entire ship.
+	As their dance completes, the air elementals dissipate and the turtle speaks. 
 	 "Long has it been since I have seen the language of my ancestors. You have my great appreciation."
 	 "Do not lose your ancestry as I have. You do your people a great honor."
 	The Great Turtle leaves, and the storm dissipates.
@@ -220,7 +220,7 @@ The Heist
 	They are apparently members of the [[NPCs/Groups/Fallion's Brigade\|Fallion's Brigade]], the strongest pirate force in all of Pulchra Terra. There appears to be 5 [[Worldly Possessions/Vehicles/Waterborne/Pirate Sloop\|Sloops]] and 2 [[Worldly Possessions/Vehicles/Waterborne/Pirate Schooner\|Pirate Marauders]]
 	The pirates blow low horns, and turn towards our merchant ship.
 	They surround our vessel, and call out to anchor our ship.
-	[[NPCs/Captain Philbarry\|Captain Philbarry]] drifts the ship, skipping over one of the [[Worldly Possessions/Vehicles/Waterborne/Pirate Schooner\|Pirate Marauders]] sinking it instantly, and combat begins.
+	[[NPCs/Captain Philbarry\|Captain Philbarry]] panics, and drifts the ship skipping over one of the [[Worldly Possessions/Vehicles/Waterborne/Pirate Schooner\|Pirate Marauders]] nearly sinking it instantly, and combat begins.
  - Combat
 	The [[Worldly Possessions/Vehicles/Waterborne/Merchant Ship\|Merchant Ship]] blows apart two ships, [[!Players/Yunai\|Yunai]] finishes sinking the ship we ran over, and [[!Players/Tarx\|Tarx]] disables the steering of one of the ships by assassinating two of their commanders.
 	[[!Players/Texaqou Squall\|Texaqou Squall]] intimidates their fleet, causing them to allow us to flee from combat.

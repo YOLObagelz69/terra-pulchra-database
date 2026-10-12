@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/chain-franchises/celestial-trees/","tags":["Location","Lore"],"updated":"2026-10-04T11:53:25.946-07:00","dg-note-properties":{"tags":["Location","Lore"],"aliases":["Celestial Tree","Tree","Trees","The Deer","The Bear","The Octopus","The Bird","Celestial Beast","Celestial Beasts","Beasts"]}}
+{"dg-publish":true,"permalink":"/locations/chain-franchises/celestial-trees/","tags":["Location","Lore"],"updated":"2026-10-11T14:58:45.013-07:00","dg-note-properties":{"tags":["Location","Lore"],"aliases":["Celestial Tree","Tree","Trees","The Deer","The Bear","The Octopus","The Bird","Celestial Beast","Celestial Beasts","Beasts"]}}
 ---
 
 #### The Trees
@@ -17,11 +17,11 @@ Locations
 	Deep within the [[Locations/Oceans and Seas/Inanis Ocean\|Inanis Ocean]]. Exact location is not yet known.
 
 ---
-#### The Animals
+#### The Beasts
 
 ---
 
-Each tree has a Celestial Beast that acts as a conduit for the tree's power. Upon the death of an avatar, the tree and all life around it dies rapidly, with it having only been ~30 hours before the tree in the [[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] wilted and died after the poa[[Locations/Chain Franchises/Celestial Trees\|The Bird]]he Bird]]. 
+Each tree has a Celestial Beast that acts as a conduit for the tree's power. Upon the death of an avatar, the tree and all life around it dies rapidly, with it having only been ~30 hours before the tree in the [[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] wilted and died after the poaching of The Bird.
 
 Ordered to be hunted and harvested for specific parts by [[NPCs/Charlie/Charlie\|Charlie]], who seemed to be a middleman for an unknown buyer.
 

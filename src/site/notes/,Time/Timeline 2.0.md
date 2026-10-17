@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-10T15:41:00.171-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-17T13:24:05.835-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -239,5 +239,33 @@ The Heist
 	[[!Players/Tarx\|Tarx]] gets the magic items uncursed. Wow, that was easy!
 	We then decide to go to [[Locations/Chain Franchises/The Exchange\|The Exchange]]. In there we got a new cape, and after that [[!Players/The Players\|The Party]] decide to depart from the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]] to continue their journey to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]].
 ##### Session 5ao
-
-
+- 9:30 - Morning (Cont)
+	More shopping for the party
+- 10:00 - Morning
+	[[!Players/The Players\|The Party]] decides on their path to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]], beginning their journey to [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]] from the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]].
+- The Afternoon
+	[[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Texaqou Squall\|Tex]] have a nice conversation during their travels.
+- 17:00 - Dusk
+	[[!Players/The Players\|The Party]] comes across a ring of tents that a local caravan set up for the evening, and they welcome [[!Players/The Players\|The Party]] into their camp circle.
+###### Aieful 3rd, 8309a - Wharfenn - Waxing Gibbous
+- 5:00 - Dawn
+	[[!Players/Mháthair Nádúr\|Mháthair]] discovers some of our friends have disappeared, and finds a letter from [[NPCs/The White Knight (lol)\|The White Knight (lol)]] explaining where they went. ==🔵When players are missing from the session, their characters will disappear from the party. Their inventory is included, which we would have to work around.==
+	After discovering this new game rule, [[!Players/The Players\|The Party]] heads off on their journey.
+- Later
+	After some inspection, [[!Players/Mháthair Nádúr\|Mháthair]] realizes that [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]]'s horses do not seem to be considered beasts. (how odd)
+- 17:00 - Dusk
+	[[!Players/The Players\|The Party]] reaches the outer bounds of [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]].
+	After crossing through border control, we see [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]] in all its glory, a dense populated military city with stone architecture and birch detailing. Every building had a conical roof, and there are bridges connecting almost every building to each other. 
+	We head towards [[The Court\|The Court]], which is a mercenary inn, while [[!Players/Naomi\|Naomi]] and [[!Players/Tarx\|Tarx]] split off to visit the [[WLW Bar\|WLW Bar]].
+- 17:20 - Dusk
+	As soon as they step into [[The Court\|The Court]], [[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Texaqou Squall\|Tex]] are caught by an orcish projectile and launched out of a window. After [[!Players/Texaqou Squall\|Tex]] climbs off the unconscious orc and once he helps [[!Players/Mháthair Nádúr\|Mháthair]] get the unconscious orc off on top of her, she heals him and they prop him under a window sill. 
+	After this, they are then joined by [[!Players/Naomi\|Naomi]] back inside. She gives a very tired [[!Players/Mháthair Nádúr\|Mháthair]] directions to the [[WLW Bar\|WLW Bar]] to leave and rest for the evening. 
+	[[!Players/Texaqou Squall\|Texaqou]] is roped into a rigged bar fight for a free room in [[The Court\|The Court]], with the bartender putting a shitload of coin on his name. 
+	As [[!Players/Mháthair Nádúr\|Mháthair]] is leaving, [[!Players/Naomi\|Naomi]] asks her for some coin to bet and she gives her 5 platinum. (this is important)
+- 17:40 - Dusk
+	After a kickass fight, [[!Players/Texaqou Squall\|Texaqou Squall]] slaughters an Oni and wins the party 45/1 odds in what they bet. The bartender offers free room and board to [[!Players/The Players\|The Party]] for life.
+- 18:00 - Night
+	[[!Players/Naomi\|Naomi]] finds [[!Players/Mháthair Nádúr\|Mháthair]] in her room in the [[WLW Bar\|WLW Bar]], and gives the 2,250 gold she made off of her 5 platinum bet, and immediately goes to bed while a baffled [[!Players/Mháthair Nádúr\|Mháthair]] tries to figure out how that much money was made.
+##### Session 6ao
+###### Aieful 4th, 8309a - Ferun - Full Moon
+- 

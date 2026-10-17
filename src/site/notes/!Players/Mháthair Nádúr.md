@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-11T14:53:04.143-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-17T00:17:24.335-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
 A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Pulchra Terra searching for information about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
@@ -8,14 +8,15 @@ In combat she excells at long distance healing, managing to effectively stave de
 
 
 
-28.5/200 Hours spent researching Subclass Tome
+39.5/200 Hours spent researching Subclass Tome
 	+3 - on the way from nemoros
 	+8 - while sailing to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
-	+4 - while sailing  to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
+	+4 - while sailing to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 	+6 - again.
 	+3 - yeah.
 	+4.5 - On the roof of the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]]
-	
+	+5 - while camping on the travels to [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]]
+	+6 - while resting in the [[WLW Bar\|WLW Bar]]
 
 
 #### Project Save the World

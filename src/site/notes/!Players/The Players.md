@@ -14,4 +14,4 @@ The players are able to gain Destiny Abilities when certain players are separate
 [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]]
 
 Free room and board
-	[[The Court\|The Court]]
+	[[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/The Court\|The Court]]

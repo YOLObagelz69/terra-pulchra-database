@@ -5,7 +5,7 @@
 A region within the continent of [[Locations/Continent of Cauldear/Cauldear\|Cauldear]].
 
 
-Notable city is [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]]. 
+Notable city is [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]]. 
 
 Ports
 	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]

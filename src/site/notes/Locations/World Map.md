@@ -41,7 +41,7 @@ The world, and everything inside.
 	[[Locations/Continent of Cauldear/Region of Cyllvarr/North Star\|North Star]]
 	[[Locations/Continent of Cauldear/Region of Cyllvarr/Soaring Peaks\|Soaring Peaks]]
 - [[Locations/Continent of Cauldear/Region of Cynndarr/Cynndarr\|Cynndarr]]
-	[[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]]
+	[[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]]
 	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 - [[Locations/Continent of Cauldear/Region of Fallzeer/Fallzeer\|Fallzeer]]
 	[[Locations/Continent of Cauldear/Region of Fallzeer/Fate\|Fate]]

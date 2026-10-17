@@ -15,8 +15,8 @@ In combat she excells at long distance healing, managing to effectively stave de
 	+6 - again.
 	+3 - yeah.
 	+4.5 - On the roof of the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]]
-	+5 - while camping on the travels to [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite\|Parfaite]]
-	+6 - while resting in the [[WLW Bar\|WLW Bar]]
+	+5 - while camping on the travels to [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]]
+	+6 - while resting in the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]]
 
 
 #### Project Save the World

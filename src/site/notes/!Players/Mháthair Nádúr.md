@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-17T00:17:24.335-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-23T10:03:29.109-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
 A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Pulchra Terra searching for information about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
@@ -29,7 +29,7 @@ She stumbles upon a small group of men being assaulted by a crowd of orcs, and a
 4:30 - Night
 	An ominous vision is sent to [[!Players/Mháthair Nádúr\|Mháthair]] about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. In this vision she watches [[Locations/Chain Franchises/Celestial Trees\|The Bird]] perish to hunters, so [[!Players/The Players\|The Party]] decides to finally go to the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]]
 5:30 - Morning
-	The Party arrive at the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]], but after a tense conversation with the rude clerk [[!Players/Mháthair Nádúr\|Mháthair]] backs off and leaves. [[!Players/Naomi\|Naomi]] has a conversation posing as a buyer and gains information on the whereabouts of the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] and what the contractor wants from them.
+	The Party arrive at the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]], but after a tense conversation with the rude clerk [[!Players/Mháthair Nádúr\|Mháthair]] backs off and leaves. [[!Players/Noémie\|Noémie]] has a conversation posing as a buyer and gains information on the whereabouts of the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] and what the contractor wants from them.
 15:00 - Afternoon
 	Everyone meets back at the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]], and after a team meeting the party decides to break into the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] for information.
 17:00 - Dusk

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-17T13:24:05.835-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-23T10:03:30.142-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -53,7 +53,7 @@ Campaign began.
 	met [[NPCs/Bernal\|Bernal]]
 ###### Formund 19th, 8309a - Ferun - Waning Gibbous
 Mansion dwelling for food and the Destiny that Binds us
-	The floor collapsed on top of [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] and [[!Players/Naomi\|Naomi]] (Thanks [[!Players/Yunai\|Yunai]]).
+	The floor collapsed on top of [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] and [[!Players/Noémie\|Noémie]] (Thanks [[!Players/Yunai\|Yunai]]).
 	During the evening, the party was transported to the [[Locations/Night Realm/Night Realm\|Night Realm]], and met [[NPCs/The White Knight (lol)\|The White Knight (lol)]]. Here we purchased a magic item or two from his market, and we explored the realm a bit.
 ###### Formund 20th, 8309a - Sokturay - Waning Crescent
 - Morning: 
@@ -107,7 +107,7 @@ The Heist
 	Waiting until the afternoon, the party meets in [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Jerome's Smithy\|Jerome's Smithy]] and waits for the group to arrive. After a while, [[NPCs/Denim & Iuanus\|Denim and Iuanus]] arrive, followed by [[NPCs/Tenn\|Tenn]] and [[NPCs/Squeezy\|Squeezy]]. 
 	After several hours, the party becomes suspicious of [[NPCs/Bark\|Bark]] and [[NPCs/Orion\|Orion's]] absence and begin scouting for police in case the mole would have snitched. This quickly resolves, as [[NPCs/Charlie/Charlie\|Charlie's]] [[NPCs/Groups/The Coalborne Guard\|Coalborne Guard]] arrives at [[NPCs/Fatebound/Jerome\|Jerome's]] home and announce their intentions to capture the crew. With quick thinking, [[!Players/Mháthair Nádúr\|Mháthair]] wild-shapes the biggest members of the party into moths to ride on [[!Players/Texaqou Squall\|Tex's]] shoulders, and the rest of the crew climb into [[NPCs/Fatebound/Jerome\|Jerome's]] hidden escape tunnel. This does not work as planned, and two [[NPCs/Charlie/Coalborne Paladin\|Obidian Paladins]] discovered the entrance and informed the rest of the guard. 
 	Large fight/escape ensues.
-	[[!Players/Naomi\|Naomi]] manages herself, but immediately after the rest of the gang regroup at the end of the tunnel, the [[NPCs/Charlie/Coalborne Captain\|Coalborne Captain]] erupts with an incredible energy, nearly instantly killing everyone within the blast. [[NPCs/Fatebound/Jerome\|Jerome]] grabs [[!Players/Mháthair Nádúr\|Mháthair]] and [[NPCs/Mother Miranda\|Mother Miranda]] onto his shoulders and sprints away. With a speed boost from [[!Players/Mháthair Nádúr\|Mháthair]], [[NPCs/Fatebound/Jerome\|Jerome]] nearly manages to run away, but the [[NPCs/Charlie/Coalborne Captain\|Captain]] pulls a spinning move attempting to annihilate the escaping group. With some quick movement, [[!Players/Mháthair Nádúr\|Mháthair]] casts Hold Person and manages to freeze him for a few seconds before he can strike again. [[!Players/John\|John]], perishing under the effects of the [[Lore/Soul Fire\|Soul Fire]] from the first eruption, is barely revived in time by [[NPCs/Mother Miranda\|Mother Miranda]]. After this, they scatter into the wind attempting to evade [[NPCs/Groups/The Coalborne Guard\|The Coalborne Guard]]. 
+	[[!Players/Noémie\|Noémie]] manages herself, but immediately after the rest of the gang regroup at the end of the tunnel, the [[NPCs/Charlie/Coalborne Captain\|Coalborne Captain]] erupts with an incredible energy, nearly instantly killing everyone within the blast. [[NPCs/Fatebound/Jerome\|Jerome]] grabs [[!Players/Mháthair Nádúr\|Mháthair]] and [[NPCs/Mother Miranda\|Mother Miranda]] onto his shoulders and sprints away. With a speed boost from [[!Players/Mháthair Nádúr\|Mháthair]], [[NPCs/Fatebound/Jerome\|Jerome]] nearly manages to run away, but the [[NPCs/Charlie/Coalborne Captain\|Captain]] pulls a spinning move attempting to annihilate the escaping group. With some quick movement, [[!Players/Mháthair Nádúr\|Mháthair]] casts Hold Person and manages to freeze him for a few seconds before he can strike again. [[!Players/John\|John]], perishing under the effects of the [[Lore/Soul Fire\|Soul Fire]] from the first eruption, is barely revived in time by [[NPCs/Mother Miranda\|Mother Miranda]]. After this, they scatter into the wind attempting to evade [[NPCs/Groups/The Coalborne Guard\|The Coalborne Guard]]. 
 ##### Session 1po
 ###### Augry 21st, 8309a - Saurfay - Waxing Crescent
 - Morning
@@ -122,9 +122,9 @@ The Heist
 - 4:30 - Night
 	An ominous vision is sent to [[!Players/Mháthair Nádúr\|Mháthair]] about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. In this vision she watches [[Locations/Chain Franchises/Celestial Trees\|The Bird]] perish to hunters, so [[!Players/The Players\|The Party]] decides to finally go to the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] for [[!Players/Mháthair Nádúr\|Mhathair's]] ==Save the World== quest. [[!Players/Texaqou Squall\|Texaqou Squall]] is pulled over for speeding by some guards on the way to the guild.
 - 5:30 - Morning
-	The Party arrive at the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]], but after a tense conversation with the rude clerk [[!Players/Mháthair Nádúr\|Mháthair]] backs off and leaves. [[!Players/Naomi\|Naomi]] has a conversation posing as a buyer and gains information on the whereabouts of the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] and what the contractor wants from them. Upon leaving, the security stick leaves the premises and alerts the guards (Thanks [[!Players/Yunai\|Yunai]]). 
+	The Party arrive at the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]], but after a tense conversation with the rude clerk [[!Players/Mháthair Nádúr\|Mháthair]] backs off and leaves. [[!Players/Noémie\|Noémie]] has a conversation posing as a buyer and gains information on the whereabouts of the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] and what the contractor wants from them. Upon leaving, the security stick leaves the premises and alerts the guards (Thanks [[!Players/Yunai\|Yunai]]). 
 - 6:30 - Morning
-	The arrested party ([[!Players/Eleanor\|Eleanor]], [[!Players/John\|John]], [[!Players/Tarx\|Tarx]], [[!Players/Naomi\|Naomi]], and [[NPCs/Fatebound/Mariachi\|Mariachi]]) are confronted by four [[NPCs/Charlie/Coalborne Paladin\|Coalborne Paladins]]. The city guards give them up, and initiative begins.
+	The arrested party ([[!Players/Eleanor\|Eleanor]], [[!Players/John\|John]], [[!Players/Tarx\|Tarx]], [[!Players/Noémie\|Noémie]], and [[NPCs/Fatebound/Mariachi\|Mariachi]]) are confronted by four [[NPCs/Charlie/Coalborne Paladin\|Coalborne Paladins]]. The city guards give them up, and initiative begins.
 - ~6:32 - Morning
 	The party escapes the guards by scattering and other various bullshit. During this, [[!Players/Mháthair Nádúr\|Mháthair]] goes on a lovely shopping trip, and [[!Players/Texaqou Squall\|Texaqou Squall]] goes to the library. 
 - 15:00 - Afternoon
@@ -175,7 +175,7 @@ The Heist
 	When the dust settles, the party begins their rest, and are transported into the [[Locations/Night Realm/Night Realm\|Night Realm]]. They have many questions for the [[NPCs/The White Knight (lol)\|The White Knight (lol)]], but he intentionally remains cryptic and answers each very carefully. He reveals that the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] are pillars of life that hold a barrier to repel the effects of an extremely powerful comet that comes by every 500 years. This comet seems to have the power to grant miracles, but without the trees the power emitted by the comet would be so great that anyone could potentially wish for anything, no matter how strong. Inquiring further, [[NPCs/The White Knight (lol)\|The White Knight (lol)]] shows [[!Players/Mháthair Nádúr\|Mháthair]] a distant purple streak in the sky, revealing it to be the [[Events/Elon-Dae Comet\|Elon-Dae Comet]]. He also tells her that the comet will be returning soon, potentially within a year of time.
 	Bothered by this, [[!Players/Mháthair Nádúr\|Mháthair]] decides to explore the realm again, visiting some of the many visions of other people in the world connected to [[!Players/The Players\|The Party]]. While exploring, she finds a gigantic black door. Upon her reaching out for it, [[NPCs/The White Knight (lol)\|The White Knight (lol)]] grows concerned and watches her intently. When [[!Players/Mháthair Nádúr\|Mháthair]] opens the door she finds a dark, monochrome realm with miles of rocky terrain and a dark sky leaking blobs of shadowy ink. In the distance resides a ginormous black dragon resting on a pillar of stone. When their eyes meet [[!Players/Mháthair Nádúr\|Mháthair]] hears a deep, booming voice in her head beckoning for her to enter his realm. She politely declines, and nervously makes her way back to the camp.
 	When she returns, [[NPCs/The White Knight (lol)\|The White Knight (lol)]] informs her that he has no idea who that is, nor how he has access to the [[Locations/Night Realm/Night Realm\|Night Realm]]. He expresses concern with [[!Players/The Players\|The Party]] interacting with him, but says that for now he seems to pose no direct threat to us.
-	During this, [[!Players/Texaqou Squall\|Texaqou Squall]] does his full moon ritual dance (intended for earlier, before the night shifted), unaware of [[!Players/Naomi\|Naomi]] watching and recording his moves.
+	During this, [[!Players/Texaqou Squall\|Texaqou Squall]] does his full moon ritual dance (intended for earlier, before the night shifted), unaware of [[!Players/Noémie\|Noémie]] watching and recording his moves.
 - 08:00 - Morning
 	[[!Players/The Players\|The Party]] awaken on the deck of the ship, and realize that when they visit the [[Locations/Night Realm/Night Realm\|Night Realm]] their bodies physically go there, not just their minds.
 ##### Session 4ao
@@ -194,10 +194,10 @@ The Heist
 	We board the ship, and we split off to train and read individually for the rest of the day. 
 - 18-19:00 - Evening
 	The awake members are alerted to the beginning of a storm, and see something rapidly approaching the vessel. 
-	[[!Players/Texaqou Squall\|Texaqou Squall]] does not know what it is, but [[!Players/Naomi\|Naomi]] seems to see something rocky in the water heading towards the boat, with the storm following.  
-	[[!Players/Naomi\|Naomi]] calls the alarm, alerting it to our presence. 
+	[[!Players/Texaqou Squall\|Texaqou Squall]] does not know what it is, but [[!Players/Noémie\|Noémie]] seems to see something rocky in the water heading towards the boat, with the storm following.  
+	[[!Players/Noémie\|Noémie]] calls the alarm, alerting it to our presence. 
 - A few minutes later
-	The storm grows close, but the ship enters the eye of the storm as we feel the entire ship jolt because something hits it from below. Elementals begin to descend from the sky, but [[!Players/Texaqou Squall\|Texaqou Squall]] (with [[!Players/Naomi\|Naomi]] and [[!Players/Tarx\|Tarx]] as backup) dance the air spirits into pure air. The gigantic turtle stops us completely, and raises his head above the ship. Its head is three times the size of the entire ship.
+	The storm grows close, but the ship enters the eye of the storm as we feel the entire ship jolt because something hits it from below. Elementals begin to descend from the sky, but [[!Players/Texaqou Squall\|Texaqou Squall]] (with [[!Players/Noémie\|Noémie]] and [[!Players/Tarx\|Tarx]] as backup) dance the air spirits into pure air. The gigantic turtle stops us completely, and raises his head above the ship. Its head is three times the size of the entire ship.
 	As their dance completes, the air elementals dissipate and the turtle speaks. 
 	 "Long has it been since I have seen the language of my ancestors. You have my great appreciation."
 	 "Do not lose your ancestry as I have. You do your people a great honor."
@@ -230,7 +230,7 @@ The Heist
 	[[!Players/The Players\|The Party]] and [[NPCs/Captain Philbarry\|Captain Philbarry's]] [[Worldly Possessions/Vehicles/Waterborne/Merchant Ship\|Merchant Ship]] arrive at the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]].
 	We go to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]] for our evening.
 	[[!Players/Texaqou Squall\|Texaqou Squall]] haggles over a room costing 2 silver. The innkeeper challenges to make him laugh, and if he can then [[!Players/Texaqou Squall\|Tex]] gets a free night. [[!Players/Texaqou Squall\|Texaqou]] does so poorly that the innkeeper pays him to leave his establishment.
-	[[!Players/Naomi\|Naomi]] searches for a one night stand to feed off of. The victim was very drunk during the act. ([[!Players/Naomi\|Naomi]] consent issues strike again)
+	[[!Players/Noémie\|Noémie]] searches for a one night stand to feed off of. The victim was very drunk during the act. ([[!Players/Noémie\|Noémie]] consent issues strike again)
 ###### Aieful 2nd, 8309a - Torthul - Waxing Crescent
 - 9:00 - Morning
 	When [[!Players/The Players\|The Party]] meet up in the morning, they decide to go shopping. [[!Players/Tarx\|Tarx]] finds some cursed magic items in an antique shop. After a ton of haggling, we got the price down to 600gp.
@@ -256,16 +256,16 @@ The Heist
 - 17:00 - Dusk
 	[[!Players/The Players\|The Party]] reaches the outer bounds of [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]].
 	After crossing through border control, we see [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]] in all its glory, a dense populated military city with stone architecture and birch detailing. Every building had a conical roof, and there are bridges connecting almost every building to each other. 
-	We head towards [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/The Court\|The Court]], which is a mercenary inn, while [[!Players/Naomi\|Naomi]] and [[!Players/Tarx\|Tarx]] split off to visit the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]].
+	We head towards [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/The Court\|The Court]], which is a mercenary inn, while [[!Players/Noémie\|Noémie]] and [[!Players/Tarx\|Tarx]] split off to visit the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]].
 - 17:20 - Dusk
 	As soon as they step into [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/The Court\|The Court]], [[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Texaqou Squall\|Tex]] are caught by an orcish projectile and launched out of a window. After [[!Players/Texaqou Squall\|Tex]] climbs off the unconscious orc and once he helps [[!Players/Mháthair Nádúr\|Mháthair]] get the unconscious orc off on top of her, she heals him and they prop him under a window sill. 
-	After this, they are then joined by [[!Players/Naomi\|Naomi]] back inside. She gives a very tired [[!Players/Mháthair Nádúr\|Mháthair]] directions to the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]] to leave and rest for the evening. 
+	After this, they are then joined by [[!Players/Noémie\|Noémie]] back inside. She gives a very tired [[!Players/Mháthair Nádúr\|Mháthair]] directions to the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]] to leave and rest for the evening. 
 	[[!Players/Texaqou Squall\|Texaqou]] is roped into a rigged bar fight for a free room in [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/The Court\|The Court]], with the bartender putting a shitload of coin on his name. 
-	As [[!Players/Mháthair Nádúr\|Mháthair]] is leaving, [[!Players/Naomi\|Naomi]] asks her for some coin to bet and she gives her 5 platinum. (this is important)
+	As [[!Players/Mháthair Nádúr\|Mháthair]] is leaving, [[!Players/Noémie\|Noémie]] asks her for some coin to bet and she gives her 5 platinum. (this is important)
 - 17:40 - Dusk
 	After a kickass fight, [[!Players/Texaqou Squall\|Texaqou Squall]] slaughters an Oni and wins the party 45/1 odds in what they bet. The bartender offers free room and board to [[!Players/The Players\|The Party]] for life.
 - 18:00 - Night
-	[[!Players/Naomi\|Naomi]] finds [[!Players/Mháthair Nádúr\|Mháthair]] in her room in the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]], and gives the 2,250 gold she made off of her 5 platinum bet, and immediately goes to bed while a baffled [[!Players/Mháthair Nádúr\|Mháthair]] tries to figure out how that much money was made.
+	[[!Players/Noémie\|Noémie]] finds [[!Players/Mháthair Nádúr\|Mháthair]] in her room in the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]], and gives the 2,250 gold she made off of her 5 platinum bet, and immediately goes to bed while a baffled [[!Players/Mháthair Nádúr\|Mháthair]] tries to figure out how that much money was made.
 ##### Session 6ao
 ###### Aieful 4th, 8309a - Ferun - Full Moon
 - 

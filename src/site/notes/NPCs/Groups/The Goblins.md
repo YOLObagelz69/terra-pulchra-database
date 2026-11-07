@@ -13,4 +13,4 @@ Hobgoblins
 
 
 
-They at least tolerate the residents of [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]], and are allied with the main player party
+They at least tolerate the residents of [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]], and are allied with the main player party

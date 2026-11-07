@@ -7,4 +7,4 @@ They are not government funded, so their methods are... uncouth. If you attempt 
 
 
 Locations:
-	[[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]

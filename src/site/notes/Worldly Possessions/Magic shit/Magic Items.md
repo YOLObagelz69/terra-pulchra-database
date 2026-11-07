@@ -28,7 +28,7 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	The wearer gains +2 to any projectile attacks and damage. They used to be cursed, preventing any projectile attacks to be made, but this has been resolved.
 - Cask of Preserving - [[!Players/Eleanor\|Eleanor]] Family Home
 	Similar to bag of holding, but specifically for food. Preserves any organics inside as though frozen in time.
-- Cape of Foresight - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
+- Cape of Foresight - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] ==WIP==
 	checks creature's health
 - Cloak of Damage Resistances - [[!Players/Eleanor\|Eleanor]] Family Home ==WIP==
 	does somfin
@@ -53,9 +53,9 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 - Leek Quarterstaff - Random encounter by [[NPCs/Fatebound/Mariachi\|Mariachi]]
 	+2 to spell attack, with a built in spell
 		 6th lvl Moon Beam, fires directionally from the staff, requires a turn to charge
-- Living Armor - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
+- Living Armor - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] ==WIP==
 	armah
-- Living Blade - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] ==WIP==
+- Living Blade - Looted from decrepit mansion in [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] ==WIP==
 	swaows
 - Magic Tackle Box - Bought from [[Locations/Chain Franchises/The Exchange\|The Exchange]] in [[Locations/Continent of In-Posterum/Region of Ellorn/Tontoly\|Tontoly]]
 	Replenishes 10 random quality bait every day

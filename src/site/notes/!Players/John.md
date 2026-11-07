@@ -3,7 +3,7 @@
 ---
 
 
-One of the soldiers of [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]], who chose to join our party
+One of the soldiers of [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]], who chose to join our party
 Member of the [[Finivere\|Finivere]] Tribe.
 
 Got a letter to hunt down a member of his tribe who went rogue within [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]]

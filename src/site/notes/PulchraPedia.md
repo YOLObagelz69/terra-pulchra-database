@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-10-17T00:25:00.503-07:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/pulchra-pedia/","tags":["PulchraPediaHome","gardenEntry"],"updated":"2026-11-07T00:46:09.188-08:00","dg-note-properties":{"tags":["PulchraPediaHome","gardenEntry"]}}
 ---
 
 ### Home
@@ -11,7 +11,7 @@ Here you can find a station of important links, but if you already know what you
 If you are bored, there is even a randomize button, if you are feeling lucky!
 ###### Also, if you have any requests for pages that should be included in the front page station for quick access, please let me know.
 #### [[,Time/Timeline 2.0\|Timeline 2.0]]
-[[,Time/Timeline 2.0#Session 5ao\|Last Week's Session]]
+[[,Time/Timeline 2.0#Session 6ao\|Last Week's Session]]
 [[,Time/Timeline 2.0#Campaign History\|Campaign History]]
 [[,Time/Timeline 2.0#Pre-Campaign History\|Pre-Campaign History]]
 #### [[Locations/World Map\|World Map]]
@@ -19,7 +19,7 @@ If you are bored, there is even a randomize button, if you are feeling lucky!
 [[!Players/Battle Perks\|Battle Perks]]
 #### [[NPCs/Non-Player-Characters (NPC's)\|Non-Player-Characters (NPC's)]]
 #### [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]
-#### Items ==WIP (needs new station)==
+#### Items
 [[Worldly Possessions/Magic shit/Magic Items\|Magic Items]]
 [[Worldly Possessions/Magic shit/Orbs of Power\|Orbs of Power]]
 #### [[Recipes-Ingredients/Recipes\|Recipes]]

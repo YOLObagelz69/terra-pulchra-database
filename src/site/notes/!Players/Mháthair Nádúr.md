@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-10-23T10:03:29.109-07:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-11-07T00:48:03.182-08:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
 A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Pulchra Terra searching for information about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
@@ -8,8 +8,8 @@ In combat she excells at long distance healing, managing to effectively stave de
 
 
 
-39.5/200 Hours spent researching Subclass Tome
-	+3 - on the way from nemoros
+62.5/200 Hours spent researching Subclass Tome
+	+3 - on the way from [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]
 	+8 - while sailing to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 	+4 - while sailing to the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 	+6 - again.
@@ -17,6 +17,12 @@ In combat she excells at long distance healing, managing to effectively stave de
 	+4.5 - On the roof of the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star Inn\|South Star Inn]]
 	+5 - while camping on the travels to [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]]
 	+6 - while resting in the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]]
+	+3 - yayayyy Mhathair boon
+	+4 - Traveling to [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]]
+	+6 - Evening after travels to [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]]
+	+8 - In military lodging on the border of [[Locations/Continent of Cauldear/Region of Cynndarr/Cynndarr\|Cynndarr]].
+	+4 - On the road to [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]]
+	
 
 
 #### Project Save the World

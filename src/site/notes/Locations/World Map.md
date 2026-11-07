@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-10-03T11:55:23.022-07:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
+{"dg-publish":true,"permalink":"/locations/world-map/","tags":["Lore","Location/Realm"],"updated":"2026-11-06T20:00:29.049-08:00","dg-note-properties":{"tags":["Lore","Location/Realm"]}}
 ---
 
 The world, and everything inside.
@@ -9,13 +9,13 @@ The world, and everything inside.
 # The Station
 ### Continents
 #### [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]
-- [[Locations/Continent of In-Posterum/Region of Arrana/Arrana\|Arrana]]
-	[[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
-	[[Locations/Continent of In-Posterum/Region of Arrana/Rummulle\|Rummulle]]
-	[[Locations/Continent of In-Posterum/Region of Arrana/The Orange Coast\|The Orange Coast]]
-	[[Locations/Continent of In-Posterum/Region of Arrana/Orikstead\|Orikstead]]
-	[[Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]]
-	[[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
+- [[Locations/Continent of In-Posterum/Region of Arkanas/Arkanas\|Arkanas]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Rummulle\|Rummulle]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/The Orange Coast\|The Orange Coast]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Orikstead\|Orikstead]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Fort Determination\|Fort Determination]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]]
 - [[Locations/Continent of In-Posterum/Region of Oalorial/Oalorial\|Oalorial]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Subregion of The Badlands/The Badlands\|The Badlands]]
 	[[Locations/Continent of In-Posterum/Region of Oalorial/Subregion of The Badlands/Borshoun City\|Borshoun City]]

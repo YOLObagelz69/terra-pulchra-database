@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-11-06T21:18:08.214-08:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-11-07T00:48:29.329-08:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -36,7 +36,7 @@ The [[Lore/Grand War\|Grand War]]
 ###### A few days before Formund 3rd - Moph Session 0  
 During her travels though [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]], [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] encountered a golden bear being hunted by a group of men. She saved [[Locations/Chain Franchises/Celestial Trees\|The Bear]] from the [[Locations/Chain Franchises/Hunter's Guild\|hunters]], and was informed by a [[Mystical Lady\|mystical lady]] of the [[Locations/Chain Franchises/Celestial Trees\|Celestial Beasts']] role in keeping the world coherent. She gifts [[!Players/Mháthair Nádúr\|Mháthair]] an amulet, explaining that there are three other beasts being hunted and encourages her to leave the continent and search for a way to help them.
 ###### Formund 3rd, 8309a - Wharfenn - New Moon - Moph Session 0
-After her few days journey, she finds the hunter's camp and swiftly takes the rest of them out, but finds a piece of paper detailing the information about the hunt. Most importantly however, the contract was assigned by the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], so she gathers onto the hunters' ship and sets sail towards the continent of [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]. 
+After her few days journey, she finds the hunter's camp and swiftly takes the rest of them out, but finds a piece of paper detailing the information about the hunt. Most importantly however, the contract was assigned by the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] of [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]], so she gathers onto the hunters' ship and sets sail towards the continent of [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]. 
 ###### Formund 13th, 8309a - Wharfenn - Waning Gibbous - Moph Session 0
 [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] arrives to [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]] and begins her journey inland. 
 ###### Formund 18th, 8309a - Wharfenn - Full Moon - Pre-Session 1
@@ -48,9 +48,9 @@ After her few days journey, she finds the hunter's camp and swiftly takes the re
 ---
 ###### Formund 18th, 8309a - Wharfenn - Full Moon - Session 1
 Campaign began.
-	Finding [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
+	Finding [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]]
 	assaulted by [[NPCs/Groups/The Goblins\|The Goblins]]
-	met [[NPCs/Bernal\|Bernal]]
+	met [[NPCs/Fatebound/Bernal\|Bernal]]
 ###### Formund 19th, 8309a - Ferun - Waning Gibbous
 Mansion dwelling for food and the Destiny that Binds us
 	The floor collapsed on top of [[!Players/Mháthair Nádúr\|Mháthair Nádúr]] and [[!Players/Noémie\|Noémie]] (Thanks [[!Players/Yunai\|Yunai]]).
@@ -58,28 +58,28 @@ Mansion dwelling for food and the Destiny that Binds us
 ###### Formund 20th, 8309a - Sokturay - Waning Crescent
 - Morning: 
 	Allying the [[NPCs/Groups/The Goblins\|The Goblin Alliance]], and Mob Mentality
-	Evening: [[NPCs/Groups/The Orcs\|Orc]] and Hag Hunting in the swamp (many dead kids (Thanks [[!Players/Yunai\|Yunai]])). Also [[!Players/Eleanor\|Eleanor]] died from divine neglect. The Hag informed us on an attack on [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] that was occurring now, so we ran for 6 hours to get back.
+	Evening: [[NPCs/Groups/The Orcs\|Orc]] and Hag Hunting in the swamp (many dead kids (Thanks [[!Players/Yunai\|Yunai]])). Also [[!Players/Eleanor\|Eleanor]] died from divine neglect. The Hag informed us on an attack on [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] that was occurring now, so we ran for 6 hours to get back.
 ###### Formund 21st, 8309a - Saurfay - New Moon
-The Siege of [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] (and FUCK flashbangs)
+The Siege of [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] (and FUCK flashbangs)
 	[[!Players/The Players\|The Players]] planned to surprise [[NPCs/Groups/The Orcs\|The Orcs]], assaulting the town and demolishing them en masse. [[!Players/Eleanor\|Eleanor]] appeared in a fiery glory, having been offered a second chance by some mysterious fire themed creature. Upon losing, the orcs started throwing their bullshit ass flashbangs and a small party of orcs managed to escape, despite [[!Players/Texaqou Squall\|Texaqou Squall]]'s effort.
-	After the battle, [[!Players/The Players\|The Party]] helped [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] rebuild their walls.
+	After the battle, [[!Players/The Players\|The Party]] helped [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] rebuild their walls.
 ###### ...
 ###### ????
-[[NPCs/Jelesain the Coachman\|Jelesain the Coachman]] gifted us a super horse and a carriage, which became our [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|Trusty Carriage]]. [[NPCs/Bernal\|Bernal]] also gave [[!Players/Texaqou Squall\|Texaqou Squall]] a box with 2000 gold (This will be important), and eventually left [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]] on the journey to [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]].
-###### ???? - Infamous first rest after leaving [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]]
+[[NPCs/Jelesain the Coachman\|Jelesain the Coachman]] gifted us a super horse and a carriage, which became our [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|Trusty Carriage]]. [[NPCs/Fatebound/Bernal\|Bernal]] also gave [[!Players/Texaqou Squall\|Texaqou Squall]] a box with 2000 gold (This will be important), and eventually left [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]] on the journey to [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]].
+###### ???? - Infamous first rest after leaving [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]]
  [[!Players/The Players\|The Party]] is jumped by a gang of [[NPCs/Groups/The Orcs\|Orcs]], and while most fair fine in the fight, [[!Players/Texaqou Squall\|Texaqou Squall]] is beaten to a mulchy pulp. Despite this however, [[!Players/Mháthair Nádúr\|Mháthair]] manages to keep him healed while he distracts an entire [[Orc Captain\|Orc Captain]]
 ###### ...
 ###### ????
-[[Locations/Continent of In-Posterum/Region of Arrana/Fort Determination\|Fort Determination]] and our first Prison Episode
+[[Locations/Continent of In-Posterum/Region of Arkanas/Fort Determination\|Fort Determination]] and our first Prison Episode
 ###### ...
 ###### ????
 Yeti Hunting, and [[!Players/Tarx\|The man who fell from the sky]]
 ###### ...
 ###### ????
-[[Locations/Continent of In-Posterum/Region of Arrana/Orikstead\|Orikstead]]
+[[Locations/Continent of In-Posterum/Region of Arkanas/Orikstead\|Orikstead]]
 ###### ...
 ###### Augry 13th, 8309a - Wharfenn - Waning Crescent
-Entry into [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
+Entry into [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]
 ###### Augry 14th, 8309a - Ferun - New Moon
 The beginning of the [[Events/Nemoros Battle Tournament\|Nemoros Battle Tournament]]
 ###### Augry 15th, 8309a - Sokturay - Waxing Crescent
@@ -104,7 +104,7 @@ The Heist
 ###### Augry 20th, 8309a - Sokturay - New Moon
 - 5:00 - Dawn
 	Having learned of the presence of a mole within the [[NPCs/Groups/Nemoros Freedom Fighters\|Nemoros Freedom Fighters]], [[!Players/The Players\|The Party]] regroup within [[NPCs/Mother Miranda\|Mother Miranda]]'s church. Here, they watch [[NPCs/Mother Miranda\|Mother Miranda]] revive [[NPCs/Fatebound/Jerome\|Jerome]] from the dead, and celebrate his return to life. After this, the party speak privately with Mother on how to continue further. They decide to hold a meeting with the Heist crew from the night before, consisting of [[!Players/The Players\|The Party]], [[NPCs/Fatebound/Jerome\|Jerome]], [[NPCs/Denim & Iuanus\|Denim & Iuanus]], [[NPCs/Tenn\|Tenn]], [[NPCs/Squeezy\|Squeezy]], [[NPCs/Bark\|Bark]] and [[NPCs/Orion\|Orion]]. 
-	Waiting until the afternoon, the party meets in [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Jerome's Smithy\|Jerome's Smithy]] and waits for the group to arrive. After a while, [[NPCs/Denim & Iuanus\|Denim and Iuanus]] arrive, followed by [[NPCs/Tenn\|Tenn]] and [[NPCs/Squeezy\|Squeezy]]. 
+	Waiting until the afternoon, the party meets in [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Jerome's Smithy\|Jerome's Smithy]] and waits for the group to arrive. After a while, [[NPCs/Denim & Iuanus\|Denim and Iuanus]] arrive, followed by [[NPCs/Tenn\|Tenn]] and [[NPCs/Squeezy\|Squeezy]]. 
 	After several hours, the party becomes suspicious of [[NPCs/Bark\|Bark]] and [[NPCs/Orion\|Orion's]] absence and begin scouting for police in case the mole would have snitched. This quickly resolves, as [[NPCs/Charlie/Charlie\|Charlie's]] [[NPCs/Groups/The Coalborne Guard\|Coalborne Guard]] arrives at [[NPCs/Fatebound/Jerome\|Jerome's]] home and announce their intentions to capture the crew. With quick thinking, [[!Players/Mháthair Nádúr\|Mháthair]] wild-shapes the biggest members of the party into moths to ride on [[!Players/Texaqou Squall\|Tex's]] shoulders, and the rest of the crew climb into [[NPCs/Fatebound/Jerome\|Jerome's]] hidden escape tunnel. This does not work as planned, and two [[NPCs/Charlie/Coalborne Paladin\|Obidian Paladins]] discovered the entrance and informed the rest of the guard. 
 	Large fight/escape ensues.
 	[[!Players/Noémie\|Noémie]] manages herself, but immediately after the rest of the gang regroup at the end of the tunnel, the [[NPCs/Charlie/Coalborne Captain\|Coalborne Captain]] erupts with an incredible energy, nearly instantly killing everyone within the blast. [[NPCs/Fatebound/Jerome\|Jerome]] grabs [[!Players/Mháthair Nádúr\|Mháthair]] and [[NPCs/Mother Miranda\|Mother Miranda]] onto his shoulders and sprints away. With a speed boost from [[!Players/Mháthair Nádúr\|Mháthair]], [[NPCs/Fatebound/Jerome\|Jerome]] nearly manages to run away, but the [[NPCs/Charlie/Coalborne Captain\|Captain]] pulls a spinning move attempting to annihilate the escaping group. With some quick movement, [[!Players/Mháthair Nádúr\|Mháthair]] casts Hold Person and manages to freeze him for a few seconds before he can strike again. [[!Players/John\|John]], perishing under the effects of the [[Lore/Soul Fire\|Soul Fire]] from the first eruption, is barely revived in time by [[NPCs/Mother Miranda\|Mother Miranda]]. After this, they scatter into the wind attempting to evade [[NPCs/Groups/The Coalborne Guard\|The Coalborne Guard]]. 
@@ -128,7 +128,7 @@ The Heist
 - ~6:32 - Morning
 	The party escapes the guards by scattering and other various bullshit. During this, [[!Players/Mháthair Nádúr\|Mháthair]] goes on a lovely shopping trip, and [[!Players/Texaqou Squall\|Texaqou Squall]] goes to the library. 
 - 15:00 - Afternoon
-	Everyone meets back at the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]], now discovering that [[NPCs/Charlie/Coalborne Paladin\|Coalborne Paladins]] are now actively patrolling [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]. 
+	Everyone meets back at the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]], now discovering that [[NPCs/Charlie/Coalborne Paladin\|Coalborne Paladins]] are now actively patrolling [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]. 
 	After a team meeting, the party decides to break into the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]] for information.
 - 17:00 - Dusk
 	At dusk, the party breaks in, watching as the clerk lady at the front desk leaves the lobby into a large house/bunk area. The party breaks in, but does not manage to find anything in the lobby relating to [[!Players/Mháthair Nádúr\|Mháthair's]] beast problem.
@@ -136,7 +136,7 @@ The Heist
 	As half the party attempts to intimidate the clerk, 3 [[NPCs/Charlie/Coalborne Paladin\|Coalborne Paladins]] with keys to government buildings sneak into the [[Locations/Chain Franchises/Hunter's Guild\|Hunter's Guild]]. Because of incredible party-wide rolls, no one is seen and the [[NPCs/Charlie/Coalborne Paladin\|Paladins]] leave, but not before revealing their intentions to return in an hour's time. As [[NPCs/Fatebound/Mariachi\|Mariachi]] keeps watch and [[!Players/Mháthair Nádúr\|Mháthair]] searches the rest of the house, the party intimidates the fuck out of the no longer sleeping clerk, gaining information on who ordered the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]] contract. She speaks of a tall, intimidating man dubbed "C" wearing makeshift coal armor whom smelt of brimstone, acting as a middleman for the real buyer; but this is all she knows. After making the fat lady sing, the party bails and returns back to the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] for a long rest.
 ###### Augry 23rd, 8309a - Wharfenn - Full Moon
 - 7:00 - Morning
-	When [[!Players/The Players\|The Party]] awaken, we find [[NPCs/Azuley Alastair\|Azuley Alastair]] at front doors of the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]], inviting [[!Players/The Players\|The Party]] to his quarters. Upon arriving, we enter an elevator that rises up to the top floor of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/The Center of the World\|The Center of the World]]. Upon [[NPCs/Azuley Alastair\|Alastair's]] throne, he explains how [[NPCs/Charlie/Charlie\|Charlie]] has been terrorizing not just [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], but neighboring nations within [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]. Because of this, he offers us help in defeating [[NPCs/Charlie/Charlie\|Charlie]] through the power and influence we would gain by assisting neighboring cities with their issues. After some deliberation, [[!Players/The Players\|The Party]] eventually agrees.
+	When [[!Players/The Players\|The Party]] awaken, we find [[NPCs/Azuley Alastair\|Azuley Alastair]] at front doors of the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]], inviting [[!Players/The Players\|The Party]] to his quarters. Upon arriving, we enter an elevator that rises up to the top floor of [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/The Center of the World\|The Center of the World]]. Upon [[NPCs/Azuley Alastair\|Alastair's]] throne, he explains how [[NPCs/Charlie/Charlie\|Charlie]] has been terrorizing not just [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]], but neighboring nations within [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]]. Because of this, he offers us help in defeating [[NPCs/Charlie/Charlie\|Charlie]] through the power and influence we would gain by assisting neighboring cities with their issues. After some deliberation, [[!Players/The Players\|The Party]] eventually agrees.
 	==New Quest - Assist [[NPCs/Azuley Alastair\|Azuley Alastair]] in [[NPCs/Charlie/Charlie\|Charlie's]] Demise.==
 		- Go to the city of [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]], [[Locations/Continent of Cauldear/Region of Cyllvarr/Cyllvarr\|Cyllvarr]] and assist [[NPCs/Azuley Alastair\|Alastair's]] personal barons to a eliminate dangerous person, and bring back their belongings.
 		- Go to the continent of [[Locations/Continent of Midgard/Midgard\|Midgard]] and find [[Locations/Continent of Midgard/Hearth\|Hearth]]. Speak to [[Jarl Bulgarin\|Jarl Bulgarin]] and inform him we were sent by [[NPCs/The Emperor of Nemoros\|The Emperor of Nemoros]] to find and defeat [[Rylir\|Rylir]].
@@ -148,10 +148,10 @@ The Heist
 - 13:00 - Afternoon
 	[[!Players/The Players\|The Party]] travels to [[Locations/Chain Franchises/The Exchange\|The Exchange]] for a quick shopping trip, and [[!Players/Tarx\|Tarx]] splits to collect her Extravagant Black Ballistic Dress.
 - 14:00 - Afternoon
-	After the shopping, half of [[!Players/The Players\|The Party]] meets at [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/The Coven\|The Coven]] for some alchemy shopping. Here they find a massive rave with a potions/alchemy shop ran by the [[NPCs/Coven Hag\|Coven Hag]]. [[!Players/Mháthair Nádúr\|Mháthair]] purchases a chest of [[Recipes-Ingredients/Crimson Heart\|Crimson Hearts]] and three potion recipes, and politely leaves.
-	After this, the party decides to go to the airship behind [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], but [[!Players/Texaqou Squall\|Texaqou Squall]] tactically returns to the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] to ensure that [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]] was indeed delivered to the ship, meeting a random [[Autistic Child\|Autistic Child]] in the stables.
+	After the shopping, half of [[!Players/The Players\|The Party]] meets at [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/The Coven\|The Coven]] for some alchemy shopping. Here they find a massive rave with a potions/alchemy shop ran by the [[NPCs/Coven Hag\|Coven Hag]]. [[!Players/Mháthair Nádúr\|Mháthair]] purchases a chest of [[Recipes-Ingredients/Crimson Heart\|Crimson Hearts]] and three potion recipes, and politely leaves.
+	After this, the party decides to go to the airship behind [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]], but [[!Players/Texaqou Squall\|Texaqou Squall]] tactically returns to the [[Locations/Chain Franchises/Fighter's Guild\|Fighter's Guild]] to ensure that [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]] was indeed delivered to the ship, meeting a random [[Autistic Child\|Autistic Child]] in the stables.
 - 16:00 - Evening
-	[[!Players/The Players\|The Party]] meets at the back gate in order to go to the [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros Air Strip\|Nemoros Air Strip]]. Here they see a large galleon without masts or sails, but instead with huge purple glowing crystals. Heading this ship is [[NPCs/Captain Leohard\|Captain Leohard]], an 8 feet tall, heavily muscled, traditionally clothed pirate captain complete with a peg leg, parrot, and eye patch covering a completely good eye.
+	[[!Players/The Players\|The Party]] meets at the back gate in order to go to the [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros Air Strip\|Nemoros Air Strip]]. Here they see a large galleon without masts or sails, but instead with huge purple glowing crystals. Heading this ship is [[NPCs/Captain Leohard\|Captain Leohard]], an 8 feet tall, heavily muscled, traditionally clothed pirate captain complete with a peg leg, parrot, and eye patch covering a completely good eye.
 	After much deliberation, [[!Players/The Players\|The Party]] decide on the path they will take on their beautiful quest. They decide to head to [[Locations/Continent of Cauldear/Region of Cyllvarr/Belle\|Belle]], and after persuading the captain they will take a detour to the [[Locations/Continent of In-Posterum/Region of Oalorial/Flava Forest\|Flava Forest]] to investigate the home of [[Locations/Chain Franchises/Celestial Trees\|The Bird]].
 ###### Augry 24th, 8309a - Ferun - Waning Gibbous
 - 20:00/00:00 - Midnight
@@ -274,8 +274,58 @@ The Heist
 	[[!Players/Mháthair Nádúr\|Mháthair]] notices that the animals are bigger, more extravagant and there seems to be a lesser population of predatory animals.
 - 16:00 - Evening
 	Despite [[!Players/Mháthair Nádúr\|Mháthair's]] reservations, [[!Players/Tarx\|Tarx]] and [[!Players/Texaqou Squall\|Tex]] begin hunting local fowl. She feels nature react to to death of the birds differently than within [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]], so she strongly advises against hunting while within [[Locations/Continent of Cauldear/Cauldear\|Cauldear]] unless it is completely necessary. 
+###### Aieful 5th, 8309a - Sokturay - Waning Gibbus
 * 20:00/00:00 - Midnight
 	We enter the [[Locations/Night Realm/Night Realm\|Night Realm]]. We learn that the [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]] is transported with us. [[!Players/Noémie\|Noémie]] asked the [[NPCs/The White Knight (lol)\|The White Knight (lol)]] for ingredients for a lemon meringue pie.
 	She then wandered off and found the [[Locations/Night Realm/Night Realm\|Night Realm]] personal housing. She walked past and chose to leap off the edge of the realm, floating off as though cast off into space.
-	[[!Players/Mháthair Nádúr\|Mháthair]] explores the realm even more. She comes across a standard wooden door. Inside seems to be bookshelves and desks filled with notes and vials. A tall corpse goes around the room attempting to draw something. Near him is a ball that seems to be looking around the room. It focuses on [[!Players/Mháthair Nádúr\|Mháthair]] through the barrier of the realm. The corpse switches his vision and focuses on her as well, and speaks. He is greatly confused, and they have a quick chat. His name is [[Charlemagne\|Charlemagne]], and he says he is residing against his will within a castle in [[Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]]. He bids her farewell, and she closes the door.
-	[[!Players/Tarx\|Tarx]] leads [[!Players/Texaqou Squall\|Texaqou]] into her home, and explains her past. ==Tarxaqou supremacy== !!!
+	[[!Players/Mháthair Nádúr\|Mháthair]] explores the realm even more. She comes across a standard wooden door. Inside seems to be bookshelves and desks filled with notes and vials. A tall corpse goes around the room attempting to draw something. Near him is a ball that seems to be looking around the room. It focuses on [[!Players/Mháthair Nádúr\|Mháthair]] through the barrier of the realm. The corpse switches his vision and focuses on her as well, and speaks. He is greatly confused, and they have a quick chat. His name is [[NPCs/Fatebound/Charlemagne\|Charlemagne]], and he says he is residing against his will within a castle in [[Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]]. He bids her farewell, and she closes the door.
+	[[!Players/Tarx\|Tarx]] leads [[!Players/Texaqou Squall\|Texaqou]] into her home, and explains her tragic past to [[!Players/Texaqou Squall\|Tex]]. ==Tarxaqou supremacy== !!!
+- 6:00 - Morning
+	[[!Players/The Players\|The Party]] wake on the morning of the 5th of Aieful. 
+	[[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Noémie\|Noémie]] speak about [[NPCs/Fatebound/Charlemagne\|Charlemagne]] and their conversation. She speaks of a plan to broil a war to amass the energy of death to open a portal to find her wife. We think [[NPCs/Charlie/Charlie\|Charlie]] is holding him, which is a concerning plot indeed. 
+- 17:00 - Dusk
+	[[NPCs/Fatebound/Mariachi\|Mariachi]] reappears with a coin purse in his mouth. Within it is 3 Night Tokens. Sweet! 
+###### Aieful 6th, 8309a - Saurfay - Waning Crescent
+- 3:00 - Night
+	[[NPCs/Fatebound/Mariachi\|Mariachi]] perks up, and begins barking at an unseen threat. 
+	[[!Players/Mháthair Nádúr\|Mháthair]] attempts to restrain them, but they escape. Combat begins.
+- Combat
+	- One [[NPCs/Charlie/Coalborne Hunter\|Hunters]] throws a deadflame explosion at our cart, massively damaging everything, including our horses and cart. [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]] is also ignited by the fire.
+	- [[!Players/Tarx\|Tarx]] dissipates a [[NPCs/Charlie/Coalborne Hunter\|Hunter's]] trick, and dodges their subsequent attacks.
+	- [[!Players/Noémie\|Noémie]] smells out the [[NPCs/Charlie/Coalborne Hunter\|Hunter]] and reveals his location.
+	- [[!Players/Mháthair Nádúr\|Mháthair]] begins attempting to extinguish the [[Lore/Soul Fire\|Soul Fire]], and fires a healing bubble at [[!Players/Tarx\|Tarx]].
+	- [[!Players/Texaqou Squall\|Tex]] shockwaves the first hunter twice before retreating.
+	- [[NPCs/Fatebound/Mariachi\|Mariachi]] retreats into the forest, and gunfire emanates from the forest, followed by painful yelping.
+	- The [[NPCs/Charlie/Coalborne Hunter\|Coalborne Hunter]] aims at [[!Players/Mháthair Nádúr\|Mháthair]] intending to put her down like an animal, and his crossbow detonates in his hands. The fire does nothing to him, but he is shocked. He then blitzes [[!Players/Noémie\|Noémie]] and misses every swing and then pisses off.
+	- [[!Players/Tarx\|Tarx]] attempts to Fairy Fire him, but he avoids it. She then shoots him for an incredible amount of damage.
+	- An explosion is heard, and [[NPCs/Fatebound/Mariachi\|Mariachi]] yelps in near fatal pain.
+	- [[!Players/Noémie\|Noémie]] speeds towards where [[NPCs/Fatebound/Mariachi\|Mariachi]] was hurt, spotting him in a clearing wounded by the second [[NPCs/Charlie/Coalborne Hunter\|Coalborne Hunter]].
+	- [[!Players/Mháthair Nádúr\|Mháthair]] bubbles [[!Players/Texaqou Squall\|Tex]], commanding him to bring [[NPCs/Fatebound/Mariachi\|Mariachi]] to her. She holds her action to heal the puppy when he arrives.
+	- [[!Players/Texaqou Squall\|Tex]] speeds off and shockwaves the second [[NPCs/Charlie/Coalborne Hunter\|Hunter]]. He grabs [[NPCs/Fatebound/Mariachi\|Mariachi]] and brings him back.
+		- [[!Players/Mháthair Nádúr\|Mháthair]] reacts and heals [[NPCs/Fatebound/Mariachi\|Mariachi]] from deaths door, [[!Players/Texaqou Squall\|Tex]] and [[!Players/Noémie\|Noémie]].
+	- [[!Players/Texaqou Squall\|Tex]] runs off and shoots at the first [[NPCs/Charlie/Coalborne Hunter\|Hunter]].
+	- The [[NPCs/Charlie/Coalborne Hunter\|Hunters]] attempt to teleport away, but despite [[!Players/Noémie\|Noémie's]] intervention they succeed in disappearing.
+	- Combat ends.
+- 4:00 - Night - Post Combat
+	[[!Players/Noémie\|Noémie]] tracks them with her Quarry and confirms that they are holding out in [[Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]].
+	[[!Players/The Players\|The Party]] departs immediately from their camp to make progress to [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]].
+- 17:00 - Dusk
+	A worm fight breaks out
+	[[!Players/Mháthair Nádúr\|Mháthair]] gets to pet a Cauldearian Deer during her watch.
+###### Aieful 7th, 8309a - Torthul - New Moon
+- 5:00 - Dawn
+	[[!Players/Mháthair Nádúr\|Mháthair]] and [[!Players/Tarx\|Tarx]] convince [[NPCs/Fatebound/Mariachi\|Mariachi]] to rest in the cart before [[!Players/The Players\|The Party]] departs.
+- 16:00 - Evening
+	[[!Players/The Players\|The Party]] crosses a bridge and comes across a squad of purple armored people.
+	Border control assesses their cart and allows them through.
+- 16:10 - Evening
+	[[!Players/The Players\|The Party]] are let into a military installation for rest, and [[!Players/The Players\|The Party]] splits up to read and sleep.
+###### Aieful 8th, 8309a - Wharfenn - Waxing Crescent
+- 5:00 - Dawn
+	Oatmeal is made for everybody.
+	[[!Players/The Players\|The Party]] departs from the border, once more on their journey to [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]].
+- 17:00 - Dusk
+	[[!Players/The Players\|The Party]] reaches the gates of [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]]. 
+	Two guards with scary smiles both synchronize a greeting.
+	Session Ends
+##### Session 7ao

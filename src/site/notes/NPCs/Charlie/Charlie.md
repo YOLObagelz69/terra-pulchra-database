@@ -4,7 +4,7 @@
 
 Evil ass sonovabitch
 Wielder of [[Lore/Soul Fire\|Soul Fire]]
-Haunter of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]], but seems to also be assisting them in ways.
+Haunter of [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]], but seems to also be assisting them in ways.
 Leader of the [[NPCs/Groups/The Coalborne Guard\|The Coalborne Guard]]
 
 Has a [[Lore/Charlie's Diary\|diary]], who's pages we've been collecting

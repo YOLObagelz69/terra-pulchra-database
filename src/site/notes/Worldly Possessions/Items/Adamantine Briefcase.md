@@ -3,4 +3,4 @@
 ---
 
 The McGuffin
-Given to [[!Players/Texaqou Squall\|Texaqou Squall]] by his friend [[NPCs/Dustin\|Dustin]] to be delivered to a buyer in [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]. Upon delivering, [[!Players/Texaqou Squall\|Texaqou Squall]] was confronted by [[NPCs/Charlie/Charlie\|Charlie]], who revealed that he was the recipient.
+Given to [[!Players/Texaqou Squall\|Texaqou Squall]] by his friend [[NPCs/Dustin\|Dustin]] to be delivered to a buyer in [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]. Upon delivering, [[!Players/Texaqou Squall\|Texaqou Squall]] was confronted by [[NPCs/Charlie/Charlie\|Charlie]], who revealed that he was the recipient.

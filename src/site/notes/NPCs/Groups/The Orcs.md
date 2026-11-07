@@ -4,4 +4,4 @@
 
 Big green assholes who live in the mountains
 
-Not very happy with [[NPCs/Groups/The Goblins\|The Goblins]], the residents of [[Locations/Continent of In-Posterum/Region of Arrana/Honeywood\|Honeywood]], or the main player party
+Not very happy with [[NPCs/Groups/The Goblins\|The Goblins]], the residents of [[Locations/Continent of In-Posterum/Region of Arkanas/Honeywood\|Honeywood]], or the main player party

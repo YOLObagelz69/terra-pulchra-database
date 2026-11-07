@@ -42,7 +42,7 @@ The world of Pulchra Terra would be barren without the heart and soul being prov
 ### Undefined
 [[NPCs/Azuley Alastair\|Azuley Alastair]]
 [[NPCs/Bark\|Bark]]
-[[NPCs/Bernal\|Bernal]]
+[[NPCs/Fatebound/Bernal\|Bernal]]
 [[NPCs/Captain Leohard\|Captain Leohard]]
 [[NPCs/chaos elemental\|chaos elemental]]
 [[NPCs/Counselor Loe\|Counselor Loe]]

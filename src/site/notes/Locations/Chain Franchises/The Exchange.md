@@ -9,7 +9,7 @@ do not FUCKING piss them off
 
 
 Locations
-	[[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]]
+	[[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]]
 	[[Locations/Continent of In-Posterum/Region of Ellorn/Tontoly\|Tontoly]]
 	[[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]
 	

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/nemoros-battle-tournament/","tags":["Event"],"updated":"2026-10-10T15:22:04.059-07:00","dg-note-properties":{"tags":["Event"]}}
 ---
 
-A three day celebration of [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros']] pride which is held every four years. When the grounds are set, there is a large colosseum surrounded by hundreds of tents filled with food and activities. 
+A three day celebration of [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros']] pride which is held every four years. When the grounds are set, there is a large colosseum surrounded by hundreds of tents filled with food and activities. 
 During each of the three days, the colosseum does not open until the second half of the day, where then the challengers will face off. The first day contains the preliminaries, so the colosseum is not open for the public that day. The second and third days have a few hours of festivities followed by the gates opening and the Tournament beginning.
 
 Placement Rewards
@@ -12,4 +12,4 @@ Placement Rewards
 	2nd Placement - 10,000gp + 10,000 XP
 	1st Placement - 100,000gp + 100,000 XP
 
-Because of the status that [[Locations/Continent of In-Posterum/Region of Arrana/Nemoros/Nemoros\|Nemoros]] holds, the festival grounds around the Tournament are host to myriads of cultures and peoples there to sell, buy and trade exotic goods. 
+Because of the status that [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]] holds, the festival grounds around the Tournament are host to myriads of cultures and peoples there to sell, buy and trade exotic goods. 

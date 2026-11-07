@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-10-23T10:03:30.142-07:00","dg-note-properties":{"tags":["Lore/Time"]}}
+{"dg-publish":true,"permalink":"/time/timeline-2-0/","tags":["Lore/Time"],"updated":"2026-11-06T21:18:08.214-08:00","dg-note-properties":{"tags":["Lore/Time"]}}
 ---
 
 *May The Lord grant me the strength to update this.*
@@ -268,4 +268,14 @@ The Heist
 	[[!Players/Noémie\|Noémie]] finds [[!Players/Mháthair Nádúr\|Mháthair]] in her room in the [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/WLW Bar\|WLW Bar]], and gives the 2,250 gold she made off of her 5 platinum bet, and immediately goes to bed while a baffled [[!Players/Mháthair Nádúr\|Mháthair]] tries to figure out how that much money was made.
 ##### Session 6ao
 ###### Aieful 4th, 8309a - Ferun - Full Moon
-- 
+- 7:00 - Morning
+	[[!Players/Noémie\|Noémie]] eats a suspicious "griffin" omelet that costed 2 gold. 
+	[[!Players/The Players\|The Party]] departs [[Locations/Continent of Cauldear/Region of Cynndarr/Parfaite/Parfaite\|Parfaite]] on the road to [[Locations/Continent of Cauldear/Region of Cyllvarr/Agréable\|Agréable]].
+	[[!Players/Mháthair Nádúr\|Mháthair]] notices that the animals are bigger, more extravagant and there seems to be a lesser population of predatory animals.
+- 16:00 - Evening
+	Despite [[!Players/Mháthair Nádúr\|Mháthair's]] reservations, [[!Players/Tarx\|Tarx]] and [[!Players/Texaqou Squall\|Tex]] begin hunting local fowl. She feels nature react to to death of the birds differently than within [[Locations/Continent of In-Posterum/In-Posterum\|In-Posterum]], so she strongly advises against hunting while within [[Locations/Continent of Cauldear/Cauldear\|Cauldear]] unless it is completely necessary. 
+* 20:00/00:00 - Midnight
+	We enter the [[Locations/Night Realm/Night Realm\|Night Realm]]. We learn that the [[Worldly Possessions/Vehicles/Landlocked/The Party's Trusty Cart\|The Party's Trusty Cart]] is transported with us. [[!Players/Noémie\|Noémie]] asked the [[NPCs/The White Knight (lol)\|The White Knight (lol)]] for ingredients for a lemon meringue pie.
+	She then wandered off and found the [[Locations/Night Realm/Night Realm\|Night Realm]] personal housing. She walked past and chose to leap off the edge of the realm, floating off as though cast off into space.
+	[[!Players/Mháthair Nádúr\|Mháthair]] explores the realm even more. She comes across a standard wooden door. Inside seems to be bookshelves and desks filled with notes and vials. A tall corpse goes around the room attempting to draw something. Near him is a ball that seems to be looking around the room. It focuses on [[!Players/Mháthair Nádúr\|Mháthair]] through the barrier of the realm. The corpse switches his vision and focuses on her as well, and speaks. He is greatly confused, and they have a quick chat. His name is [[Charlemagne\|Charlemagne]], and he says he is residing against his will within a castle in [[Locations/Continent of In-Posterum/Region of Oalorial/Golden Fields\|Golden Fields]]. He bids her farewell, and she closes the door.
+	[[!Players/Tarx\|Tarx]] leads [[!Players/Texaqou Squall\|Texaqou]] into her home, and explains her past. ==Tarxaqou supremacy== !!!

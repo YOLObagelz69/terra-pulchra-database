@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-11-07T00:48:03.182-08:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
+{"dg-publish":true,"permalink":"/players/mhathair-nadur/","tags":["Characters/PC","Characters/Fatebound"],"updated":"2026-11-07T16:08:06.834-08:00","dg-note-properties":{"tags":["Characters/PC","Characters/Fatebound"],"aliases":["Mháthair"],"Player":"Mophy","Birthday":"Effulheim 24th, 7461b - 20/00:00 - Ferun - Full Moon","Age":"848 Years Old"}}
 ---
 
 A niaive druid born in the forests of [[Locations/Continent of Nagare Ni Sakaiatte Tatsue/Nagare Ni Sakaiatte Tatsue\|Nagare Ni Sakaiatte Tatsue]] to a tribe of druidfolk that no longer walk this earth, Mháthair Nádúr spends her time within Pulchra Terra searching for information about the [[Locations/Chain Franchises/Celestial Trees\|Celestial Trees]]. Despite their shared distrust in eachother, Mháthair has managed to become a valued, and even trusted to some, member of the [[!Players/The Players\|Player Party]].
@@ -58,7 +58,7 @@ She stumbles upon a small group of men being assaulted by a crowd of orcs, and a
 	When the air ship grows closer to the hunter's camp, [[!Players/Texaqou Squall\|Texaqou Squall]] and [[!Players/Mháthair Nádúr\|Mháthair]] notice that their lights go out, but they do not see their tents disappear. [[!Players/Mháthair Nádúr\|Mháthair]] notices roughly 12 tents, but even she cannot see how many people are within the group.
 ##### Augry 25th, 8309a - Sokturay - Waning Crescant - Session 4ao
 - 3:00 - Night
-	Mháthair falls asleep, and finds herself in a burning forest. As she walks through a forest trail, she sees dozens of dead orcs. Over time, they become dead [[NPCs/Charlie/Coalborne Hunter\|Paladins]], then [[NPCs/Charlie/Coalborne Hunter\|Hunters]], then they become people she doesn't know, and then members of her tribe, and then finally the corpses of close friends. She turns back, and sees their corpses piled in a massive pile. She looks down to see her hands are bloodied, before hearing an unfamiliar voice from the dark;
+	Mháthair falls asleep, and finds herself in a burning forest. As she walks through a forest trail, she sees dozens of dead orcs. Over time, they become dead [[NPCs/Charlie/Obsidian Hunter\|Paladins]], then [[NPCs/Charlie/Obsidian Hunter\|Hunters]], then they become people she doesn't know, and then members of her tribe, and then finally the corpses of close friends. She turns back, and sees their corpses piled in a massive pile. She looks down to see her hands are bloodied, before hearing an unfamiliar voice from the dark;
 	"It's all your fault."
 	She turns to see a slender woman with a wooden mask and a flaming sword rushing at her.
 	Time slows as adrenalin starts, and their perceptions mingle as she approaches. As she makes contact, Mhathair awakes in a shock.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldly-possessions/magic-shit/magic-items/","tags":["WorldlyPossession/Magic"],"updated":"2026-10-10T15:20:25.880-07:00","dg-note-properties":{"tags":["WorldlyPossession/Magic"]}}
+{"dg-publish":true,"permalink":"/worldly-possessions/magic-shit/magic-items/","tags":["WorldlyPossession/Magic"],"updated":"2026-11-07T16:10:13.653-08:00","dg-note-properties":{"tags":["WorldlyPossession/Magic"]}}
 ---
 
 A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have collected and their sources
@@ -32,10 +32,6 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	checks creature's health
 - Cloak of Damage Resistances - [[!Players/Eleanor\|Eleanor]] Family Home ==WIP==
 	does somfin
-- Coalborne Hunter's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]] ==WIP==
-	
-- Coalborne Paladin's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]] ==WIP==
-	
 - Crossbow of 2x bolts/attack - ??? ==WIP==
 	doe what it says on the tin
 - Endless Decanter - [[Locations/Night Realm/Night Realm\|Night Market]] ==WIP==
@@ -59,6 +55,10 @@ A comprehensive list of Magical Items [[!Players/The Players\|The Players]] have
 	swaows
 - Magic Tackle Box - Bought from [[Locations/Chain Franchises/The Exchange\|The Exchange]] in [[Locations/Continent of In-Posterum/Region of Ellorn/Tontoly\|Tontoly]]
 	Replenishes 10 random quality bait every day
+- Obsidian Hunter's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]] ==WIP==
+	
+- Obsidian Paladin's Armor - Forged by [[NPCs/Fatebound/Jerome\|Jerome]] ==WIP==
+	
 - Pistol Hammer of 2x Shots - ??? ==WIP==
 	When firing, consumes and fires double shots
 - Quickswap (Cape Slot) - Bought from [[Locations/Chain Franchises/The Exchange\|The Exchange]] within the [[Locations/Continent of Cauldear/Region of Cynndarr/South Star/South Star\|South Star]]

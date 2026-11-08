@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/charlie/charlie/","tags":["Groups/CharliesAngels","Characters/NPC"],"updated":"2026-10-23T10:03:31.997-07:00","dg-note-properties":{"tags":["Groups/CharliesAngels","Characters/NPC"],"aliases":["\"C\"","Chuck","Roadkill"]}}
+{"dg-publish":true,"permalink":"/np-cs/charlie/charlie/","tags":["Groups/CharliesAngels","Characters/NPC"],"updated":"2026-11-07T16:08:12.859-08:00","dg-note-properties":{"tags":["Groups/CharliesAngels","Characters/NPC"],"aliases":["\"C\"","Chuck","Roadkill"]}}
 ---
 
 Evil ass sonovabitch
 Wielder of [[Lore/Soul Fire\|Soul Fire]]
 Haunter of [[Locations/Continent of In-Posterum/Region of Arkanas/Nemoros/Nemoros\|Nemoros]], but seems to also be assisting them in ways.
-Leader of the [[NPCs/Groups/The Coalborne Guard\|The Coalborne Guard]]
+Leader of the [[NPCs/Groups/The Obsidian Guard\|The Obsidian Guard]]
 
 Has a [[Lore/Charlie's Diary\|diary]], who's pages we've been collecting
 

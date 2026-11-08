@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/non-player-characters-npc-s/","tags":["Lore","Characters/NPC"],"updated":"2026-09-14T21:44:34.171-07:00","dg-note-properties":{"tags":["Lore","Characters/NPC"]}}
+{"dg-publish":true,"permalink":"/np-cs/non-player-characters-npc-s/","tags":["Lore","Characters/NPC"],"updated":"2026-11-07T16:09:27.892-08:00","dg-note-properties":{"tags":["Lore","Characters/NPC"]}}
 ---
 
 The world of Pulchra Terra would be barren without the heart and soul being provided by the NPCs. This page, how NPCs are tagged, and overall formatting will be subject to change, but will (hopefully) serve as a comprehensive bus for finding any NPC.
@@ -33,11 +33,11 @@ The world of Pulchra Terra would be barren without the heart and soul being prov
 
 - ##### [[NPCs/Groups/The Orcs\|The Orcs]]
 
-- ##### [[NPCs/Groups/The Coalborne Guard\|The Coalborne Guard]]
+- ##### [[NPCs/Groups/The Obsidian Guard\|The Obsidian Guard]]
 	[[NPCs/Charlie/Charlie\|Charlie]]
-	[[NPCs/Charlie/Coalborne Captain\|Coalborne Captain]]
-	[[NPCs/Charlie/Coalborne Hunter\|Coalborne Hunter]]
-	[[NPCs/Charlie/Coalborne Paladin\|Coalborne Paladin]]
+	[[NPCs/Charlie/Obsidian Captain\|Obsidian Captain]]
+	[[NPCs/Charlie/Obsidian Hunter\|Obsidian Hunter]]
+	[[NPCs/Charlie/Obsidian Paladin\|Obsidian Paladin]]
 
 ### Undefined
 [[NPCs/Azuley Alastair\|Azuley Alastair]]
